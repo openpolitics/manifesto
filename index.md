@@ -1,4 +1,7 @@
-# The OpenPolitics Manifesto
+---
+title: The OpenPolitics Manifesto
+layout: page
+---
 
 This is where the actual manifesto will live.
 

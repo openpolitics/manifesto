@@ -1,4 +1,7 @@
-# Authors
+---
+title: Authors
+layout: page
+---
 
 (alphabetical order by surname)
 
