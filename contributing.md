@@ -1,4 +1,7 @@
-# How to contribute
+---
+title: How to contribute
+layout: page
+---
 
 ## Getting Started
 
