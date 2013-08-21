@@ -25,8 +25,7 @@ For now, changes will be merged based on a simple vote in each pull request. Aut
 * All contributions and discussions are public, and should take place as part of a pull request.
 * Plain English is essential - follow the GDS style guide if you can.
 * Make changes small, self-contained, and simple. Large PRs will take a lot longer to get merged. Small is agile.
-* All content is public domain. By submitting a PR, you agree that you are putting your work into the public domain. See [license.md](license.md) for details.
-
+* All content is public domain. By submitting a PR, you agree that you are putting your work into the public domain. See [the full license](/license.html) for details.
 
 ## Help
 
