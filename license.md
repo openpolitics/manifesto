@@ -1,3 +1,8 @@
+---
+title: The Unlicense
+layout: page
+---
+
 These are free and unencumbered ideas, released into the public domain.
 
 Anyone is free to copy, modify, publish, use, implement, better or
