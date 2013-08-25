@@ -11,7 +11,7 @@ The next UK general election is in 2015. We aim to field candidates in that elec
 
 ## The Manifesto
 
-We are writing a manifesto, but we need to build it together. [It's easy to contribute](/contributing.html).
+We are writing a manifesto, but we need to build it together. [It's easy to contribute](contributing.html).
 
 A good way to start might be with some fundamentals. What are our basic tenets?
 
