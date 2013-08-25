@@ -13,7 +13,7 @@ layout: page
 
 If you have direct repository access, you can create a branch in the main repository instead of using a fork.
 
-Don't forget to add yourself to the [authors list](/authors.html) in authors.md!
+Don't forget to add yourself to the [authors list](authors.html) in authors.md!
 
 ## Merging Changes
 
@@ -25,7 +25,7 @@ For now, changes will be merged based on a simple vote in each pull request. Aut
 * All contributions and discussions are public, and should take place as part of a pull request.
 * Plain English is essential - follow the GDS style guide if you can. Try to avoid political weasel-words.
 * Make changes small, self-contained, and simple. Large PRs will take a lot longer to get merged. Small is agile.
-* All content is public domain. By submitting a PR, you agree that you are putting your work into the public domain. See [the full license](/license.html) for details.
+* All content is public domain. By submitting a PR, you agree that you are putting your work into the public domain. See [the full license](license.html) for details.
 
 ## Help
 
