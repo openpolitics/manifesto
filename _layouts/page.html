@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{page.title}}</title>
+  <title>{{site.name}}{% if page.title %}: {{page.title}}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
   <style>
@@ -20,7 +20,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="{{site.baseurl}}">OpenPolitics Manifesto</a>
+        <a class="navbar-brand" href="{{site.baseurl}}/index.html">{{site.name}}</a>
       </div>
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">

@@ -1,1 +1,2 @@
-baseurl: http://openpolitics.github.io/manifesto
+name: OpenPolitics Manifesto
+baseurl: /manifesto
