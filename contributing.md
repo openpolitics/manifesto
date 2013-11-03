@@ -3,29 +3,27 @@ title: How to contribute
 layout: page
 ---
 
-## Getting Started
+1. Get a [GitHub account](https://github.com/signup/free) and log in.
+2. Find the page you want to edit, and click the `Edit` link at the top right.
+3. Make your change in the editor.
+4. Click the Save icon, and enter a descriptive message of your change, and hit `commit`.
 
-1. Get a [GitHub account](https://github.com/signup/free)
-2. Fork the [repository](http://github.com/openpolitics/manifesto).
-3. Create new branch in your fork, named for the change you want to make.
-4. Make your changes on this branch.
-5. Submit a pull request back to the main repository.
+Your change will be entered into a [pull request queue for discussion](https://github.com/openpolitics/manifesto/pulls) 
+before being merged into the master version.
 
-If you have direct repository access, you can create a branch in the main repository instead of using a fork.
-
-Don't forget to add yourself to the [authors list](authors.html) in authors.md!
+If you're more familiar with GitHub, you can of course the normal fork / pull request model.
 
 ## Merging Changes
 
-For now, changes will be merged based on a simple vote in each pull request. Authors of successful pull requests will be given direct repository access, and thus can vote on future changes. This will have to change in future, but will do to start with.
+For now, changes will be merged based on a simple vote in each pull request. Authors of successful changes will be given direct access, and can vote on future changes. This will have to change in future, but will do to start with.
 
 ## The Rules
 
 * *Anything* can be changed.
 * All contributions and discussions are public, and should take place as part of a pull request.
 * Plain English is essential - follow the GDS style guide if you can. Try to avoid political weasel-words.
-* Make changes small, self-contained, and simple. Large PRs will take a lot longer to get merged. Small is agile.
-* All content is public domain. By submitting a PR, you agree that you are putting your work into the public domain. See [the full license](license.html) for details.
+* Make changes small, self-contained, and simple. Large changes will take a lot longer to get merged. Small is agile.
+* All content is public domain. By submitting a change, you agree that you are putting your work into the public domain. See [the full license](license.html) for details.
 
 ## Help
 
