@@ -37,6 +37,7 @@ We are writing a manifesto, but we need to build it together. [It's easy to cont
 * [Military](military.html)
 * [Economy](economy.html)
 * [Democracy](democracy.html)
+* [Communications](communications.html)
 
 Your contribution doesn't have to be huge; we need starting points before we get into all the detail.
 
