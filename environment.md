@@ -32,3 +32,5 @@ such a system and given pollution permits for free, and all polluting activities
 We will campaign within the EU for reform of the EU ETS.
 
 We will push for increased climate action and leadership within all international organisations, such as the EU and UN.
+
+We will mandate solar panels be installed on every house as part of developments of ten homes or more, with excess generation fed into the national grid and the proceeds returned to the homeowners.
