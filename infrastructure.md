@@ -35,6 +35,10 @@ A number of existing organisations are specifically targetted by this policy;
 * Highways Agency
 * Existing Toll Roads
 * Mobile phone masts**
+* State-funded Schools
+* NHS Hospitals, GP surgeries & health centres
+* Prisons, courts
+* Energy generation and distribution (power stations, gas pipes, water pipes etc)
 
 To be an effective policy, it will also cover any organisation performing one of the following functions;
 * operating public rail services
