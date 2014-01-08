@@ -1,6 +1,6 @@
 ---
 title: Transport
-layout: page
+layout: policy
 published: true
 ---
 

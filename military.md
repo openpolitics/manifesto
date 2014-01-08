@@ -1,6 +1,6 @@
 ---
 title: Military
-layout: page
+layout: policy
 published: true
 ---
 

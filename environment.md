@@ -1,6 +1,6 @@
 ---
 title: Environment
-layout: page
+layout: policy
 published: true
 ---
 

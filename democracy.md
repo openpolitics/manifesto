@@ -1,6 +1,6 @@
 ---
 title: Democracy
-layout: page
+layout: policy
 published: true
 ---
 

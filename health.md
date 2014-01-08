@@ -1,6 +1,6 @@
 ---
 title: Health
-layout: page
+layout: policy
 published: true
 ---
 
