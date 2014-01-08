@@ -6,6 +6,35 @@ published: true
 
 What policies should we propose to protect our environment?
 
+## Reducing Carbon Dioxide Emissions
+
+Historically, the UK bears a large portion of blame for the current issue of climate change, and we must take a leadership
+position to show other countries the way forward.
+
+We are committed to meeting (or ideally beating) the emissions target for 2050 set in the Climate Change Act 2008. 
+
+## Carbon Budgets
+
+In order to meet this target, we will create a complete and legally-binding national carbon 
+budget for the entire period up to 2050, so that we reduce uncertainty for investors, businesses,
+and citizens about the route ahead.
+
+## Subsidies
+
+All subsidies and tax breaks for fossil fuel companies will be removed.
+
+## Carbon Rationing
+
+We will introduce a functioning national carbon trading scheme that sets a yearly carbon cap, and provides a 
+market-based means for the country to stay below the cap. Existing polluters will not be 'grandfathered' into 
+such a system and given pollution permits for free, and all polluting activities will be included.
+
+## International Leadership
+
+We will campaign within the EU for reform of the EU ETS.
+
+We will push for increased climate action and leadership within all international organisations, such as the EU and UN.
+
 ## Home Insulation
 
 It’s widely acknowledged that insulation (eg cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
