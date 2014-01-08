@@ -31,10 +31,10 @@ Requiring these will help to ensure NIOs are responsible, transparent businesses
 A number of existing organisations are specifically targetted by this policy;
 * Network Rail
 * Royal Mail
-* BT*
+* BT[1]
 * Highways Agency
 * Existing Toll Roads
-* Mobile phone masts**
+* Mobile phone masts[2]
 * State-funded Schools
 * NHS Hospitals, GP surgeries & health centres
 * Prisons, courts
@@ -44,9 +44,9 @@ To be an effective policy, it will also cover any organisation performing one of
 * operating public rail services
 * operating public bus services
 
-*In the case of BT, the business would be broken up to separate the infrastructure (ducts, cabinets, poles, exchanges) from the commercial business and only the infrastructure side would become subject to the national infrastructure regulation
+1. In the case of BT, the business would be broken up to separate the infrastructure (ducts, cabinets, poles, exchanges) from the commercial business and only the infrastructure side would become subject to the national infrastructure regulation
 
-**In a similar way to BT's telephone infrastructure, mobile operators would be required to transfer their ownership of masts into NIOs with the rest of their business remaining fully private
+2. In a similar way to BT's telephone infrastructure, mobile operators would be required to transfer their ownership of masts into NIOs with the rest of their business remaining fully private
 
 ## A Compromise on Nationalisation
 NIOs are intended to provide the basic infrastructure that is essentially to a functioning society in a way that is protected from the volatility of shareholder whims. They provide the basics for innovators to provide services on top of, and without simply placing the entire service burden onto the state through nationalisation.
