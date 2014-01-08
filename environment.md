@@ -6,8 +6,7 @@ published: true
 
 What policies should we propose to protect our environment?
 
-Policy: Nationwide programme of home insulation installation
-------------------------------------------------------------
+## Home Insulation
 
 It’s widely acknowledged that insulation (eg cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
 
