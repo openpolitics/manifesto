@@ -14,4 +14,4 @@ The personal income tax allowance will be set at the level of a full time living
 
 ## Housing
 
-Stamp Duty on house purchases should be reformed, with purchases tax-free below the 1.5x the national average house price, and a flat 3% tax applied on the amount above that threshold. This is broadly in line with the [recommendations from Stamp Duty Reform UK](http://stampdutyreform.org.uk/stamp-duty-the-future/), except that the threshold is not a fixed number, but is based on the housing market, thus keeping the lower end of the market tax-free in perpetuity.
+Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds based on the regional average house price. Purchases up to the regional average price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate. 
