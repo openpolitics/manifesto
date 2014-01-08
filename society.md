@@ -1,6 +1,6 @@
 ---
 title: Society
-layout: page
+layout: policy
 published: true
 ---
 
