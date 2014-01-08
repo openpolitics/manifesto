@@ -1,3 +1,30 @@
+h1 { 
+  counter-reset: section;
+}
+
+.policy h2:before { 
+  font-style: italic;
+  content: counter(section) ". ";
+}
+
+.policy h2 {
+  counter-increment: section;
+  counter-reset: paragraph;
+}
+
+.policy p {
+  counter-increment: paragraph;
+}
+
+.policy p:before { 
+  font-style: italic;
+  content: counter(section) "." counter(paragraph) ". ";
+}
+
 p:first-child {
   font-size: 21px;
+}
+
+p:first-child:before {
+  content: "";
 }
