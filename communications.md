@@ -1,6 +1,6 @@
 ---
 title: Communications
-layout: page
+layout: policy
 published: true
 ---
 
