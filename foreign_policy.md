@@ -1,6 +1,6 @@
 ---
 title: Foreign Policy
-layout: page
+layout: policy
 published: true
 ---
 

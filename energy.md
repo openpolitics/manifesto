@@ -1,6 +1,6 @@
 ---
 title: Energy
-layout: page
+layout: policy
 published: true
 ---
 

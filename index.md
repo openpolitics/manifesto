@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: homepage
 published: true
 ---
-
-# The OpenPolitics Manifesto
 
 The current political parties in the UK are not serving the public interest. There is not enough choice, little informed debate, and no challenge to the prevailing narrative. Those of us who believe in, and are working towards, a better future have nobody to represent us.
 
@@ -47,3 +45,4 @@ Your contribution doesn't have to be huge; we need starting points before we get
 * [The Geek Manifesto](http://geekmanifesto.wordpress.com/about/) by Mark Henderson
 * [It's Time To Step Up](http://floppy.org.uk/blog/2013/07/05/its-time-to-step-up/) by James Smith
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
+* [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
