@@ -18,5 +18,6 @@ UK Armed Forces should be structured to focus on humanitarian, peace-keeping, pe
 
 All foreign deployment of UK Armed Forces, as well as the use of UK Special Advisors and the provision of military support in foreign conflict zones, should be subject to Parliamentary approval.
 
+## Defence Budget
 
-
+Reviews of defence budgets should be tied to a review of commitments, not just expenditure, to ensure that UK Armed Forces are properly equipped and trained for role our defence and foreign policies are demanding of them.
