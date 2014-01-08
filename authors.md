@@ -3,7 +3,4 @@ title: Authors
 layout: page
 ---
 
-(alphabetical order by surname)
-
-* [Steve Pike](http://github.com/stringfellow)
-* [James Smith](http://github.com/Floppy)
+The OpenPolitics Manifesto has been written by many people. A full list of contributors can be found on [GitHub](https://github.com/openpolitics/manifesto/graphs/contributors).

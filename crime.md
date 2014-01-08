@@ -1,6 +1,6 @@
 ---
 title: Crime & Justice
-layout: page
+layout: policy
 published: true
 ---
 
