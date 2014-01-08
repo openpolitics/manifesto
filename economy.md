@@ -14,4 +14,4 @@ The personal income tax allowance will be set at the level of a full time living
 
 ## Housing
 
-Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds based on the regional average house price. Purchases up to the regional average price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate. 
+Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate. 
