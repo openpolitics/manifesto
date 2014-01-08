@@ -1,6 +1,6 @@
 ---
 title: Environment
-layout: page
+layout: policy
 published: true
 ---
 
@@ -33,8 +33,7 @@ We will campaign within the EU for reform of the EU ETS.
 
 We will push for increased climate action and leadership within all international organisations, such as the EU and UN.
 
-Policy: Nationwide programme of home insulation installation
-------------------------------------------------------------
+## Home Insulation
 
 It’s widely acknowledged that insulation (eg cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
 
