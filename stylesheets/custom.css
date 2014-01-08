@@ -22,7 +22,7 @@ h1 {
 }
 
 p:first-child {
-  font-size: 21px;
+  font-size: 125%;
 }
 
 p:first-child:before {
