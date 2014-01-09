@@ -22,6 +22,10 @@ Much apathy is focused around the perceived privilege of the political class. Th
 
 To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
 
+Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
+
+Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16. 
+
 ## Party Funding
 
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
