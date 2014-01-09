@@ -31,7 +31,7 @@ such a system and given pollution permits for free, and all polluting activities
 
 ## International Leadership
 
-We will campaign within the EU for reform of the EU ETS.
+We will campaign within the EU for reform of the EU ETS (Emissions Trading Scheme).
 
 We will push for increased climate action and leadership within all international organisations, such as the EU and UN.
 
