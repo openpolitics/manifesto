@@ -18,6 +18,10 @@ Investigate feasability of electronic voting at all elections, with a view to in
 
 Investigate feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
+Much apathy is focused around the perceived privilege of the political class. This is reinforced by the costs of attempting to stand for election. In the digital age, where a political campaign can be waged at little to no cost, the £500 deposit required to stand for election excludes some of the most enthusiastic and contributory members of society. These are people who often spent a majority of time volunteering in their community and don't have the income to save for such a high fee. Candidacy should be open to all, regardless of financial wealth, if we are to have an open democracy, so this deposit will be removed.
+
+To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
+
 ## Party Funding
 
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
