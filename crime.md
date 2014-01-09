@@ -4,4 +4,6 @@ layout: page
 published: true
 ---
 
-What policies should we adopt to ensure a fair justice system?
+# Police
+
+All frontline Police officers will be equipped with personal cameras.
