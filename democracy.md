@@ -14,6 +14,10 @@ Introduce an 'None of the Above' box on all ballot papers to formally and positi
 
 Introduce voting by proportional representation (Single Transferable Vote) in all General and Local Elections.
 
+Investigate feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
+
+Investigate feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
+
 ## Party Funding
 
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
@@ -28,4 +32,4 @@ Require all MPs to publish details of any meeting with any individual or group w
 
 ## Devolution
 
-Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
+Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
