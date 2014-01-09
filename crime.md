@@ -4,4 +4,6 @@ layout: page
 published: true
 ---
 
-What policies should we adopt to ensure a fair justice system?
+# Justice
+
+A review will be carried out into the ongoing suitability of juries, especially for complex trials.
