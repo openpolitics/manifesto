@@ -19,6 +19,13 @@ We believe that government should be:
 * Rational, with decisions and policy based on sound evidence, not media pressure
 * Courageous, able to make difficult decisions without pandering to short-termism
 
+We believe that individuals should be:
+
+* Free to act in any manner that does not harm another individual or their property, and does not infringe upon the rights of other individuals.
+* Enjoy a fundamental right to privacy from the state or their agents. 
+
+In short, we wish to ensure government remains open and transparent, whilst individuals retain liberty and privacy.
+
 We believe that we are heading towards a better future, and that government has an essential role in taking us there. We also believe that as a country, we can self-govern *better* in the future, and will create policy that hopes to re-engage citizens in our democratic process.
 
 ## The Manifesto
