@@ -54,3 +54,6 @@ Your contribution doesn't have to be huge; we need starting points before we get
 * [It's Time To Step Up](http://floppy.org.uk/blog/2013/07/05/its-time-to-step-up/) by James Smith
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
 * [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
+* [The Courageous State: Rethinging Economics, Society and the Role of Government](http://www.goodreads.com/book/show/13233159-the-courageous-state) by Richard Murphy
+* [Enough is Enough: Building a Sustainable Economy in World of Finite Resources](http://www.goodreads.com/book/show/15814047-enough-is-enough) by Rob Dietz, Dan O'Neill and Herman Daly
+* [The Spirit Level: Why More Equal Societies Almost Always Do Better](http://www.goodreads.com/book/show/6304389-the-spirit-level) by Richard Wilkinson and Kate Pickett.
