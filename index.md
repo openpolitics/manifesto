@@ -54,3 +54,7 @@ Your contribution doesn't have to be huge; we need starting points before we get
 * [It's Time To Step Up](http://floppy.org.uk/blog/2013/07/05/its-time-to-step-up/) by James Smith
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
 * [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
+
+## Elsewhere
+
+Some contributors hang out in #openpolitics on irc.freenode.net. Feel free to drop by for discussion or help contributing!
