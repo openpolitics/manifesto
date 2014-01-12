@@ -37,3 +37,7 @@ Require all MPs to publish details of any meeting with any individual or group w
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
+
+## Local Government
+
+The system of local government of England's biggest cities (namely Manchester, Liverpool/Merseyside, Leeds, Birmingham) shall be reformed such that they have City Authorities with directly elected mayors and elected assemblies. The City Authorities shall be given greater powers over transport, policing, strategic planning, economic development, emergency services. Existing local authorities shall continue to exist, with responsibility for education, waste, street maintenance and environmental issues.
