@@ -13,3 +13,7 @@ Commit to ensuring that no British-built arms are sold to nations that are likel
 ## Nuclear Disarmament
 
 Commit to working towards a nuclear-weapon-free world by not renewing the Trident Nuclear Deterrent, and encouraging other nations to follow.
+
+## Capital Punishment
+
+We strongly oppose Capital Punishment in all forms, and would work with other nations to try and achieve a worldwide commitment to end death sentences by 2020.
