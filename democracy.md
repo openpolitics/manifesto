@@ -41,3 +41,19 @@ Require all MPs to publish details of any meeting with any individual or group w
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
+
+## Local Democracy
+
+### Structure
+
+The current three-tier structure of local democracy (county, local and parish councils) will be reformed to remove the county and parish-level councils. Local authorities, as the current council tax collecting bodies, will take over responsibilities from county and parish councils.
+
+Existing city-wide councils, such as Birmingham, will be split up into smaller town and district authorities.
+
+Local authorities will be encouraged to share services and pool resources in order to save costs and provide a more efficient service.
+
+New neighbourhood associations would be formed to replace parish councils but with no responsibility to deliver services, acting instead as a citizen-led accountability check on local authorities. As part of this, neighbourhood associations will be led by elected representatives. However, the party system will not apply - candidates will not be able to campaign as a party representative nor receive assistance from the local party branch. This will help to change the focus to local representatives rather than elections become pseudo-referenda.
+
+### Funding
+
+Local authorities will collect and retain council tax and business rates in their area. Additionally, there will be a "citizen premium" to ensure that there isn't a wide disparity in income between authorities. Any authority whose income fails to meet the level of the citizen premium will recieve a central government grant. Equally, any authority making a surplus will send that surplus to central government.
