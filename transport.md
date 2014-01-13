@@ -17,3 +17,7 @@ Network Rail, the Highways Agency, train operating companies and bus operating c
 # End UK airport expansion
 
 There will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
+
+# Electric Vehicles
+
+Commit to installing a network of charging units for electric vehicles along every motorway, and in every large town and city.
