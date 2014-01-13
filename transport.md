@@ -17,3 +17,7 @@ Network Rail, the Highways Agency, train operating companies and bus operating c
 # End UK airport expansion
 
 There will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
+
+# Driverless Vehicles
+
+Work with automobile manufacturers to establish ways of providing infrastructure to support driverless vehicles.
