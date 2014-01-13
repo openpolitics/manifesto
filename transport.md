@@ -6,7 +6,7 @@ published: true
 
 What policies could improve public and private transport infrastructure?
 
-## Removal of Fossil Fuels
+# Removal of Fossil Fuels
 
 We will decrease emissions from road transport by setting a date beyond which no new fossil-fuel powered vehicles may be sold in the UK.
 
@@ -17,3 +17,7 @@ Network Rail, the Highways Agency, train operating companies and bus operating c
 # End UK airport expansion
 
 There will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
+
+# Cycling 
+
+Commit to investing in cycling infrastructure: dedicated and separate lanes; secure parking; making traffic junctions 'cycle-safe'; encouraging shared use of pavements and paths where dedicated lanes are not feasible.
