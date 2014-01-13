@@ -4,7 +4,7 @@ layout: policy
 published: true
 ---
 
-What policies should we propose to maintain a competitive economy that provides sufficient employment?
+What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 
 ## Taxation
 
