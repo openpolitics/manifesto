@@ -17,3 +17,7 @@ Network Rail, the Highways Agency, train operating companies and bus operating c
 # End UK airport expansion
 
 There will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
+
+# Beyond High Speed 2
+
+Investigate feasibility of building high speed rail not only to connect London to Birmingham and Manchester, but also further West to Bristol, Wales and the South West, as well as further North into Scotland.
