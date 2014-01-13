@@ -34,6 +34,8 @@ Limit all donations and loans to political parties, campaign, lobbying and inter
 
 Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
 
+Abolish automatic bishops from the House of Lords.
+
 ## Transparency
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
