@@ -13,3 +13,9 @@ Ensure euthanasia is permissible and available for those with conditions causing
 ## War on Drugs
 
 We will end the unwinnable war on drugs. Recreational drug use will be legalised under a program of regulation.
+
+## Courts
+
+A single, secular oath will replace the current options for witnesses in all court proceedings.
+
+Specifically outlaw 'religious courts' and implement rigorous protection regimes for whistleblowers.
