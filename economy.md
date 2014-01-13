@@ -12,7 +12,7 @@ What policies should we propose to maintain a competitive economy that provides 
 
 The personal income tax allowance will be set at the level of a full time living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65) and will rise inline with the living wage.
 
-The capital gains tax for individuals will be abolished, and all capital gains will be treated as income for tax purposes.
+The rate of capital gains tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
 ## Housing
 
