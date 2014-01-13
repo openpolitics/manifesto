@@ -4,7 +4,7 @@ layout: policy
 published: true
 ---
 
-What policies should we propose to maintain a competitive economy that provides sufficient employment?
+What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 
 ## Taxation
 
@@ -18,4 +18,4 @@ Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band 
 
 ## Business
 
-Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasability and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (ie taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone. 
+Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasability and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (ie taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone.
