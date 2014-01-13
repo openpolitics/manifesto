@@ -21,7 +21,7 @@ We believe that government should be:
 
 We believe that individuals should be:
 
-* Free to act in any manner that does not harm another individual or their property, and does not infringe upon the rights of other individuals.
+* Free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
 * Enjoy a fundamental right to privacy from the state or their agents. 
 
 In short, we wish to ensure government remains open and transparent, whilst individuals retain liberty and privacy.
