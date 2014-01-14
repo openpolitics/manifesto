@@ -28,3 +28,7 @@ Put in place clear and simple standards to cover cycle lane design, signage, con
 Put in place a program to bring existing roads up to these new standards.
 
 Consult with leading cycle planning countries on setting down these standards.
+
+# Electric Vehicles
+
+Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
