@@ -38,6 +38,3 @@ Create an elected Upper House of Parliament for single 15 year terms, with the e
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
-## Devolution
-
-Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
