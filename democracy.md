@@ -40,4 +40,6 @@ Require all MPs to publish details of any meeting with any individual or group w
 
 ## Devolution
 
-Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
+Propose a nationwide constituion of basic rights and principles, together with encouraging locally ellected governments allowed freedom to operate within this national framework.
+
+This encourages greater diversity across government and covers situations where people in certain geographic regions face problems unique to these parts of the world, such as harsher snowfall, rural roadways and small island communities.
