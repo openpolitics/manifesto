@@ -16,7 +16,9 @@ If you're more familiar with GitHub, you can of course use the standard fork / p
 
 ## Merging Changes
 
-For now, changes will be merged based on a simple vote in each pull request. Authors of successful changes will be given direct access, and can vote on future changes. This will have to change in future, but it will do to start with.
+Changes will be merged when a quorum of existing contributors have approved the pull request with a 'thumbs-up' symbol in the comments. Any contributor can block a merge by including a 'thumbs-down' symbol, as long as they include constructive reasoning and alternative proposals.
+
+Once an author has had a change merged in, they will become an existing contributor and thus can vote on new changes.
 
 ## The Rules
 
