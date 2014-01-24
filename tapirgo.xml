@@ -6,23 +6,23 @@ layout: none
 	<channel>
 		<title>{{ site.name }}</title>
 		<description>{{ site.description }}</description>
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/tapirgo.xml" rel="self" type="application/rss+xml" />
+		<link>{{ site.url }}{{ site.baseurl }}</link>
+		<atom:link href="{{ site.url }}{{ site.baseurl }}/tapirgo.xml" rel="self" type="application/rss+xml" />
 	  {% for post in site.posts %}
 		<item>
 			<title>{{ post.title }}</title>
 			<description>{{ post.content | strip_html }}</description>
-			<link>{{ site.url }}{{ post.url }}</link>
-			<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+			<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 		</item>
 	  {% endfor %}
 	  {% for page in site.pages %}
-	    {% unless (page.group == "errors") or (page.url contains "atom") or (page.url contains "xml") or (page.url == "/search.html")%}
+	    {% unless (page.group == "errors") or (page.url contains "atom") or (page.url contains "xml") or (page.url == "/manifesto/search.html")%}
 				<item>
 					<title>{{ page.title }}</title>
 					<description>{{ page.content | strip_html  }}</description>
-					<link>{{ site.url }}{{ page.url }}</link>
-					<guid isPermaLink="true">{{ site.url }}{{ page.url }}</guid>
+					<link>{{ site.url }}{{ site.baseurl }}{{ page.url }}</link>
+					<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ page.url }}</guid>
 				</item>
 	    {% endunless %}
 	  {% endfor %}
