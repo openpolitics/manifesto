@@ -6,6 +6,12 @@ published: true
 
 How can we improve the democratic process, and citizens' engagement with it?
 
+## Republicanism
+
+The UK should become a republic, with an elected Head of State (President), and a written Constitution laying down the operations of government. This would allow the UK to become a truly democratic country.
+
+We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php), which limits the power of the President to mainly a figurehead role.
+
 ## Elections
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh bi-election.
