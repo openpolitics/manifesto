@@ -6,7 +6,7 @@ published: true
 
 ## National Infrastructure in the National Interest
 
-Too much of the national instructure that society relies heavily upon is operated for private profit. The predictable result being;
+Too much of the national instructure that society relies heavily upon is operated for private profit. The predictable result being:
 * profits line the pockets of shareholders, instead of being used to improve services
 * shareholders often squirrel away their dividends in tax havens, witholding much needed tax revenue that can be used to benefit society
 * commercial interest is put before public interest
@@ -14,12 +14,12 @@ Too much of the national instructure that society relies heavily upon is operate
 
 ### Community Interest Companies
 
-In order to ensure that essential infrastructure is run in the interests of wider society, any organisation performing a function that is essential to the UK's infrastructure (a National Infrastructure Organisation or NIO) will be required to be a [Community Interest Company](https://en.wikipedia.org/wiki/Community_interest_company) operated for the benefit of the British public. This has a few benefits;
+In order to ensure that essential infrastructure is run in the interests of wider society, any organisation performing a function that is essential to the UK's infrastructure (a National Infrastructure Organisation or NIO) will be required to be a [Community Interest Company](https://en.wikipedia.org/wiki/Community_interest_company) operated for the benefit of the British public. This has a few benefits:
 * Organisations are subject to the [community interest test](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/211744/13-781-community-interest-companies-guidance-chapter-4-creating-a-cic.pdf), requiring them to ensure their activities benefit their community (the British public)
 * Profits must be reinvested, ensuring surpluses go towards service improvement
 * Dividends are still acceptable, allowing for existing or new shareholders to maintain their stake and reap financial rewards for investing in the furtherance of the public benefit aims of the organisation
 
-In addition to the public interest test, an additional burden will be placed upon NIOs;
+In addition to the public interest test, an additional burden will be placed upon NIOs:
 * All staff must receive at least a living wage
 * The highest pay must not exceed 5 times the national average wage
 * Full financial accounts must be published openly, with no charge for access
@@ -29,7 +29,7 @@ Requiring these will help to ensure NIOs are responsible, transparent businesses
 
 ### Infrastructure
 
-A number of existing organisations are specifically targetted by this policy;
+A number of existing organisations are specifically targetted by this policy:
 
 * Network Rail
 * Royal Mail
@@ -45,7 +45,7 @@ A number of existing organisations are specifically targetted by this policy;
 1. In the case of BT, the business would be broken up to separate the infrastructure (ducts, cabinets, poles, exchanges) from the commercial business and only the infrastructure side would become subject to the national infrastructure regulation
 2. In a similar way to BT's telephone infrastructure, mobile operators would be required to transfer their ownership of masts into NIOs with the rest of their business remaining fully private
 
-To be an effective policy, it will also cover any organisation performing one of the following functions;
+To be an effective policy, it will also cover any organisation performing one of the following functions:
 
 * operating public rail services
 * operating public bus services
