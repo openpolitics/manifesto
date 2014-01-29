@@ -15,6 +15,10 @@ The personal income tax allowance will be set at the level of a full time living
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU. 
 
+## Social Security
+
+We will support research into a [universal basic income](https://en.wikipedia.org/wiki/Basic_income) and its effects on society and the economy, with the aim of eradicating poverty and providing a basic standard of living for all.
+
 ## Housing
 
 Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate.
