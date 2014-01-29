@@ -52,7 +52,7 @@ Serving MPs should not hold second jobs unless they can show that there is no co
 
 Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accomodation.
 
-Second home allowances will be scrapped, and an MPs 'hotel' will be created, providing standard apartments for them to use when staying in London.
+Second home allowances will be scrapped, and MPs will instead have accomodation provided through parliament. This could be in dedicated accomodation, existing hotels, or long-term leases as appropriate. All MPs would be equally treated under this system.
 
 ## Government Ministers
 
