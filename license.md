@@ -1,29 +1,28 @@
 ---
-title: The Unlicense
+title: License Details
 layout: page
 ---
 
-These are free and unencumbered ideas, released into the public domain.
+<p>
+The content of the OpenPolitics Manifesto is has been put into the public domain, using the CC0 1.0 Universal Public Domain Dedication.  See the <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 page</a> for more details.
+</p>
 
-Anyone is free to copy, modify, publish, use, implement, better or
-distribute these ideas, either in text form or as a working government,
-for any purpose, except tyranny, by any means, except violence.
+<div class="well" style='max-width: 500px; margin-left: auto; margin-right: auto; text-align: center'>
+  
+  <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a>
+  </p>
+  <p>
+    To the extent possible under law,
+    <a rel="dct:publisher"
+       href="http://openpolitics.org.uk">
+      <span property="dct:title">The OpenPolitics Project</span></a>
+    has waived all copyright and related or neighboring rights to
+    <span property="dct:title">The OpenPolitics Manifesto</span>.
+  This work is published from the
+  <span property="vcard:Country" datatype="dct:ISO3166"
+        content="GB" about="http://openpolitics.org.uk/manifesto">
+    United Kingdom</span>.
+  </p>
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-ideas to the public domain. We make this dedication for the benefit
-of the public at large and to the benefit of our heirs and
-successors through better society.
-We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to these ideas
-under copyright law.
-
-THESE IDEAS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THESE IDEAS OR THE USE OR
-OTHER DEALINGS IN THESE IDEAS.
-
-For more information, please refer to [http://unlicense.org/](http://unlicense.org/)
+</div>

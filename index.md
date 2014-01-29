@@ -19,6 +19,13 @@ We believe that government should be:
 * Rational, with decisions and policy based on sound evidence, not media pressure
 * Courageous, able to make difficult decisions without pandering to short-termism
 
+We believe that individuals should be:
+
+* Free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
+* Enjoy a fundamental right to privacy from the state or their agents. 
+
+In short, we wish to ensure government remains open and transparent, whilst individuals retain liberty and privacy.
+
 We believe that we are heading towards a better future, and that government has an essential role in taking us there. We also believe that as a country, we can self-govern *better* in the future, and will create policy that hopes to re-engage citizens in our democratic process.
 
 ## The Manifesto
@@ -37,6 +44,7 @@ We are writing a manifesto, but we need to build it together. [It's easy to cont
 * [Democracy](democracy.html)
 * [Communications](communications.html)
 * [Transport](transport.html)
+* [Infrastructure](infrastructure.html)
 
 Your contribution doesn't have to be huge; we need starting points before we get into all the detail.
 
@@ -46,3 +54,7 @@ Your contribution doesn't have to be huge; we need starting points before we get
 * [It's Time To Step Up](http://floppy.org.uk/blog/2013/07/05/its-time-to-step-up/) by James Smith
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
 * [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
+
+## Elsewhere
+
+Some contributors hang out in #openpolitics on irc.freenode.net. Feel free to drop by for discussion or help contributing!

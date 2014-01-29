@@ -32,6 +32,11 @@
         <ul class="nav navbar-nav pull-right">
           <li><a href="http://prose.io/#openpolitics/manifesto/edit/gh-pages/{{page.path}}">Edit</a></li>
         </ul>
+        <form class="navbar-form navbar-right" role="search" action='/manifesto/search.html' method='get'>
+          <div class="form-group">
+            <input type="text" class="form-control" name='query' placeholder="Search">
+          </div>
+        </form>
       </div><!--/.nav-collapse -->
     </div>
   </div>
@@ -43,14 +48,15 @@
       {{content}}
     </div>
 
-  </div>
+    <footer>
+      <hr/>
+      <small>
+        <img src="http://i.creativecommons.org/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+        This content is dedicated to the public domain. See the <a href='{{site.baseurl}}/license.html'>license</a> for details. <a href='{{site.baseurl}}/contributing.html'>Contributions</a> are welcome.
+      </small>
+    </footer>
 
-  <footer>
-    <hr/>
-    <small>
-      This content is in the public domain. See the <a href='{{site.baseurl}}/license.html'>license</a> for details. <a href='{{site.baseurl}}/contributing.html'>Contributions</a> are welcome.
-    </small>
-  </footer>
+  </div>
 
 </body>
 </html>
