@@ -17,3 +17,7 @@ Commit to working towards a nuclear-weapon-free world by not renewing the Triden
 ## Capital Punishment
 
 We strongly oppose Capital Punishment in all forms, and would work with other nations to try and achieve a worldwide commitment to end death sentences by 2020.
+
+## United Nations Reform
+
+Whilst it's right that those nations that make the greatest contribution to UN troop deployments should retain a permanent seat on the UN Security Council, no nation on the UN Security Council should have the right of veto. All UN Security Resolutions should be subject to majority vote.
