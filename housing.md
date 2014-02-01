@@ -11,3 +11,7 @@ Residential properties that have been empty for more than 12 months will automat
 A landlord of a property that has been unnocuppied for 12 months or more can, once the property has been occupied for 12 months or more, claim a 6 month rebate on the council tax paid before the property was occupied.
 
 Government-backed lending schemes will be offered to landlords with unnoccupied residential properties that require refurbishment or repair in order to get them back into use.
+
+## Rental Sector
+
+We will investigate the benefits and feasibility of rent stabilisation through limiting rent increases. It is hoped this will ensure affordable rents in places where property prices are pricing people out of the area.
