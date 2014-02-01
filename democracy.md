@@ -53,3 +53,15 @@ Abolish the City Minister position, ending the privileged position of the City o
 Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'tow the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
 
 Ban unelected Lords from serving in Government.
+
+## Consituency Overrides
+
+We will introduce a system that allows constituents to overrule their MP.
+
+A platform will allow constituents to register their discontent with the way an MP voted on an issue. If 20% or more of constituents do so it will trigger a local referendum, the result of which could overrule the original vote.
+
+Such an occurrence is undesirable, with the system acting as a robust democratic 'stick' with which to encourage MPs to take care to represent rather than blindly towing the party line.
+
+To help MPs avoid discontent they will be provided with digital tools to actively engage and consult consituents throughout their term. This is the 'carrot'.
+
+It is expected that this system will produce few referendums but it needs to be incredibly efficient to minimise delays in Government business.
