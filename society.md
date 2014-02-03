@@ -27,3 +27,10 @@ Religious organisations operating public services will be explicitly banned from
 Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion). 
 
 1. [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+
+
+## State Honours
+
+The state should be able to honour deceased individuals in ways that the current Honours System does not allow (eg remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
+
+Nominations for State Honours should continue to be encouraged from the public. These nominations should be shortlisted by a Committee appointed from within an elected Upper Chamber of Parliament. A nationwide public online vote should then decide on the final award of Honours on the basis of a redacted nomination paper to remove identifying information and prevent cronyism.
