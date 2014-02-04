@@ -26,6 +26,10 @@ Reduce the age of voting at General, Scottish, and European Elections (ie to leg
 
 Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16. 
 
+## Candidate Selection
+
+Parties will be encouraged, through the provision of sufficient resources such as mailshots and local marketing, to use a system of open primary for the selection of their candidates. Open primaries allow all electors within a given constituency, regardless of party membership or affiliation, to vote on the selection of a candidate to represent that party at a forthcoming election. When held, open primaries have been proven to select candidates that appeal to a broad cross-section of the electorate and are often successful at subsequent elections. More importantly, MPs that have been selected by this method, tend to be more independent and favour constituency interests over the Party Whips. 
+
 ## Party Funding
 
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
