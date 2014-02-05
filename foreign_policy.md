@@ -3,6 +3,8 @@ title: Foreign Policy
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we adopt in our relations with other countries?
 

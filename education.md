@@ -3,6 +3,8 @@ title: Education
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we propose to give our children a good education?
 

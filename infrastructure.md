@@ -3,6 +3,8 @@ title: Infrastructure
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 How do we ensure an effective and sustainable national infrastructure?
 

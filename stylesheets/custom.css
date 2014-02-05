@@ -21,11 +21,11 @@ h1 {
   content: counter(section) "." counter(paragraph) ". ";
 }
 
-.policy > p:first-child {
+.policy > p:first-of-type {
   font-size: 125%;
 }
 
-.policy > p:first-child:before {
+.policy > p:first-of-type:before {
   content: "";
 }
 

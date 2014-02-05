@@ -3,6 +3,8 @@ title: "Crime & Justice"
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we adopt to ensure a fair justice system?
 

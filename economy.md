@@ -3,6 +3,8 @@ title: Economy
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 

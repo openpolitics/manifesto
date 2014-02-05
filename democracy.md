@@ -3,6 +3,8 @@ title: Democracy
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 How can we improve the democratic process, and citizens' engagement with it?
 

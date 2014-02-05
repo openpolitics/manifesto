@@ -3,6 +3,8 @@ title: Energy
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we propose to ensure security and sustainability of our energy supply?
 
