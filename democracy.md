@@ -42,6 +42,8 @@ Abolish automatic bishops from the House of Lords.
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
+All Government departments and government-funded organisations, such as arms-length bodies will be required to submit all publications, including press releases, to the national archives. This will be extended to political parties, ensuring a record of manifestos and election promises remains indefinitely for the public to browse.
+
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
