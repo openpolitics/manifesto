@@ -5,4 +5,3 @@ markdown: kramdown
 
 kramdown:
   auto_ids: true
-  transliterated_header_ids: true

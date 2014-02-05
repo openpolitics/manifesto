@@ -51,7 +51,6 @@ GEM
     rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
-    stringex (2.2.0)
     toml (0.1.0)
       parslet (~> 1.5.0)
     yajl-ruby (1.1.0)
@@ -61,4 +60,3 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  stringex
