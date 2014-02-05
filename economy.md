@@ -33,6 +33,8 @@ Personal income tax is calculated on income generated prior to expenses being de
 
 Given that there is a current tax gap (between tax due and tax recieved by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
 
+Abolish employer's National Insurance contributions which are a tax on jobs and discourages employment. The abolition will boost the level of employment as well as wages.
+
 ## Digital Economy
 
 We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the internet and to keep pace with the connected digital economy.
