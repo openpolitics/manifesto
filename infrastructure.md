@@ -4,9 +4,12 @@ layout: policy
 published: true
 ---
 
+How do we ensure an effective and sustainable national infrastructure?
+
 ## National Infrastructure in the National Interest
 
 Too much of the national instructure that society relies heavily upon is operated for private profit. The predictable result being:
+
 * profits line the pockets of shareholders, instead of being used to improve services
 * shareholders often squirrel away their dividends in tax havens, witholding much needed tax revenue that can be used to benefit society
 * commercial interest is put before public interest
@@ -15,11 +18,13 @@ Too much of the national instructure that society relies heavily upon is operate
 ### Community Interest Companies
 
 In order to ensure that essential infrastructure is run in the interests of wider society, any organisation performing a function that is essential to the UK's infrastructure (a National Infrastructure Organisation or NIO) will be required to be a [Community Interest Company](https://en.wikipedia.org/wiki/Community_interest_company) operated for the benefit of the British public. This has a few benefits:
+
 * Organisations are subject to the [community interest test](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/211744/13-781-community-interest-companies-guidance-chapter-4-creating-a-cic.pdf), requiring them to ensure their activities benefit their community (the British public)
 * Profits must be reinvested, ensuring surpluses go towards service improvement
 * Dividends are still acceptable, allowing for existing or new shareholders to maintain their stake and reap financial rewards for investing in the furtherance of the public benefit aims of the organisation
 
 In addition to the public interest test, an additional burden will be placed upon NIOs:
+
 * All staff must receive at least a living wage
 * The highest pay must not exceed 5 times the national average wage
 * Full financial accounts must be published openly, with no charge for access
