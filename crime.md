@@ -16,12 +16,13 @@ We will end the unwinnable war on drugs. Recreational drug use will be legalised
 
 ## Police
 
-All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence (1)
-
-1. http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0
+All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
 
 ## Courts
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
 Specifically outlaw 'religious courts' and implement rigorous protection regimes for whistleblowers.
+
+
+[^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
