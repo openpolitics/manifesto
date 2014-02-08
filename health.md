@@ -22,3 +22,5 @@ Care of the mouth and teeth should be brought fully under the National Health Se
 ## Organ Donation
 
 An opt-out system will be adopted for organ donation upon death, ensuring that more organs are available for clinical and research purposes.
+
+The organ donation wishes of the deceased will not be permitted to be overridden by family members.
