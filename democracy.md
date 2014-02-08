@@ -44,6 +44,8 @@ Abolish automatic bishops from the House of Lords.
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
+Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
+
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
