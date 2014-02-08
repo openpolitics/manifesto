@@ -54,4 +54,4 @@ Limit the number of ministers, abolish Parliamentary Private Secretaries and fur
 
 Ban unelected Lords from serving in Government.
 
-Whips will be abolished. Every vote will be a free vote giving MPs the freedom to properly represent their constituents.
+A new criminal offence will be created outlawing the influencing of the parliamentary vote of any sitting MP. There will be no exceptions, making this offence apply to lobbying and partisan whipping.
