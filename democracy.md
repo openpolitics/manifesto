@@ -67,3 +67,5 @@ Abolish the City Minister position, ending the privileged position of the City o
 Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'tow the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
 
 Ban unelected Lords from serving in Government.
+
+A new criminal offence will be created outlawing the influencing of the parliamentary vote of any sitting MP. There will be no exceptions, making this offence apply to lobbying and partisan whipping.
