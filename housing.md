@@ -14,4 +14,8 @@ Government-backed lending schemes will be offered to landlords with unnoccupied 
 
 ## Rental Sector
 
-We will investigate the benefits and feasibility of rent stabilisation through limiting rent increases. It is hoped this will ensure affordable rents in places where property prices are pricing people out of the area.
+With fewer people able to afford to buy, many are renting. We will carry out a public review, taking evidence from all relevant parties, into the private rented housing sector to look at;
+  * landlord accountability
+  * fairness in tenancy agreements
+  * the effect of the rental sector on house prices
+  * agency fees, their necessity and fairness
