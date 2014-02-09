@@ -8,6 +8,12 @@ published: true
 
 How can we improve the democratic process, and citizens' engagement with it?
 
+## Written Constitution
+
+The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens. [1]
+
+The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
+
 ## Elections
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh bi-election.
@@ -67,3 +73,7 @@ Abolish the City Minister position, ending the privileged position of the City o
 Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'tow the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
 
 Ban unelected Lords from serving in Government.
+
+## References
+
+1. [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
