@@ -2,6 +2,8 @@
 layout: homepage
 published: true
 ---
+* table of contents 
+{:toc}
 
 The current political parties in the UK are not serving the public interest. There is not enough choice, little informed debate, and no challenge to the prevailing narrative. Those of us who believe in, and are working towards, a better future have nobody to represent us.
 
@@ -45,6 +47,7 @@ We are writing a manifesto, but we need to build it together. [It's easy to cont
 * [Communications](communications.html)
 * [Transport](transport.html)
 * [Infrastructure](infrastructure.html)
+* [Culture & Media](culture.html)
 
 Your contribution doesn't have to be huge; we need starting points before we get into all the detail.
 
