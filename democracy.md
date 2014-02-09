@@ -14,11 +14,15 @@ The British constitution should be collected into a single written document that
 
 The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
 
-## Republicanism
+## Republic
 
-The UK should become a republic, with an elected Head of State (President), and a written Constitution laying down the operations of government. This would allow the UK to become a truly democratic country.
+To become a truly democractic country, the UK should become a republic. The monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
 
-We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php), which limits the power of the President to mainly a figurehead role.
+The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
+
+Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
+
+The President will be subject to British law, unlike our current monarch, and will not be constitutionally linked to any faith.
 
 ## Elections
 
