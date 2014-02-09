@@ -3,6 +3,8 @@ title: Environment
 layout: policy
 published: true
 ---
+* table of contents 
+{:toc}
 
 What policies should we propose to protect our environment?
 
