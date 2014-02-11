@@ -3,6 +3,7 @@ title: Democracy
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -22,7 +23,7 @@ The President would be mainly a ceremonial position, and should be apolitical an
 
 Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
 
-The President will be equal before the law, and will not be protected by (Soverign Immunity)[https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom]. The President and will not be constitutionally linked to any faith.
+The President will be equal before the law, and will not be protected by [Soverign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President and will not be constitutionally linked to any faith.
 
 ## Elections
 
