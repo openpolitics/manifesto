@@ -43,6 +43,10 @@ Enshrine net neutrality in law, protecting the fundamental principle of the free
 
 Any data or research that is government funded will be required to be released under the Open Government License, ensuring that public funding equals public ownership. There will be an exception for government loans and innovation investment.
 
+## Metric System
+
+We will complete the metrification of the UK started in 1965, but never completed. The remaining uses of imperial units should be phased out and replaced with the modern metric equivalent, as recommended by the [UK Metric Association](http://metric.org.uk/).
+
 ## Government Contracts
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
