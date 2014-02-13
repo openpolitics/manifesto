@@ -33,6 +33,8 @@ Introduce an 'None of the Above' box on all ballot papers to formally and positi
 
 Introduce voting by proportional representation (Single Transferable Vote) in all General and Local Elections.
 
+Introduce a fixed duration for all Parliamentary by-election campaigns and prevent the incumbent party from moving the writ at a time of their own choosing for maximum electoral advantage.
+
 Investigate feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
 Investigate feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
