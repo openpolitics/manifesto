@@ -31,7 +31,7 @@ Allow for full and proper recall of MPs: any e-petition to recall their MP suppo
 
 Introduce an 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
-Introduce voting by proportional representation (Single Transferable Vote) in all General and Local Elections.
+Introduce voting by proportional representation uing the Single Transferable Vote (STV) method in all General and Local Elections. Given each EU member country has right to select the electoral system they use to elect their own MEPs, STV will also be used for elections to the European Parliament.
 
 Investigate feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
