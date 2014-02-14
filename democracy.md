@@ -27,8 +27,6 @@ The President will be equal before the law, and will not be protected by [Soveri
 
 ## Elections
 
-Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh bi-election.
-
 Introduce an 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
 Introduce voting by proportional representation (Single Transferable Vote) in all General and Local Elections.
