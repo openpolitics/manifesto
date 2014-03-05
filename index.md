@@ -34,21 +34,13 @@ We believe that we are heading towards a better future, and that government has 
 
 We are writing a manifesto, but we need to build it together. [It's easy to contribute](contributing.html). Do you feel strongly about some area of government policy? Why not add your ideas? We need policy across all areas of the public sphere:
 
-* [Society](society.html)
-* [Environment](environment.html)
-* [Health](health.html)
-* [Education](education.html)
-* [Energy](energy.html)
-* [Crime & Justice](crime.html)
-* [Foreign Policy](foreign_policy.html)
-* [Military](military.html)
-* [Economy](economy.html)
-* [Democracy](democracy.html)
-* [Communications](communications.html)
-* [Transport](transport.html)
-* [Infrastructure](infrastructure.html)
-* [Culture & Media](culture.html)
-* [Housing](housing.html)
+<ul>
+  {% for page in site.pages %}
+    {% if page.layout == "policy" %}
+      <li> <a href='{{site.baseurl}}{{page.url}}'>{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 Your contribution doesn't have to be huge; we need starting points before we get into all the detail.
 
