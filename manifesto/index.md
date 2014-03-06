@@ -26,7 +26,8 @@ We believe that we are heading towards a better future, and that government has 
 ## Contents
 
 <ol>
-  {% for page in site.pages %}
+  {% assign sorted_pages = site.pages | sort:"name" %}
+  {% for page in sorted_pages %}
     {% if page.layout == "policy" %}
       <li> <a href='{{page.url}}'>{{ page.title }}</a></li>
     {% endif %}

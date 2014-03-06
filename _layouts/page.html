@@ -31,7 +31,8 @@
             <a class='dropdown-toggle' data-toggle='dropdown' href="{{site.baseurl}}manifesto/index.html">Manifesto <span class='caret'></span></a>
             <ul class='dropdown-menu'>
               <li> <a href='{{site.baseurl}}manifesto/index.html'>Introduction</a></li>
-              {% for page in site.pages %}
+              {% assign sorted_pages = site.pages | sort:"name" %}
+              {% for page in sorted_pages %}
                 {% if page.layout == "policy" %}
                   <li> <a href='{{page.url}}'>{{ page.title }}</a></li>
                 {% endif %}
