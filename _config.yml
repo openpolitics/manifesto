@@ -1,5 +1,4 @@
-name: OpenPolitics Manifesto
-baseurl: /manifesto
+name: OpenPolitics
 
 markdown: kramdown
 
