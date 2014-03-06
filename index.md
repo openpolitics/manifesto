@@ -2,8 +2,6 @@
 layout: homepage
 published: true
 ---
-<img src='images/logo.png' class='pull-right' alt='OpenPolitics logo' width='250'/>
-
 The current political parties in the UK are not serving the public interest. There is not enough choice, little informed debate, and no challenge to the prevailing narrative. Those of us who believe in, and are working towards, a better future have nobody to represent us.
 
 We believe that a better kind of government is possible; one based on openness, transparency, evidence, and citizen engagement. We believe that it is time for those of us who have a stake in the future to stand up, and change the system from the inside.
