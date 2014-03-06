@@ -21,7 +21,7 @@ h1 {
   content: counter(section) "." counter(paragraph) ". ";
 }
 
-.policy > p:first-of-type {
+.policy > p:first-of-type, .homepage > p:first-of-type {
   font-size: 125%;
 }
 
