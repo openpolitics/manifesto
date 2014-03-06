@@ -26,7 +26,17 @@
       </div>
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a href="{{site.baseurl}}manifesto/index.html">Manifesto</a></li>
+          <li class='dropdown'>
+            <a class='dropdown-toggle' data-toggle='dropdown' href="{{site.baseurl}}manifesto/index.html">Manifesto <span class='caret'></span></a>
+            <ul class='dropdown-menu'>
+              <li> <a href='{{site.baseurl}}manifesto/index.html'>Introduction</a></li>
+              {% for page in site.pages %}
+                {% if page.layout == "policy" %}
+                  <li> <a href='{{page.url}}'>{{ page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
           <li><a href="http://votebot.openpolitics.org.uk">Open Votes</a></li>
           <li><a href="{{site.baseurl}}contributing.html">How to Contribute</a></li>
         </ul>
