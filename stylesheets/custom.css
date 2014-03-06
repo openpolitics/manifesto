@@ -30,8 +30,13 @@ h1 {
 }
 
 div.footnotes {
-  border-top: 1px solid #eee;
-  padding-top: 10px;
+  /* Style copied from div.well */
+  background-color: #F5F5F5;
+  border-color: 1px solid #E3E3E3;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 1px 0px inset;
+  padding: 19px;
+  -moz-box-sizing: border-box;
 }
 
 ul#markdown-toc {

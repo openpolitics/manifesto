@@ -87,6 +87,5 @@ Limit the number of ministers, abolish Parliamentary Private Secretaries and fur
 
 Ban unelected Lords from serving in Government.
 
-## References
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
