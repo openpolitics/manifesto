@@ -29,4 +29,8 @@ Your contribution doesn't have to be huge; we need starting points before we get
 
 ## Discussion
 
-Some contributors hang out in #openpolitics on irc.freenode.net. Feel free to drop by for discussion or help contributing!
+Most discussion takes place around proposed changes. See the list of open <a href='http://votebot.openpolitics.org.uk'>votes</a> for information.
+
+Some contributors hang around in the #openpolitics IRC channel, on irc.freenode.net. Feel free to drop by for discussion or help contributing!
+
+You can also follow <a href='http://twitter.com/OpenPoliticsUK'>OpenPoliticsUK</a> on Twitter (or the #openpolitics hashtag) for notifications of new votes, etc.
