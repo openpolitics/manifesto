@@ -2,8 +2,7 @@
 layout: homepage
 published: true
 ---
-* table of contents 
-{:toc}
+<img src='images/logo.png' class='pull-right' alt='OpenPolitics logo' width='250'/>
 
 The current political parties in the UK are not serving the public interest. There is not enough choice, little informed debate, and no challenge to the prevailing narrative. Those of us who believe in, and are working towards, a better future have nobody to represent us.
 
