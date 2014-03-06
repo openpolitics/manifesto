@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link href="{{site.baseurl}}stylesheets/bootstrap.min.css" rel="stylesheet">
+  <link href="{{site.baseurl}}stylesheets/font-awesome.min.css" rel="stylesheet">
   <link href="{{site.baseurl}}stylesheets/custom.css" rel="stylesheet">
   <link rel='icon' href='images/logo64.png' sizes="64x64" type="image/png">
   <style>
@@ -42,7 +43,10 @@
           <li><a href="http://votebot.openpolitics.org.uk">Open Votes</a></li>
           <li><a href="{{site.baseurl}}contributing.html">How to Contribute</a></li>
         </ul>
-        <a href="http://prose.io/#openpolitics/manifesto/edit/gh-pages/{{page.path}}" class='btn btn-primary navbar-btn pull-right'>Edit Page</a>
+        <a href="http://prose.io/#openpolitics/manifesto/edit/gh-pages/{{page.path}}" class='btn btn-primary navbar-btn pull-right'>
+          Edit Page
+          <i class="fa fa-pencil"></i>
+        </a>
         <form class="navbar-form navbar-right" role="search" action='/manifesto/search.html' method='get' style='margin-right: 20px'>
           <div class="form-group">
             <input type="text" class="form-control" name='query' placeholder="Search">
