@@ -4,15 +4,13 @@
   <title>{{site.name}}{% if page.title %}: {{page.title}}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/manifesto/stylesheets/custom.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/stylesheets/bootstrap.min.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/stylesheets/custom.css" rel="stylesheet">
   <style>
     body {
       padding-top: 50px;
     }
   </style>
-  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -60,6 +58,9 @@
     </footer>
 
   </div>
+
+  <script src="{{site.baseurl}}/javascripts/jquery-1.11.0.min.js"></script>
+  <script src="{{site.baseurl}}/javascripts/bootstrap.min.js"></script>
 
 </body>
 </html>
