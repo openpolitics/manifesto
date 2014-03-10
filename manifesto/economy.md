@@ -61,4 +61,10 @@ We will investigate a form of compulsory purchase aimed at important scientific 
 
 Of huge importance to the investigation will be the need to establish a method of compensation that the scientific community can trust. Avoiding a chilling effect is essential - the comulsory purchase should be there to aid the adoption of advancements, not stifle research in the first place. 
 
+## Tax Havens
+
+Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
+
+In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
+
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
