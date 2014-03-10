@@ -14,6 +14,10 @@ We will aim to decarbonise the electricity supply by 2030, through a combination
 power (including alternative nuclear generation methods such as Thorium power). Fossil fuel plants will be allowed to operate
 only if capturing 100% of their carbon emissions using CCS technology.
 
+## Green Power for the Public Sector
+
+In order to stimulate the renewable power sector, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to buy as much of their power as possible from zero-carbon sources, with a target to reach 100% as soon as possible.
+
 ## Buy Back Scheme
 
 Putting in place longer term, fixed rate energy buy back schemes will help the small scale, do it yourself renewable market flourish. 
