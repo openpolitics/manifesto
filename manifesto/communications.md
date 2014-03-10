@@ -8,6 +8,14 @@ published: true
 
 What policies do we need to adopt regarding communications technologies like the Internet?
 
+## Internet Freedom
+
+We believe in a free and open Internet, and back the principles of Internet governance espoused by the [Declaration of Internet Freedom](http://www.internetdeclaration.org/freedom). Aspects of these principles are also expanded upon below.
+
+## Access
+
+In a connected future, Internet access is a basic right. Moving the process of government and democracy online requires that all homes be connected to high-speed broadband services to ensure equality of access.
+
 ## Surveillance
 
 All communications (whether physical or digital) by individuals and groups, should be considered private property and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicially approved warrant in relation to a specific threat.
