@@ -11,9 +11,7 @@ The next UK general election is in 2015. We aim to field candidates in that elec
 
 ## The Manifesto
 
-We are writing a manifesto, but we need to build it together. [It's easy to contribute](contributing.html). Do you feel strongly about some area of government policy? Why not add your ideas? We need policy across all areas of the public sphere:
-
-Your contribution doesn't have to be huge; we need starting points before we get into all the detail.
+We are writing a manifesto, but the whole point is that we build it together. [It's easy to contribute](contributing.html). Do you feel strongly about some area of government policy? Why not add your ideas? Your contribution doesn't have to be huge - everything helps!
 
 <a href='manifesto' class='btn btn-primary btn-lg'>Read the Manifesto</a>
 
