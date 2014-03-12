@@ -34,7 +34,7 @@ Religious individuals delivering public services wishing to conscientiously obje
 
 The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
 
-This manifesto opposes those policies and views that seek to stigmatise, isolate, or denigrate those who wish to come and make a positive contribution to the British economy and society.
+This manifesto opposes those policies and views that seek to stigmatise, isolate, or denigrate those who wish to come and make a positive contribution to British society and economy.
 
 We propose a system that will allow employers to seek the best and brightest from around the globe. By opening up our employment borders this will encourage more international companies to invest and establish offices here, knowing the United Kingdom is an international hub of talent. 
 
