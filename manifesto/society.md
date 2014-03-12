@@ -3,6 +3,7 @@ title: Society
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -28,6 +29,14 @@ All human rights exemptions for religious organisations, such as discrimination 
 Religious organisations operating public services will be explicitly banned from promoting their religion in the process in order to protect vulnerable members of society.
 
 Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion). 
+
+## Immigration
+
+The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
+
+This manifesto opposes those policies and views that seek to stigmatise, isolate, or denigrate those who wish to come and make a positive contribution to the British economy and society.
+
+We propose a system that will allow employers to seek the best and brightest from around the globe. By opening up our employment borders this will encourage more international companies to invest and establish offices here, knowing the United Kingdom is an international hub of talent. 
 
 ## State Honours
 
