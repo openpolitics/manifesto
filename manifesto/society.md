@@ -46,5 +46,9 @@ The state should be able to honour deceased individuals in ways that the current
 
 Nominations for State Honours should continue to be encouraged from the public. These nominations should be shortlisted by a Committee appointed from within an elected Upper Chamber of Parliament. A nationwide public online vote should then decide on the final award of Honours on the basis of a redacted nomination paper to remove identifying information and prevent cronyism.
 
+## Marriage
+
+The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married or unmarried. It is therefore proposed that one adult's unused personal income tax allowance may be transferred in its entirety to another working adult residing in the same household.
+
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
