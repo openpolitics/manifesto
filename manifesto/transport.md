@@ -37,6 +37,6 @@ Work with automobile manufacturers to establish ways of providing infrastructure
 
 Encourage automobile manufacturers to agree upon an open and non-proprietary standard for wireless automated vehicle-to-vehicle (V2V) communication to improve road safety by reducing both congestion and collisions.
 
-# Electric Vehicles
+## Electric Vehicles
 
 Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
