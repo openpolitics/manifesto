@@ -3,10 +3,17 @@ title: Education
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
 What policies should we propose to give our children a good education?
+
+## Principles of Education
+
+We believe that education is the keystone that makes all other longer-term strategic policies possible: improving industry and employment; the arts; scientific discovery and research; improving the overall health and well-being of society; and reducing crime. It is the policy area that should receive the lions-share of public funding in recognition of the dividend that all other areas of public spending will receive 10-15 years hence.
+
+Subsequently we recognise that education is about more than simply equipping the future workforce with relevant vocational and professional skills, but about creating a future society that is healthy, wise, and wealthy in all respects.
 
 ## Secular Schools
 
