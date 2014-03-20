@@ -48,7 +48,7 @@ Nominations for State Honours should continue to be encouraged from the public. 
 
 ## Marriage
 
-The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married or unmarried. It is therefore proposed that one adult's unused personal income tax allowance may be transferred in its entirety to another working adult residing in the same household.
+The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. It may only per transferred once per household.
 
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
