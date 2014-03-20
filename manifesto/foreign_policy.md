@@ -3,6 +3,7 @@ title: Foreign Policy
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -23,3 +24,9 @@ We strongly oppose Capital Punishment in all forms, and would work with other na
 ## United Nations Reform
 
 Whilst it's right that those nations that make the greatest contribution to UN troop deployments should retain a permanent seat on the UN Security Council, no nation on the UN Security Council should have the right of veto. All UN Security Resolutions should be subject to majority vote.
+
+## Reforming the EU
+
+There should be only one seat for the European Parliament in Brussels. The Strasbourg seat should be abolished.
+
+Former Commissioners of the EU have first hand experience of how the institutions work, and how they could be improved. Unfortunately their [pensions are dependent](http://www.telegraph.co.uk/news/politics/labour/4996440/Lord-Mandelson-must-remain-loyal-to-EU-to-guarantee-pension.html) upon them not speaking out against the EU. They should be free to lobby for reform without fear of losing their pension.
