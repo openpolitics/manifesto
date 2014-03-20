@@ -51,7 +51,7 @@ We will complete the metrification of the UK started in 1965, but never complete
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
 
-All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
+All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1], including being subject to FOI requests and Open Data publication requirements.
 
 ## Public Sector
 
