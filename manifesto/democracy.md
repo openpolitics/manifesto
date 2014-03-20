@@ -63,6 +63,12 @@ Abolish automatic bishops from the House of Lords.
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
+Require all government reports to be published openly from the first point at which they are delivered to elected representatives, even if still in draft form, particularly policy risk registers and economic assessments.
+
+Require all mathematical, economic or other models created by government to be released as open source software, and the input data used should be released as open data.
+
+Open government publication of documents or data must only be blocked for reasons of national security, and blocks must be approved by a judge.
+
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
