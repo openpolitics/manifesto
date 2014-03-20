@@ -1,5 +1,3 @@
-<<<<<<< Local Changes
-=======
 ---
 title: Transport
 layout: policy
