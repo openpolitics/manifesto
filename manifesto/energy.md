@@ -27,3 +27,7 @@ A longer term fixed rate buy back will also allow more people to get finance for
 Remove confusing limitations currently in place about installations not created by accredited organisations to help individuals and small businesses get started.
 
 Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tarrif so as not to discriminate any one technology.
+
+## Fossil Fuel Industry
+
+Forbid new fossil fuel extraction in the UK (such as oil drilling, fracking, or coal mining), except for non-combustion industrial purposes such as production of plastics or pharmaceuticals.
