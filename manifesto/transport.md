@@ -1,3 +1,5 @@
+<<<<<<< Local Changes
+=======
 ---
 title: Transport
 layout: policy
@@ -36,3 +38,7 @@ Consult with leading cycle planning countries on setting down these standards.
 Work with automobile manufacturers to establish ways of providing infrastructure to support driverless vehicles.
 
 Encourage automobile manufacturers to agree upon an open and non-proprietary standard for wireless automated vehicle-to-vehicle (V2V) communication to improve road safety by reducing both congestion and collisions.
+
+# Electric Vehicles
+
+Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
