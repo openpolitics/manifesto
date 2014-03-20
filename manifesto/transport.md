@@ -3,6 +3,7 @@ title: Transport
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -30,6 +31,8 @@ Put in place a program to bring existing roads up to these new standards.
 
 Consult with leading cycle planning countries on setting down these standards.
 
-## Driverless Vehicles
+## Driverless and Automated Vehicles
 
 Work with automobile manufacturers to establish ways of providing infrastructure to support driverless vehicles.
+
+Encourage automobile manufacturers to agree upon an open and non-proprietary standard for wireless automated vehicle-to-vehicle (V2V) communication to improve road safety by reducing both congestion and collisions.
