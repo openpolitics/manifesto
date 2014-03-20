@@ -53,6 +53,10 @@ Ensure worker-owned cooperatives and mutuals are given priority with all governm
 
 All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
 
+## Public Sector
+
+In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
+
 ## Compulsory Purchase in the Public Interest
 
 Patents and other forms of IP are used excercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.
@@ -60,5 +64,11 @@ Patents and other forms of IP are used excercised for many globally important sc
 We will investigate a form of compulsory purchase aimed at important scientific advancements that would then place those advancements under an open license, encouraging wider use at lower cost.
 
 Of huge importance to the investigation will be the need to establish a method of compensation that the scientific community can trust. Avoiding a chilling effect is essential - the comulsory purchase should be there to aid the adoption of advancements, not stifle research in the first place. 
+
+## Tax Havens
+
+Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
+
+In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
