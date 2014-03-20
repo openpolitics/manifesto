@@ -17,7 +17,7 @@ only if capturing 100% of their carbon emissions using CCS technology.
 
 ## Resilience and Self-Sufficiency
 
-We will ensure that energy is generated within the UK or, failing that, purchasing additional supplies from within the EU. All non-EU supplies of energy will be minimised and eventually stopped in order to protect UK from foreign coercion, or from incentivising an expeditionary foreign policy.  
+We will ensure that energy is generated from a mixture of UK and EU supplies by working towards the EU-wide DC supergrid. All non-EU supplies of energy will be minimised and eventually stopped in order to protect UK from foreign coercion, or from incentivising an expeditionary foreign policy.  
 
 ## Green Power for the Public Sector
 
