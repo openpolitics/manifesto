@@ -12,7 +12,7 @@ We are writing a manifesto for a new kind of politics, but the whole point is th
 
 <a href='manifesto' class='btn btn-primary btn-lg'>Read the Manifesto</a>
 
-We are currently not a registered political party, but ideally, we will have a complete-enough manifesto, and enough people involved, that we can put up candidates in the 2015 general and local elections.
+We are currently not a registered political party, and do not know if we intend to become one, but we are aiming to have a complete-enough manifesto to be able to support candidates (either within a party or independent) in the 2015 general and local elections.
 
 ## Background Reading
 
