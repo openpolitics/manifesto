@@ -3,6 +3,7 @@ title: Energy
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -13,6 +14,10 @@ What policies should we propose to ensure security and sustainability of our ene
 We will aim to decarbonise the electricity supply by 2030, through a combination of renewable generation and new nuclear 
 power (including alternative nuclear generation methods such as Thorium power). Fossil fuel plants will be allowed to operate
 only if capturing 100% of their carbon emissions using CCS technology.
+
+## Resilience and Self-Sufficiency
+
+We will ensure that energy is generated within the UK or, failing that, purchasing additional supplies from within the EU. All non-EU supplies of energy will be minimised and eventually stopped in order to protect UK from foreign coercion, or from incentivising an expeditionary foreign policy.  
 
 ## Green Power for the Public Sector
 
