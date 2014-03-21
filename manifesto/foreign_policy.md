@@ -31,6 +31,6 @@ There should be only one seat for the European Parliament in Brussels. The Stras
 
 Former Commissioners of the EU have first hand experience of how the institutions work, and how they could be improved. Unfortunately their [pensions are dependent](http://www.telegraph.co.uk/news/politics/labour/4996440/Lord-Mandelson-must-remain-loyal-to-EU-to-guarantee-pension.html) upon them not speaking out against the EU. They should be free to lobby for reform without fear of losing their pension.
 
-The Commission should lose the monopoly on legislative initiative with the European Parliament given than right also in a system equivalent to a private members bill at Westminster.
+The Commission should lose its monopoly on legislative initiative. The European Parliament should be able to initiate legislation in a system equivalent to a private members bill at Westminster.
 
 Each member state government should lose the power to appoint a single Commissioner - a system of crony appointments that is undemocratic and unaccountable. Instead each Commissioner should be drawn from the single largest party of the European Parliament, with each member state having at least one Commissioner where possible. In this way the EU would adopt a truly Parliamentary system where the Executive arm sits within the Legislature, rather than sitting outside it.  
