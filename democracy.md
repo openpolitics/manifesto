@@ -48,7 +48,7 @@ Devolve all legislative powers currently enjoyed by the Scottish Parliament to e
 
 The current three-tier structure of local democracy (county, local and parish councils) will be reformed to remove the county and parish-level councils. Local authorities, as the current council tax collecting bodies, will take over responsibilities from county and parish councils.
 
-Existing city-wide councils, such as Birmingham, will be split up into smaller town and district authorities.
+Existing city-wide councils, such as Birmingham, will be split up into smaller town and district authorities, but given the power to create "city assemblies" where they can form a city-wide collective in order to operate in concert with each other over areas like transport infrastructure.
 
 Local authorities will be encouraged to share services and pool resources in order to save costs and provide a more efficient service.
 
