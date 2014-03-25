@@ -40,4 +40,6 @@ Devolve all legislative powers currently enjoyed by the Scottish Parliament to e
 
 ## Local Government
 
-The system of local government of England's biggest cities (namely Manchester, Liverpool/Merseyside, Leeds, Birmingham) shall be reformed such that they have City Authorities with directly elected mayors and elected assemblies. The City Authorities shall be given greater powers over transport, policing, strategic planning, economic development, emergency services. Existing local authorities shall continue to exist, with responsibility for education, waste, street maintenance and environmental issues.
+The system of local government of England's biggest cities (namely Manchester, Liverpool/Merseyside, Leeds, Birmingham) shall be reformed such that they have City Authorities with directly elected mayors and elected assemblies, replacing existing Combined Authorities. The City Authorities shall be given responsibility for transport, policing, strategic planning, economic development and emergency services. Existing local authorities shall continue to exist, with responsibility for education, waste, street maintenance and environmental issues.
+
+The City Authorities will be able to raise funds through a precept on the council tax, supplemental business rates, and through borrowing for capital expenditure.
