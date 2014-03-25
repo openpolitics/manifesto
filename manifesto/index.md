@@ -2,6 +2,7 @@
 layout: page
 published: true
 ---
+
 # The OpenPolitics Manifesto
 
 ## Principles
@@ -13,6 +14,7 @@ We believe that government should be:
 * Open, transparent and accountable, with no hiding place for backroom influence
 * Rational, with decisions and policy based on sound evidence, not media pressure
 * Courageous, able to make difficult decisions without pandering to short-termism
+* Ethical: dedicated to creating a sustainable society and economy with progressive moral values.
 
 We believe that individuals should be:
 
