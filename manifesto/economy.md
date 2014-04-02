@@ -3,6 +3,7 @@ title: Economy
 layout: policy
 published: true
 ---
+
 * table of contents 
 {:toc}
 
@@ -62,5 +63,9 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
 
 In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
+
+## P2P Open Source Currency and role of Central Bank?
+
+To consider a policy on the future of currency and the role of the central bank in a digital economy.
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
