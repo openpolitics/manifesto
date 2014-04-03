@@ -10,7 +10,7 @@ published: true
 4. Once you've made your change, enter a short comment in the box that says `Update {filename}`.
 5. Click the 'Commit Changes' button.
 
-Your change will be entered into the [discussion queue](http://votebot.openpolitics.org.uk). Some existing contributors will have to agree to the change before it's merged into the master version (see below for how that works).
+Your change will be entered into the [discussion queue](http://votebot.openpolitics.org.uk). There will then be a vote, and possibly debate, amongst contributors on whether to adopt the change.
 
 If you're more familiar with GitHub, you can of course use the standard fork / pull request model. The repository is [openpolitics/manifesto](https://github.com/openpolitics/manifesto).
 
