@@ -3,7 +3,7 @@ title: Economy
 layout: policy
 published: true
 ---
-* table of contents 
+* table of contents
 {:toc}
 
 What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
@@ -16,10 +16,10 @@ The personal income tax allowance will be set at the level of a full time living
 
 The rate of capital gains tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
-Investigate viability of moving from an income-assessed direct taxation to wealth assessed direct taxation. Those who earn significant salaries but do not accumulate wealth or assets beyond a single property (ie ensuring a genuine 'trickle-down' to the service industries) should be taxed less. This means hard-work is still encouraged, high-earners are not forced abroad, but those who sit on vast sums of accumulated wealth would be penalised instead.   
+Investigate viability of moving from an income-assessed direct taxation to wealth assessed direct taxation. Those who earn significant salaries but do not accumulate wealth or assets beyond a single property (ie ensuring a genuine 'trickle-down' to the service industries) should be taxed less. This means hard-work is still encouraged, high-earners are not forced abroad, but those who sit on vast sums of accumulated wealth would be penalised instead.
 
 ### VAT
-Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU. 
+Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU.
 
 ## Social Security
 
