@@ -4,20 +4,20 @@ layout: page
 published: true
 ---
 
-1. Get a [GitHub account](https://github.com/signup/free) and log in.
-2. Find the page you want to edit, and click the `Edit` link at the top right.
-3. Make your change in the editor.
-4. Click the Save icon, enter a description of your change, and hit `commit`.
+1. Find the page you want to edit, and click the `Edit Page` button at the top right.
+2. Log in, or sign up for a [GitHub account](https://github.com/signup/free) if you don't already have one. GitHub is the system that stores all the changes made to the manifesto, so you need an account to contribute.
+3. Make your change in the editor. Formatting uses [Markdown](http://en.support.wordpress.com/markdown-quick-reference/).
+4. Once you've made your change, enter a short comment in the box that says `Update {filename}`.
+5. Click the 'Commit Changes' button.
 
-Your change will be entered into the [pull request queue for discussion](https://github.com/openpolitics/manifesto/pulls)
-before being merged into the master version.
+Your change will be entered into the [discussion queue](http://votebot.openpolitics.org.uk). There will then be a vote, and possibly debate, amongst contributors on whether to adopt the change.
 
-If you're more familiar with GitHub, you can of course use the standard fork / pull request model.
+If you're more familiar with GitHub, you can of course use the standard fork / pull request model. The repository is [openpolitics/manifesto](https://github.com/openpolitics/manifesto).
 
 ## The Rules
 
 * *Anything* can be changed.
-* All contributions and discussions are public, and should take place as part of a pull request.
+* All contributions and discussions should be public, ideally on GitHub.
 * Plain English is essential - follow the GDS style guide if you can, or use [Hemingway](http://hemingwayapp.com) to test readability. Try to avoid political weasel-words.
 * Make changes small, self-contained, and simple. Large changes will take a lot longer to get agreed upon and merged. Small is agile.
 * All content is public domain. By submitting a change, you agree that you are putting your work into the public domain. See [the full license](license.html) for details.
@@ -38,3 +38,4 @@ Once an author has had a change merged in, they will become an existing contribu
 
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
+* [Markdown syntax reference](http://en.support.wordpress.com/markdown-quick-reference/)
