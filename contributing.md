@@ -13,7 +13,7 @@ Your change will be entered into the [pull request queue for discussion](https:/
 before being merged into the master version.
 
 If you're more familiar with GitHub, you can of course use the standard fork / pull request model.
-s
+
 ## The Rules
 
 * *Anything* can be changed.
