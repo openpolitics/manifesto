@@ -11,5 +11,5 @@ What should we do to enhance culture, and how should we ensure a robust but ethi
 
 ## Advertising
 
-Advertising regulations should be tightened to ensure quasi-scientific language and terminology is not used to promote any cosmetic, toiletry or food products.  
+Encourage the Advertising Standards Authority to tighten regulations around the use of pseudo-scientific language and terminology for the promotion of cosmetic, toiletry, food or other products, without sufficient evidence.  
 
