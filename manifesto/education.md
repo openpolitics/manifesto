@@ -17,7 +17,7 @@ Subsequently we recognise that education is about more than simply equipping the
 
 ## Funding
 
-Education should be freely available to all, to any desired level. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Education should be freely available to all to degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
 ## Secular Schools
 
