@@ -31,6 +31,10 @@ Religious education (R.E.) will also be reviewed, starting with research on the 
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
 
+## School Governance
+
+All state-funded secondary schools will be an elected students council, and an elected student president. The student president will represent students on local school accountability boards.
+
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
