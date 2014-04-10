@@ -42,7 +42,7 @@ Abolish automatic bishops from the House of Lords.
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
-All Government departments and government-funded organisations, such as arms-length bodies will be required to submit all publications, including press releases, to the national archives. This will be extended to political parties, ensuring a record of manifestos and election promises remains indefinitely for the public to browse.
+To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
 
 ## Devolution
 
