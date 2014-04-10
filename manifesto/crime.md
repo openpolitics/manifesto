@@ -20,6 +20,8 @@ We will end the unwinnable war on drugs. Recreational drug use will be legalised
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
 
+Police and Crime Commissioners will be abolished and replaced with the previous system of Police Authorities comprised of local elected representatives, independent community members and magistrates.
+
 ## Courts
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
