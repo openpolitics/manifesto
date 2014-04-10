@@ -6,4 +6,4 @@ published: true
 
 # Justice
 
-A review will be carried out into the ongoing suitability of juries, especially for complex trials.
+A review will be carried out into the composition of juries, especially for complex trials.
