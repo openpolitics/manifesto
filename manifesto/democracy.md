@@ -43,6 +43,8 @@ Much apathy is focused around the perceived privilege of the political class. Th
 
 To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
 
+Prospective parliamentary candidates must live in the constituency they wish to represent, and have done so for at least six months. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
+
 Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
 
 Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16. 
