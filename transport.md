@@ -20,4 +20,4 @@ There will be no further expansions (such as new runways or terminals) of any UK
 
 # Beyond High Speed 2
 
-Investigate feasibility of building high speed rail not only to connect London to Birmingham and Manchester, but also further West to Bristol, Wales and the South West, as well as further North into Scotland.
+Investigate feasibility of building a high speed rail network that connects our ten largest cities (and Cardiff also) to the European high speed network via HS1.
