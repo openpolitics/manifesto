@@ -65,6 +65,13 @@ Require all MPs to publish details of any meeting with any individual or group w
 
 Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
 
+A local accountability service will be provided online to show, for each local authority;
+
+* spending records (including spending below £500)
+* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
+* details of councillor connections with companies and charities (i.e. shareholding and directorships)
+* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
+
 ## Devolution
 
 Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
