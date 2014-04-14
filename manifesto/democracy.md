@@ -31,9 +31,9 @@ Allow for full and proper recall of MPs: any e-petition to recall their MP suppo
 
 Introduce an 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
-Introduce voting by proportional representation (Single Transferable Vote) in all General and Local Elections.
+Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. 
 
-Introduce a fixed duration for all Parliamentary by-election campaigns and prevent the incumbent party from moving the writ at a time of their own choosing for maximum electoral advantage.
+Given each EU member country has right to select the electoral system they use to elect their own MEPs, Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
 Investigate feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
@@ -43,23 +43,17 @@ Much apathy is focused around the perceived privilege of the political class. Th
 
 To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
 
+Prospective parliamentary candidates must live or work in the constituency they wish to represent, and have done so for at least six months. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
+
 Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
 
 Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16. 
-
-## Candidate Selection
-
-Parties will be encouraged, through the provision of sufficient resources such as mailshots and local marketing, to use a system of open primary for the selection of their candidates. Open primaries allow all electors within a given constituency, regardless of party membership or affiliation, to vote on the selection of a candidate to represent that party at a forthcoming election. When held, open primaries have been proven to select candidates that appeal to a broad cross-section of the electorate and are often successful at subsequent elections. More importantly, MPs that have been selected by this method, tend to be more independent and favour constituency interests over the Party Whips. 
 
 ## Party Funding
 
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
-
-## Parliament
-
-Move to a system of electronic voting in both Houses of Parliament, with immediate release of results to the public.
 
 ## Lords Reform
 
@@ -71,11 +65,14 @@ Abolish automatic bishops from the House of Lords.
 
 Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
 
-Require all government reports to be published openly from the first point at which they are delivered to elected representatives, even if still in draft form, particularly policy risk registers and economic assessments.
+Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
 
-Require all mathematical, economic or other models created by government to be released as open source software, and the input data used should be released as open data.
+A local accountability service will be provided online to show, for each local authority;
 
-Open government publication of documents or data must only be blocked for reasons of national security, and blocks must be approved by a judge.
+* spending records (including spending below £500)
+* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
+* details of councillor connections with companies and charities (i.e. shareholding and directorships)
+* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
 
 ## Devolution
 
@@ -98,5 +95,9 @@ Abolish the City Minister position, ending the privileged position of the City o
 Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'tow the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
 
 Ban unelected Lords from serving in Government.
+
+Cabinet appointments will be subject to a vote of approval by the House of Commons.
+
+## References
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
