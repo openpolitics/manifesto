@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: main
 ---
 
-<img src='images/logo.png' class='pull-right' alt='OpenPolitics logo' width='250' style='margin-left: 20px'/>
-<h1>The OpenPolitics Project</h1>
-<div class='homepage'>
+<div class='jumbotron'>
+  <div class='container'>
+    <h1>The OpenPolitics Project</h1>
+    <p>{{site.tagline}}</p>
+    <p>
+      <a href='manifesto' class='btn btn-primary btn-lg'>Help write the Manifesto</a>
+    </p>
+  </div>
+</div>
+
+<div id='homepage' class='container'>
   {{content}}
 </div>

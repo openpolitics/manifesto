@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{site.name}}{% if page.title %}: {{page.title}}{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="{{site.baseurl}}stylesheets/bootstrap.min.css" rel="stylesheet">
+  <link href="{{site.baseurl}}stylesheets/font-awesome.min.css" rel="stylesheet">
+  <link href="{{site.baseurl}}stylesheets/custom.css" rel="stylesheet">
+  <link rel='icon' href='images/logo64.png' sizes="64x64" type="image/png">
+  <style>
+    body {
+      padding-top: 50px;
+    }
+  </style>
+</head>
+<body>
+
+  <script src="{{site.baseurl}}javascripts/jquery-1.11.0.min.js"></script>
+
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{site.baseurl}}index.html"><img src='/images/logo64_inverted.png'/ height='20' style='vertical-align: text-bottom'> {{site.name}}</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class='dropdown'>
+            <a class='dropdown-toggle' data-toggle='dropdown' href="{{site.baseurl}}manifesto/index.html">Manifesto <span class='caret'></span></a>
+            <ul class='dropdown-menu'>
+              <li> <a href='{{site.baseurl}}manifesto/index.html'>Introduction</a></li>
+              {% assign sorted_pages = site.pages | sort:"name" %}
+              {% for page in sorted_pages %}
+                {% if page.layout == "policy" %}
+                  <li> <a href='{{page.url}}'>{{ page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+          <li><a href="http://votebot.openpolitics.org.uk">Open Votes</a></li>
+          <li><a href="{{site.baseurl}}contributing.html">How to Contribute</a></li>
+        </ul>
+        <a href="https://github.com/openpolitics/manifesto/edit/gh-pages/{{page.path}}" class='btn btn-primary navbar-btn pull-right'>
+          Edit This Page
+          <i class="fa fa-pencil"></i>
+        </a>
+        <form class="navbar-form navbar-right" role="search" action='/search.html' method='get' style='margin-right: 20px'>
+          <div class="form-group">
+            <input type="text" class="form-control" name='query' placeholder="Search">
+          </div>
+        </form>
+      </div><!--/.nav-collapse -->
+    </div>
+  </div>
+
+  {{content}}
+
+  <div class="container">
+    <footer>
+      <hr/>
+      <small>
+        <img src="http://i.creativecommons.org/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+        This content is dedicated to the public domain. See the <a href='{{site.baseurl}}license.html'>license</a> for details. You can <a href='https://github.com/openpolitics/manifesto/blame/gh-pages/{{page.path}}'>see all page changes</a> on GitHub. <a href='{{site.baseurl}}contributing.html'>Contributions</a> are welcome!
+      </small>
+    </footer>
+
+  </div>
+
+  <script src="{{site.baseurl}}javascripts/bootstrap.min.js"></script>
+
+</body>
+</html>
