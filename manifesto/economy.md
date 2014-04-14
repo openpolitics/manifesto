@@ -17,6 +17,8 @@ The personal income tax allowance will be set at the level of a full time living
 
 Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
+The rate of Asset Tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
+
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU. 
 
