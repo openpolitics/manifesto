@@ -23,21 +23,21 @@ The President would be mainly a ceremonial position, and should be apolitical an
 
 Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
 
-The President will be equal before the law, and will not be protected by [Soverign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President and will not be constitutionally linked to any faith.
+The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
 ## Elections
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh bi-election.
 
-Introduce an 'None of the Above' box on all ballot papers to formally and positively register abstention.
+Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
 Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. 
 
-Given each EU member country has right to select the electoral system they use to elect their own MEPs, Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
+Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
-Investigate feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
+Investigate the feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
-Investigate feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
+Investigate the feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
 Much apathy is focused around the perceived privilege of the political class. This is reinforced by the costs of attempting to stand for election. In the digital age, where a political campaign can be waged at little to no cost, the £500 deposit required to stand for election excludes some of the most enthusiastic and contributory members of society. These are people who often spent a majority of time volunteering in their community and don't have the income to save for such a high fee. Candidacy should be open to all, regardless of financial wealth, if we are to have an open democracy, so this deposit will be removed.
 
@@ -59,7 +59,7 @@ Constituency offices of MPs, which quite rightly are publicly funded, should be 
 
 Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
 
-Abolish automatic bishops from the House of Lords.
+Abolish automatic appointment of bishops to the House of Lords.
 
 ## Transparency
 
@@ -86,13 +86,13 @@ Serving MPs should not hold second jobs unless they can show that there is no co
 
 Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accomodation.
 
-Second home allowances will be scrapped, and MPs will instead have accomodation provided through parliament. This could be in dedicated accomodation, existing hotels, or long-term leases as appropriate. All MPs would be equally treated under this system.
+Second home allowances will be scrapped, and MPs will instead have accomodation provided through parliament. This could be in dedicated accomodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
 
 ## Government Ministers
 
 Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
 
-Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'tow the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
+Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'toe the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
 
 Ban unelected Lords from serving in Government.
 
