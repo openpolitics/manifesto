@@ -17,7 +17,7 @@ only if capturing 100% of their carbon emissions using CCS technology.
 
 ## Resilience and Self-Sufficiency
 
-We will ensure that energy is generated from a mixture of UK and EU supplies by working towards the EU-wide DC supergrid. All non-EU supplies of energy will be minimised and eventually stopped in order to protect UK from foreign coercion, or from incentivising an expeditionary foreign policy.  
+We will ensure that energy is generated from a mixture of UK and EU supplies by working towards the EU-wide DC supergrid. All non-EU supplies of energy will be minimised and eventually stopped in order to protect the UK from foreign coercion, or from incentivising an expeditionary foreign policy.  
 
 ## Green Power for the Public Sector
 
@@ -31,7 +31,7 @@ A longer term fixed rate buy back will also allow more people to get finance for
 
 Remove confusing limitations currently in place about installations not created by accredited organisations to help individuals and small businesses get started.
 
-Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tariff so as not to discriminate any one technology.
+Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tariff so as not to discriminate against any one technology.
 
 ## Fossil Fuel Industry
 
