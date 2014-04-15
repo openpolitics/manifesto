@@ -25,13 +25,13 @@ In order to stimulate the renewable power sector, all public sector organisation
 
 ## Buy Back Scheme
 
-Putting in place longer term, fixed rate energy buy back schemes will help the small scale, do it yourself renewable market flourish. 
+Putting in place longer term, fixed rate energy buy back schemes will help the small scale, "do-it-yourself" renewable market flourish. 
 
 A longer term fixed rate buy back will also allow more people to get finance for installations on or near their homes.
 
 Remove confusing limitations currently in place about installations not created by accredited organisations to help individuals and small businesses get started.
 
-Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tarrif so as not to discriminate any one technology.
+Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tariff so as not to discriminate any one technology.
 
 ## Fossil Fuel Industry
 
