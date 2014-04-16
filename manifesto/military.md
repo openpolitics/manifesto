@@ -14,6 +14,8 @@ The UK should commit to not renewing the Trident Nuclear Deterrent in order to e
 
 ## Role of UK Armed Forces
 
+UK Armed Forces should only be deployed within the context of the international organisations to which the UK belongs (such as the UN, EU and NATO) and with the overall aim of reducing the likelihood of war or other armed conflict (see [Foreign Policy](foreign_policy.html)).
+
 UK Armed Forces should be structured to focus on humanitarian, peace-keeping, peace enforcement, maritime search-and-rescue, mine and explosive ordnance clearance, anti-piracy, and counter-terrorism operations as well as providing support to UK emergency services during natural and civil disasters.
 
 ## Parliamentary Oversight
