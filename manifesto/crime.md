@@ -20,6 +20,8 @@ We will end the unwinnable war on drugs. Recreational drug use will be legalised
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
 
+We will work to abolish the system of Police and Crime Commissioners that garnered so little public support with a more democratic and publicy-acceptable system of accountability. One pre-requisite of any new system should be that it is unequivocally apolitical.
+
 ## Courts
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
