@@ -4,10 +4,10 @@ layout: policy
 published: true
 ---
 
-* table of contents 
+* table of contents
 {:toc}
 
-How can we improve the democratic process, and citizens' engagement with it?
+We believe that the UK should be a truly democratic country, where the state is properly accountable to its citizens. In the short term, this means improving the existing system in various ways, such as by improving the electoral system, changing how parties are funded, curbing the influence of the lobbying industry, and replacing the House of Lords with an elected chamber. In the long term, we believe that the UK should be a secular republic rather than a monarchy, and that at some point in the future technology will allow us to make decisions using some form of direct democracy rather than needing to elect representatives.
 
 ## Written Constitution
 
@@ -17,7 +17,7 @@ The constitution will be created with broad participation from the citizenry, an
 
 ## Republic
 
-To become a truly democractic country, the UK should become a republic. The monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
+To become a truly democratic country, the UK should become a republic. The monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
 
 The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
 
@@ -31,7 +31,7 @@ Allow for full and proper recall of MPs: any e-petition to recall their MP suppo
 
 Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
-Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. 
+Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
 
 Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
@@ -47,7 +47,7 @@ Prospective parliamentary candidates must live or work in the constituency they 
 
 Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
 
-Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16. 
+Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
 
 ## Party Funding
 
@@ -76,7 +76,7 @@ A local accountability service will be provided online to show, for each local a
 
 ## Devolution
 
-Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy. 
+Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
 
 ## MPs pay and expenses
 
