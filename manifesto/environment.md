@@ -53,3 +53,7 @@ Landlords should be compelled to install insulation if the tenants accept the pr
 The programme should be supported by a nationwide communications campaign and local community organising.
 
 The target should be that at least 95% of residential buildings should have adequate insulation by 2020.
+
+## Balloon & Sky Lantern releases
+
+Balloon release (even using suposedly biodegradable latext ballons) harms wildlife. Sky (or 'Chinese') lanterns start fires. We will seek to have both made illegal, and to have that law enforced.
