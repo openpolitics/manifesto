@@ -3,21 +3,24 @@ title: Environment
 layout: policy
 published: true
 ---
-* table of contents 
+* table of contents
 {:toc}
 
-What policies should we propose to protect our environment?
+We understand that swift and effective action is required to reduce carbon emissions
+in order to reduce the chance of catastrophic global warming. Fossil fuel reserves
+must, quite simply, be left unburnt, and our system retooled to use clean sources
+of energy as soon as possible.
 
 ## Reducing Carbon Dioxide Emissions
 
 Historically, the UK bears a large portion of blame for the current issue of climate change, and we must take a leadership
 position to show other countries the way forward.
 
-We are committed to meeting (or ideally beating) the emissions target for 2050 set in the Climate Change Act 2008. 
+We are committed to meeting (or ideally beating) the emissions target for 2050 set in the Climate Change Act 2008.
 
 ## Carbon Budgets
 
-In order to meet this target, we will create a complete and legally-binding national carbon 
+In order to meet this target, we will create a complete and legally-binding national carbon
 budget for the entire period up to 2050, so that we reduce uncertainty for investors, businesses,
 and citizens about the route ahead.
 
@@ -27,8 +30,8 @@ All subsidies and tax breaks for fossil fuel companies will be removed.
 
 ## Carbon Rationing
 
-We will introduce a functioning national carbon trading scheme that sets a yearly carbon cap, and provides a 
-market-based means for the country to stay below the cap. Existing polluters will not be 'grandfathered' into 
+We will introduce a functioning national carbon trading scheme that sets a yearly carbon cap, and provides a
+market-based means for the country to stay below the cap. Existing polluters will not be 'grandfathered' into
 such a system and given pollution permits for free, and all polluting activities will be included.
 
 ## International Leadership
