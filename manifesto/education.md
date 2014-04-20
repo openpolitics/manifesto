@@ -31,6 +31,12 @@ Religious education (R.E.) will also be reviewed, starting with research on the 
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
 
+## Syllabus Control
+
+We believe that a flexible outline syllabus which does not restrict the creativity and individuality of both teachers and pupils is appropriate until the end of Key Stage 4. We should trust our well trained teachers and head teachers to do their best to educate our children in a flexible and creative manner.
+
+We believe that citizens with a breadth of knowledge are better equipped to participate in society and democracy and therefore, a breadth of interest through the study of a wide range of subjects should be encouraged and specialisation delayed until people enter higher education. 
+
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
