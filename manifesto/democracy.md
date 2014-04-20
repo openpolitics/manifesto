@@ -15,27 +15,27 @@ The British constitution should be collected into a single written document that
 
 The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
 
-## Elections
-
-Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh bi-election.
+## Electoral Reform
 
 Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
 Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
 
-Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
-
-Investigate the feasability of electronic voting at all elections, with a view to increasing accessibility and turnout.
-
-Much apathy is focused around the perceived privilege of the political class. This is reinforced by the costs of attempting to stand for election. In the digital age, where a political campaign can be waged at little to no cost, the £500 deposit required to stand for election excludes some of the most enthusiastic and contributory members of society. These are people who often spent a majority of time volunteering in their community and don't have the income to save for such a high fee. Candidacy should be open to all, regardless of financial wealth, if we are to have an open democracy, so this deposit will be removed.
-
-To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
-
-Prospective parliamentary candidates must live or work in the constituency they wish to represent, and have done so for at least six months. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
+Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
 Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
 
 Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
+
+## Recall of Representatives
+
+Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
+
+## Elected House of Lords
+
+Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
+
+Abolish automatic appointment of bishops to the House of Lords.
 
 ## Party Funding
 
@@ -43,11 +43,17 @@ Limit all donations and loans to political parties, campaign, lobbying and inter
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
 
-## Lords Reform
+## Standing for Election
 
-Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
+Much apathy is focused around the perceived privilege of the political class. This is reinforced by the costs of attempting to stand for election. In the digital age, where a political campaign can be waged at little to no cost, the £500 deposit required to stand for election excludes some of the most enthusiastic and contributory members of society. These are people who often spent a majority of time volunteering in their community and don't have the income to save for such a high fee. Candidacy should be open to all, regardless of financial wealth, if we are to have an open democracy, so this deposit will be removed.
 
-Abolish automatic appointment of bishops to the House of Lords.
+To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
+
+Prospective parliamentary candidates must live or work in the constituency they wish to represent, and have done so for at least six months. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
+
+## European Elections
+
+Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
 ## Transparency
 
@@ -74,7 +80,7 @@ Serving MPs should not hold second jobs unless they can show that there is no co
 
 Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accomodation.
 
-Second home allowances will be scrapped, and MPs will instead have accomodation provided through parliament. This could be in dedicated accomodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
+Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
 
 ## Government Ministers
 
@@ -98,6 +104,6 @@ The President will be equal before the law, and will not be protected by [Sovere
 
 ## Direct Democracy
 
-Investigate the feasability of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
+Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
