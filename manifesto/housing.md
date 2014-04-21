@@ -19,3 +19,7 @@ With fewer people able to afford to buy, many are renting. We will carry out a p
   * fairness in tenancy agreements
   * the effect of the rental sector on house prices
   * agency fees, their necessity and fairness
+
+## Council Tax
+
+Investigate a fairer system than the current 'band' system of council tax.
