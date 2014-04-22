@@ -3,14 +3,14 @@ title: Infrastructure
 layout: policy
 published: true
 ---
-* table of contents 
+* table of contents
 {:toc}
 
 How do we ensure an effective and sustainable national infrastructure?
 
 ## National Infrastructure in the National Interest
 
-Too much of the national instructure that society relies heavily upon is operated for private profit. The predictable result being:
+Too much of the national infrastructure that society relies heavily upon is operated for private profit. The predictable result being:
 
 * profits line the pockets of shareholders, instead of being used to improve services
 * shareholders often squirrel away their dividends in tax havens, witholding much needed tax revenue that can be used to benefit society
@@ -62,4 +62,3 @@ NIOs are intended to provide the basic infrastructure that is essentially to a f
 
 [^1]: In the case of BT, the business would be broken up to separate the infrastructure (ducts, cabinets, poles, exchanges) from the commercial business and only the infrastructure side would become subject to the national infrastructure regulation
 [^2]: In a similar way to BT's telephone infrastructure, mobile operators would be required to transfer their ownership of masts into NIOs with the rest of their business remaining fully private
-
