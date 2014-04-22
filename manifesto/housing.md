@@ -23,3 +23,7 @@ With fewer people able to afford to buy, many are renting. We will carry out a p
 ## Council Tax
 
 Investigate a fairer system than the current 'band' system of council tax.
+
+## Housing Benefit
+
+Repeal the "Bedroom Tax", that punishes housing benefit claimants for having spare rooms, when in many cases, smaller properties are not available for them to move into.
