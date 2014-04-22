@@ -26,4 +26,4 @@ Investigate a fairer system than the current 'band' system of council tax.
 
 ## Housing Benefit
 
-Repeal the "Bedroom Tax", that punishes housing benefit claimants for having spare rooms, when in many cases, smaller properties are not available for them to move into.
+Repeal the size criteria for housing benefit (commonly known as the "Bedroom Tax"), which punishes housing benefit claimants for having spare rooms when in many cases smaller properties are not available for them to move into.
