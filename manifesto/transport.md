@@ -40,3 +40,7 @@ Encourage automobile manufacturers to agree upon an open and non-proprietary sta
 ## Electric Vehicles
 
 Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
+
+## Railways
+
+Automate the national rail system in order to increase throughput of the existing system and enhance safety. The automation plan should be created with rail unions to keep redundancies to a minimum throughout the process and avoid industrial action.
