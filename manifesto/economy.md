@@ -3,6 +3,7 @@ title: Economy
 layout: policy
 published: true
 ---
+
 * table of contents
 {:toc}
 
@@ -14,12 +15,12 @@ What policies should we propose to maintain a competitive economy that provides 
 
 The personal income tax allowance will be set at the level of a full time living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65) and will rise inline with the living wage.
 
-The rate of capital gains tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
+Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
-Investigate viability of moving from an income-assessed direct taxation to wealth assessed direct taxation. Those who earn significant salaries but do not accumulate wealth or assets beyond a single property (ie ensuring a genuine 'trickle-down' to the service industries) should be taxed less. This means hard-work is still encouraged, high-earners are not forced abroad, but those who sit on vast sums of accumulated wealth would be penalised instead.
+The rate of Asset Tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
 ### VAT
-Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU.
+Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
 ## Social Security
 
@@ -51,7 +52,7 @@ We will complete the metrification of the UK started in 1965, but never complete
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
 
-All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1], including being subject to FOI requests and Open Data publication requirements.
+All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
 
 ## Public Sector
 
@@ -62,5 +63,9 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
 
 In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
+
+## P2P Open Source Currency and role of Central Bank?
+
+We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)

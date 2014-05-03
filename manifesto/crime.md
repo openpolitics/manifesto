@@ -3,7 +3,7 @@ title: "Crime & Justice"
 layout: policy
 published: true
 ---
-* table of contents 
+* table of contents
 {:toc}
 
 What policies should we adopt to ensure a fair justice system?
@@ -24,7 +24,9 @@ All frontline Police officers will be equipped with personal cameras for the pot
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw 'religious courts' and implement rigorous protection regimes for whistleblowers.
+Specifically outlaw 'religious courts'.
+
+Implement rigorous protection regimes for whistleblowers.
 
 
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times

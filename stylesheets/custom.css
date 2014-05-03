@@ -1,8 +1,26 @@
-h1 { 
+.navbar {
+  border-bottom: 0px;
+}
+
+.jumbotron {
+/*  background-image: url(/images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-right: 100px;*/
+
+  width: 100%;
+  background-color: #033769;
+  color: white;
+  margin-top: -20px;
+  border-radius: 0px !important;
+
+}
+
+h1 {
   counter-reset: section;
 }
 
-.policy h2:before { 
+.policy h2:before {
   font-style: italic;
   content: counter(section) ". ";
 }
@@ -16,12 +34,12 @@ h1 {
   counter-increment: paragraph;
 }
 
-.policy > p:before { 
+.policy > p:before {
   font-style: italic;
   content: counter(section) "." counter(paragraph) ". ";
 }
 
-.policy > p:first-of-type, .homepage > p:first-of-type {
+.policy > p:first-of-type, #homepage > p:first-of-type {
   font-size: 125%;
 }
 

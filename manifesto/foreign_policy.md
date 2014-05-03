@@ -8,6 +8,12 @@ published: true
 
 What policies should we adopt in our relations with other countries?
 
+## Internationalist Stance
+
+We believe that a clear view of the role that the UN, EU, NATO and other international bodies play in reducing the likelihood of war should be clearly and unambiguosly communicated to the electorate. 
+
+The UK should also use it's membership of such bodies to influence them to reinforce this role and use this peaceful approach whenever possible to avoid conflict.
+
 ## European Union
 
 We believe that the UK should continue to be a strong voice in the EU. We believe that the EU project is worth pursuing, as it has brought major advantages in terms of political and military stability, scientific progress, economic power, and global influence.
