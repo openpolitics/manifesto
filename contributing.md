@@ -28,6 +28,8 @@ We are not using a straight majority voting system, as it's not suited to a long
 
 Changes will be merged when 20% of existing contributors excluding the proposer (currently 2) have approved the pull request with a 'thumbs-up' symbol in the comments. This proportion may change later, based on how active contributors are; it would be good to increase it, but at the moment this is a practical level.
 
+All changes (aside from very minor ones) should remain open for discussion for at least 1 month before being merged.
+
 Any contributor can block a merge by including a 'thumbs-down' symbol, as long as they include constructive reasoning and alternative proposals. A change cannot be merged as long as there are blocks in place.
 
 Votes are counted by an automated script, which sets the GitHub build status on the pull request depending whether enough votes have been received. See the [Open Votes](http://votebot.openpolitics.org.uk) page for details and vote counts. Changes are merged by a [repository administrator](https://github.com/orgs/openpolitics/members) once consensus is reached.
