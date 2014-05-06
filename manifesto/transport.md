@@ -43,4 +43,4 @@ Incentivise existing fuelling stations to install charging units for electric ve
 
 ## Railways
 
-Automate the national rail system (including London Underground) in order to increase throughput of the existing system and enhance safety. The automation plan should be created with rail unions to keep redundancies to a minimum throughout the process and avoid industrial action.
+Develop a long-term plan for complete electrification of the national rail network, and the replacement of diesel trains with electric multiple-units. This has the benefit of reduced emissions, improved efficiency, quieter and more comfortable trains. Alongside electrification, signalling should be updated to [ETCS](http://en.wikipedia.org/wiki/European_Train_Control_System) level 2 or 3 standard for improved safety and efficiency.
