@@ -10,7 +10,7 @@ What level of military capability should we maintain? What role does our militar
 
 ## Nuclear Disarmament
 
-The UK should commit to not renewing the Trident Nuclear Deterrent in order to ensure it can afford sufficent conventional defence forces.  
+The United Kingdom should take a role as international leader in pursuit of global nuclear disarmament, beginning with a promise to discontinue its own existing nuclear arsenal following any reforms of its conventional forces necessary for the United Kingdom to meet its security needs and international obligations. The United Kingdom should be resolutely opposed to horizontal and vertical nuclear proliferation in all forms and lead by example in pursuit of a world free of nuclear warheads and delivery mechanisms.
 
 ## Role of UK Armed Forces
 
