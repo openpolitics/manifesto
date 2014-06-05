@@ -24,6 +24,7 @@ There are many people thinking about the new opportunities that the Internet bri
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
 * [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
 * [The Bridge: How The Politics Of The Future Will Link The Vertical To The Horizontal](http://www.compassonline.org.uk/wp-content/uploads/2014/03/Compass-The-Bridge2.pdf) by Uffe Elbæk &amp; Neal Lawson
+* [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.rebootdemocracy.org/book/) by Manuel Arriaga
 
 ## Discussion
 
