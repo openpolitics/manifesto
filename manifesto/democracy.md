@@ -35,7 +35,7 @@ Allow for full and proper recall of MPs: any e-petition to recall their MP suppo
 
 Replace the House of Lords with a second chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
 
-Citizens are selected from the electoral roll, serve a single 5-year term, and one fifth of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
+Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
 ## Party Funding
 
