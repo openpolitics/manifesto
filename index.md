@@ -24,6 +24,7 @@ There are many people thinking about the new opportunities that the Internet bri
 * [Open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) on Wikipedia
 * [Future Perfect: The Case for Progress in a Networked Age](http://books.google.co.uk/books/about/Future_Perfect.html?id=658_qrR_rtUC) by Steven Johnson
 * [The Bridge: How The Politics Of The Future Will Link The Vertical To The Horizontal](http://www.compassonline.org.uk/wp-content/uploads/2014/03/Compass-The-Bridge2.pdf) by Uffe Elbæk &amp; Neal Lawson
+* [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.rebootdemocracy.org/book/) by Manuel Arriaga
 * [The Courageous State: Rethinking Economics, Society and the Role of Government](http://www.goodreads.com/book/show/13233159-the-courageous-state) by Richard Murphy
 * [Enough is Enough: Building a Sustainable Economy in World of Finite Resources](http://www.goodreads.com/book/show/15814047-enough-is-enough) by Rob Dietz, Dan O'Neill and Herman Daly
 * [The Spirit Level: Why More Equal Societies Almost Always Do Better](http://www.goodreads.com/book/show/6304389-the-spirit-level) by Richard Wilkinson and Kate Pickett.
