@@ -20,7 +20,7 @@ If you're more familiar with GitHub, you can of course use the standard fork / p
 * All contributions and discussions should be public, ideally on GitHub.
 * Plain English is essential - follow the GDS style guide if you can, or use [Hemingway](http://hemingwayapp.com) to test readability. Try to avoid political weasel-words.
 * Make changes small, self-contained, and simple. Large changes will take a lot longer to get agreed upon and merged. Small is agile.
-* All content is public domain. By submitting a change, you agree that you are putting your work into the public domain. See [the full license](license.html) for details.
+* All content is public domain. Please sign the [Contributor License Agreement](https://www.clahub.com/agreements/openpolitics/manifesto) when you make a contribution. See [the full license](license.html) for details.
 
 ## Merging Changes
 

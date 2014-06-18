@@ -16,6 +16,7 @@ Government-backed lending schemes will be offered to landlords with unoccupied r
 ## Rental Sector
 
 With fewer people able to afford to buy, many are renting. We will carry out a public review, taking evidence from all relevant parties, into the private rented housing sector to look at;
+
   * landlord accountability
   * fairness in tenancy agreements
   * the effect of the rental sector on house prices
