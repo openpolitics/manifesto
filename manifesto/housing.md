@@ -24,7 +24,7 @@ With fewer people able to afford to buy, many are renting. We will carry out a p
 
 ## Council Tax
 
-Investigate a fairer system than the current 'band' system of council tax.
+Council tax will be discontinued and replaced with a 'Property tax', set at 0.5% of the property's value and payable by the owner of the property whether it is occupied or not. The property's value will be calculated by an initial valuation, and then rise or fall annually in line with the ONS regional house price index (HPI). 
 
 ## Housing Benefit
 
