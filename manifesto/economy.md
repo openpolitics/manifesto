@@ -68,6 +68,6 @@ In parallel, work at an international level to get rid of tax havens outside Bri
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
 
-The central bank will be given the remit of 'reducing inequality' alongside its existing remits of maintaining inflation at 2% and promoting 'stability'. 
+The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
