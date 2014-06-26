@@ -28,5 +28,6 @@ Specifically outlaw 'religious courts'.
 
 Implement rigorous protection regimes for whistleblowers.
 
+A review will be carried out into the composition of juries, especially for complex trials.
 
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
