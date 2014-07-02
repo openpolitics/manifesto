@@ -3,6 +3,8 @@ title: Housing
 layout: policy
 published: true
 ---
+* table of contents
+{:toc}
 
 ## Empty Properties
 
