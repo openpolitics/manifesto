@@ -39,6 +39,13 @@ Abolish automatic appointment of bishops to the House of Lords.
 
 ## Party Funding
 
+Public funding for political parties will be introduced. This will take the form of a small fixed payment (e.g. £1) for each vote received. This will have at least five beneficial effects:
+1) Making votes valuable for parties beyond simply winning marginal seats (rewarding broad-based support)
+2) Allowing parties to focus on policies rather than fundraising
+3) Diminishing the disproportionate and potentially corrupting influence of large private or corporate donors
+4) Ensuring that parties see the voting public as their primary customers
+5) Giving a financial incentive for *all* parties to drive up voter participation
+
 Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
