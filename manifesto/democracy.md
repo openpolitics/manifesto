@@ -76,7 +76,7 @@ Devolve all legislative powers currently enjoyed by the Scottish Parliament to e
 
 ## MPs pay and expenses
 
-MPs should be paid a good wage, based on the income profile of the country. It could, for instance, be set at the 90th income percentile, though this is not a final proposal. All MPs would receive this same wage, which would change on an annual basis as the average wage changes.
+MPs should be paid a good wage, based on the income profile of the country. In the first instance, we propose that this should be set at 3.0x median wage. All MPs would receive this same wage, which would change on an annual basis as the median wage changes.
 
 Serving MPs should not hold second jobs unless they can show that there is no conflict with their role as MP, both in terms of time required and conflict of interest. This includes directorships and advisory posts.
 
