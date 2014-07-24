@@ -3,6 +3,9 @@ rvm:
 - 2.1.2
 script: "jekyll build"
 before_deploy: "cd _site"
+branches:
+  only:
+    - gh-pages
 deploy:
   provider: cloudfiles
   username: floppy
