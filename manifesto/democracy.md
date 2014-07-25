@@ -72,7 +72,13 @@ To improve the ability of citizens to hold politicians to account for the promis
 
 ## Devolution
 
-Devolve all legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. The UK Parliament to retain control over macro-economic, foreign, and defence policy.
+We support the principle of subsidiarity, in the general sense that decisions should be devolved to the most local organisational level capable of effectively handling the issue.
+
+Our current view is that:
+a) We should consider devolving legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in England, Wales and (eventually) Northern Ireland. 
+b) The UK Parliament to retain control over macro-economic, foreign, and defence policy.
+
+In the case that a local area is unable to deal with any issue effectively, there shall be an escalation path available to ensure that the issue can be decided at the next broader level.
 
 ## MPs pay and expenses
 
