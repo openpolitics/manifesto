@@ -3,5 +3,7 @@ tagline: An open source plan for the UK. Take control, and create the future you
 
 markdown: kramdown
 
+exclude: ["vendor"]
+
 kramdown:
   auto_ids: true
