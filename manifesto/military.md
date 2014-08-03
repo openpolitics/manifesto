@@ -14,7 +14,9 @@ The United Kingdom should take a role as international leader in pursuit of glob
 
 ## Role of UK Armed Forces
 
-UK Armed Forces should only be deployed within the context of the international organisations to which the UK belongs (such as the UN, EU and NATO) and with the overall aim of reducing the likelihood of war or other armed conflict (see [Foreign Policy](foreign_policy.html)); or for the protection of UK or commonwealth interests against threat either military or natural in origin.
+UK Armed Forces should be deployed within the context of the international organisations to which the UK belongs (such as the UN, EU and NATO) and with the overall aim of reducing the likelihood of war or other armed conflict (see [Foreign Policy](foreign_policy.html))
+When the UK Armed Forces are deployed or for the protection of UK interests, or those of other nations, the approval and participation of the appropriate international organisation shall be sought. Where such approval is not forthcoming the government should justify the decision to act.
+The UK Armed Forces should not be deployed for unprovoked aggressive/expansionist hostilities.
 
 UK Armed Forces should be structured to focus on humanitarian, peace-keeping, peace enforcement, maritime search-and-rescue, mine and explosive ordnance clearance, anti-piracy, and counter-terrorism operations as well as providing support to UK emergency services during natural and civil disasters.
 
