@@ -7,3 +7,5 @@ exclude: ["vendor"]
 
 kramdown:
   auto_ids: true
+
+baseurl: /
