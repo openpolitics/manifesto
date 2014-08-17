@@ -9,3 +9,5 @@ kramdown:
   auto_ids: true
 
 baseurl: /
+
+data_source: data
