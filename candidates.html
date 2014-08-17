@@ -12,15 +12,21 @@ This is a list of candidates who have announced that they will be standing in th
   <tr>
     <th>Name</th>
     <th>Constituency</th>
-    <th>Contact</th>
+    <th>Website</th>
+    <th>Twitter</th>
+    <th>Facebook</th>
   </tr>
-  <tr>
-    <td>James Smith</td>
-    <td>Horsham</td>
-    <td><a href='http://openhorsham.org.uk'>Open Horsham</a>, <a href='http://twitter.com/Floppy'>@Floppy</a></td>
-  </tr>
+  {% for candidate in site.data.candidates %}
+    <tr>
+      <td>{{ candidate.name }}</td>
+      <td>{{ candidate.constituency }}</td>
+      <td><a href='{{ candidate.website }}'>{{ candidate.website_title }}</a></td>
+      <td><a href='https://twitter.com/{{ candidate.twitter }}'>@{{ candidate.twitter }}</a></td>
+      <td><a href='https://facebook.com/{{ candidate.facebook }}'>{{ candidate.facebook_title }}</a></td>
+    </tr>
+  {% endfor %}
 </table>
 
 <h2>Standing</h2>
 
-If you want to stand on the OpenPolitics Manifesto in <em>your</em> area, <a href='https://github.com/openpolitics/manifesto/edit/gh-pages/candidates.html'>add yourself to the list here</a>!
+If you want to stand on the OpenPolitics Manifesto in <em>your</em> area, <a href='https://github.com/openpolitics/manifesto/edit/gh-pages/_data/candidates.yml'>add yourself to the list here</a>!

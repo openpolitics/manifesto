@@ -1,0 +1,13 @@
+-
+  election: uk-parliament
+  election_date: 2015-05-07
+  name: James Smith
+  constituency: Horsham
+  twitter: Floppy
+  facebook: openhorsham
+  facebook_title: Open Horsham
+  website: http://openhorsham.org.uk
+  website_title: Open Horsham
+
+# To add yourself, copy and paste the whole section above starting with the dash,
+# and add another copy.
