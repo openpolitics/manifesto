@@ -14,6 +14,8 @@ Your change will be entered into the [discussion queue](http://votebot.openpolit
 
 If you're more familiar with GitHub, you can of course use the standard fork / pull request model. The repository is [openpolitics/manifesto](https://github.com/openpolitics/manifesto).
 
+Want to contribute but aren't sure what you can start with? Check out the [to-do list](todo.html).
+
 ## The Rules
 
 * *Anything* can be changed.
