@@ -8,7 +8,7 @@ The content of the OpenPolitics Manifesto is has been put into the public domain
 </p>
 
 <div class="well" style='max-width: 500px; margin-left: auto; margin-right: auto; text-align: center'>
-  
+
   <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
     <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a>
   </p>
@@ -16,7 +16,7 @@ The content of the OpenPolitics Manifesto is has been put into the public domain
     To the extent possible under law,
     <a rel="dct:publisher"
        href="http://openpolitics.org.uk">
-      <span property="dct:title">The OpenPolitics Project</span></a>
+      <span property="dct:title">The OpenPolitics Network</span></a>
     has waived all copyright and related or neighboring rights to
     <span property="dct:title">The OpenPolitics Manifesto</span>.
   This work is published from the
