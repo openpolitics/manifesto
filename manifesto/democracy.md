@@ -100,9 +100,17 @@ Ban unelected Lords from serving in Government.
 
 Cabinet appointments will be subject to a vote of approval by the House of Commons.
 
+## Royal Secrecy
+
+Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^2].
+
+Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
+
+Adopt full disclosure of royal lobbying and influence, including disclosure of meetings between members of the royal family and ministers.
+
 ## Republic
 
-To become a truly democratic country, the UK should become a republic. The monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
+To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
 
 The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
 
@@ -115,3 +123,4 @@ The President will be equal before the law, and will not be protected by [Sovere
 Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
+[^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
