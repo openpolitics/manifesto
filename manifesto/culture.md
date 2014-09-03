@@ -24,4 +24,4 @@ Encourage the Advertising Standards Authority to tighten regulations around the 
 
 ## Revenge Porn
 
-The sharing, duplication or distribution of naked or sexually explicit images or videos without the consent of participants, even when consent may have originally been granted at the point of filming, should be a criminal offence.
+The distribution of naked or sexually explicit images or videos without the consent of participants should be a criminal offence.
