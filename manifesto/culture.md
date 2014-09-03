@@ -21,3 +21,7 @@ Immediately reduce the term of copyright from '70 years from the end of the cale
 Encourage the Advertising Standards Authority to tighten regulations around the use of pseudo-scientific language and terminology for the promotion of cosmetic, toiletry, food or other products, without sufficient evidence.
 
 [^1]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
+
+## Revenge Porn
+
+The sharing, duplication or distribution of naked or sexually explicit images or videos without the consent of participants, even when consent may have originally been granted at the point of filming, should be a criminal offence.
