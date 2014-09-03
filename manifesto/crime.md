@@ -15,7 +15,7 @@ attempt to reintroduce it.
 
 ## Removal of British Citizenship for Terrorist Acts Abroad 
 
-We are opposed to the removal of British citizenship as a sentence for committing terrorist offences abroad, which may leave individuals stateless. We also reject the suggestion of denying entry into the UK for British citizens suspected of commmtting terrorist offences abroad without having undergone due criminal proceedings. Where reasonable suspicion of such a criminal act occurs it should be investigated for possible prosecution within the criminal justice system. 
+We are opposed to the removal of British citizenship as a sentence for committing terrorist offences abroad, which may leave individuals stateless. We also reject the suggestion of denying entry into the UK for British citizens suspected of committing terrorist offences abroad without having undergone due criminal proceedings. Where reasonable suspicion of such a criminal act occurs it should be investigated for possible prosecution within the criminal justice system. 
 
 ## Right to Die
 
