@@ -57,7 +57,7 @@ Given each EU member country has the right to select the electoral system they u
 
 ## Transparency
 
-Require all MPs to publish details of any meeting with any individual or group who is not a constituent.
+Require all MPs to retrospectively publish their diaries on a daily basis as open data.
 
 Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
 
