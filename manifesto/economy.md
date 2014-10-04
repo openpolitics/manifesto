@@ -30,6 +30,8 @@ We will support research into a [universal basic income](https://en.wikipedia.or
 
 Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate.
 
+Improve rental rights, such that residential tenants cannot be evicted if they are paying market rate rent and have not damaged the property. Create a general principle that for tenants a property is their home and core to their life, whereas for landlords it is but a piece of property and simply a financial asset.
+
 ## Business
 
 Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasability and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (ie taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone.
