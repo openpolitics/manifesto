@@ -5,6 +5,19 @@ published: true
 
 # The OpenPolitics Manifesto
 
+## Purpose
+
+Without a purpose, a country will ebb and flow on the selfish whimsy of its people.
+
+The purpose of the United Kingdom is:
+
+1) For everyone in the world to fully receive all the rights universally declared [^1]
+
+2) For that situation to be indefinitely achieved
+
+3) To then spend our time fully understanding ourselves, the earth and the universe through the arts, science and exploration.
+
+
 ## Principles
 
 We believe that government should serve the people, and that 'the state', so often derided, is simply the way that citizens work together to enhance the public good.
@@ -37,3 +50,5 @@ The ideas contained in this manifesto are intentionally idealistic; they show th
     {% endif %}
   {% endfor %}
 </ol>
+
+[^1] [The Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/) - United Nations
