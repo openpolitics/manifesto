@@ -83,7 +83,7 @@ In the case that a local area is unable to deal with any issue effectively, ther
 
 ## MPs pay and expenses
 
-MPs should be paid a good wage, based on the income profile of the country. In the first instance, we propose that this should be set at 3.0x median wage. All MPs would receive this same wage, which would change on an annual basis as the median wage changes.
+MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
 
 Serving MPs should not hold second jobs unless they can show that there is no conflict with their role as MP, both in terms of time required and conflict of interest. This includes directorships and advisory posts.
 
