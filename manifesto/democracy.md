@@ -33,9 +33,7 @@ Allow for full and proper recall of MPs: any e-petition to recall their MP suppo
 
 ## Elected House of Lords
 
-Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
-
-Abolish automatic appointment of bishops to the House of Lords.
+Create an Upper House of Parliament which is selected from the population by lottery, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
 
 ## Party Funding
 
