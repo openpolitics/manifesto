@@ -48,4 +48,8 @@ Whilst it's right that those nations that make the greatest contribution to UN t
 
 Resist the adoption of international treaties that could allow unelected institutions to have a chilling effect on government policy that is in the public interest of UK voters. A current example is the Investor-State Dispute Settlement (ISDS) process in the TTIP treaty currently under negotiation[^1], which undermines democratic processes and could prevent the government taking action which benefits the UK if it causes potential losses for foreign investors.
 
+## Recognition of Palestine
+
+The UK should join many other countries around the world, as well as the UN, and officially recognise Palestine as a sovereign state. This is in line with our existing national preference for a two-state solution to the Israel/Palestine conflict in accordance with international law.
+
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
