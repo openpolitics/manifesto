@@ -9,11 +9,15 @@ published: true
 
 What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 
+## Minimum Wage
+
+The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
+
 ## Taxation
 
 ### Income Tax
 
-The personal income tax allowance will be set at the level of a full time living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65) and will rise inline with the living wage.
+The personal income tax allowance will be set at the level of a full time living wage and will rise inline with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
 
 Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
