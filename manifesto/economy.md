@@ -22,6 +22,10 @@ The rate of Asset Tax for individuals will be harmonized with the rate of tax on
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
+### Financial Transaction Tax
+
+Introduce a tax on financial transactions, commonly known as a "Robin Hood Tax". To increase friction in speculative financial markets, a tax of around 0.05% would be levied on on transactions like stocks, bonds, foreign currency and derivatives.[^1]
+
 ## Social Security
 
 We will support research into a [universal basic income](https://en.wikipedia.org/wiki/Basic_income) and its effects on society and the economy, with the aim of eradicating poverty and providing a basic standard of living for all.
@@ -52,7 +56,7 @@ We will complete the metrification of the UK started in 1965, but never complete
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
 
-All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
+All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^2].
 
 ## Public Sector
 
@@ -70,4 +74,5 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
-[^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^1]: [Robin Hood Tax Campaign](http://robinhoodtax.org.uk/)
+[^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
