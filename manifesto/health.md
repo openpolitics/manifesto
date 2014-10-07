@@ -18,7 +18,7 @@ The NHS will not deny care to anyone for any reason, regardless of legal status,
 
 Ban parking charges in car parks serving NHS facilities. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
-A "maternity package" of useful items for newborn babies will be provided free to charge to mothers who register for NHS antenatal care before the end of the fourth month of pregnancy.
+A "maternity package" of useful items for newborn babies (similar to [the one offered in Finland](http://www.kela.fi/web/en/maternitypackage)) will be provided free to charge to mothers who register for NHS antenatal care before the end of the fourth month of pregnancy.
 
 ## Dentists
 
