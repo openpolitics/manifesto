@@ -52,6 +52,7 @@ We will work towards;
 * Extending the Right of First Refusal to all tenants of a property being sold by a private landlord and additionally preventing landlords from accepting offers below any offers made by tenants but refused
 * Requiring all deposit protection schemes to be custodial, thereby preventing a landlord from exiting a scheme and forcing the tenant through the courts
 * Landlords will be required to submit audited accounts to HMRC and the HCA so that wear and tear costs are properly accounted for.
+* Written tenancy agreements will be made mandatory with model agreements provided by the regulator.
 
 ## Council Tax
 
