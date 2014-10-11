@@ -20,6 +20,7 @@ Below are the ideas we will explore in Government in the hope of achieving these
 
 Concerning the market for buying and selling homes, we will work towards;
 
+* Starting a secondary housing market, where funding is provided to build homes that must be sold at cost, with the proceeds being reinvested into building more homes on the same basis.
 * Introducing new powers for local councils to issue compulsory purchases of land and property unused for three years or more, where the land could be used for new homes. Land and property purchased under such schemes will then be diverted to registered social landlords (RSLs) only, with a requirement that properties are either let at social rents or sold under shared ownership schemes.
 * Requiring all of government (local and national) to continually review property and land portfolios, it's suitability for housing, and to sell to RSLs along the same lines as above.
 * Scrapping the Help To Buy scheme which encourages those for whom houses are unaffordable to take out a risky and complicated financial product to help with their deposit.
@@ -50,6 +51,7 @@ We will work towards;
 * Linking the [Rent a Room](https://www.gov.uk/rent-room-in-your-home/the-rent-a-room-scheme) tax break to inflation
 * Extending the Right of First Refusal to all tenants of a property being sold by a private landlord and additionally preventing landlords from accepting offers below any offers made by tenants but refused
 * Requiring all deposit protection schemes to be custodial, thereby preventing a landlord from exiting a scheme and forcing the tenant through the courts
+* Landlords will be required to submit audited accounts to HMRC and the HCA so that wear and tear costs are properly accounted for.
 
 ## Council Tax
 
