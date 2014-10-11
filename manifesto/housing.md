@@ -43,8 +43,8 @@ We will work towards;
 * Introduce minimum requirements for self-regulation of letting agencies, overseen by the Homes and Communities Agency (HCA)
 * Grant power to the HCA to step in and regulate letting agents if it feels self-regulation isn't satisfactory
 * Ban letting agents from charging fees to tenants, shifting the cost onto the landlords who are benefitting and preventing tenant exploitation
-* Introduce legal minimum Assured Shorthold Tenancies (ASTs) of five years with tenants able to give notice after the first year and section 21 notices only available to the landlord after give years[^1]
-* Giving landlords who give tenants long term (3 years or more) tenancy agreements will benefit from a reduced income tax rate on their rental profit
+* Introduce legal minimum Assured Shorthold Tenancies (ASTs) of five years with tenants able to give notice after the first year and section 21 notices only available to the landlord after five years[^1]
+* Giving landlords who give tenants long term (3 years or more) tenancy agreements a reduced income tax rate on their rental profit
 * Introducing an "earned notice" model, as proposed by Generation Rent[^1], ensuring tenants have a minimum of two months notice to vacate a property but notice period would increase while the tenant remained, up to a limit of 9 months
 * Preventing rents from increasing more than inflation, ensuring that rents do not outstrip wages, and by setting rent caps based on local earnings[^1]
 * Implementing a deposit bond scheme to replace existing tenancy deposits, underwritten by Government, and as recommended by Generation Rent[^1]
