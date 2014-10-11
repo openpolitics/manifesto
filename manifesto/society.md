@@ -40,6 +40,8 @@ We propose a system that will allow employers to seek the best and brightest fro
 
 We also wish to ensure the United Kingdom remains committed to fulfilling its international obligations as a safe haven for anyone suffering, or at risk of suffering, persecution for their political or religious views, or because of their actual or perceived race, gender or sexual orientation.
 
+To prevent abuse of the British Benefit System from so called "Benefit Tourism" by immigrants from other EU Member States (and to limit the expansion of far right wing policy) an immigrant from an EU State shall not be entitled to receive Financial or other UK Tax Payer funded Benefit unless the immigrant has a minimum UK employment record of at least xxx [period TBD] months. We propose that all EU immigrants continue to receive the state funded benefits of their country of origin, paid for by the government of their country of origin until such time as the immigrant qualifies to receive UK Tax Payer Funded State Benefits. We recognise this will require an EU mechanism to function properly and we will look to promote that policy as a "fair for all" policy through the EU and until that is adopted we shall instigate a unilateral policy to protect the UK national interest until such time as an EU wide policy is in place.
+
 ## State Honours
 
 The state should be able to honour deceased individuals in ways that the current Honours System does not allow (eg remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
