@@ -9,6 +9,21 @@ published: true
 
 What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 
+## The Austerity Act
+
+The impact of austerity budgets on individuals and households has been a great strain on the British people, particularly while the cost of living has risen and wages have been suppressed.
+
+This Act would implement measures that would halt the draining of money from the taxpayer by private companies that are addicted to the taxayer teat.
+
+### The Better Cheaper Test
+
+The Austerity Act will allow any state entity to void without penalty any private sector contract where the service provide is neither better nor cheaper than can be provided in-house. Where a service is better or cheapery (but not both), the state agency may unilaterally change contract terms to ensure the supplier meets both tests. Contracts of private providers who are both better and cheaper will be protected. The test of value for money will include all the aims of the state rather than just those of the contract in question, therefore, if a private provider pays low wages in order to be cheaper, but those employees are necessarily on benefits as a result, then this would be counted against the supplier in the value for money test.
+
+### Taxpayer profiteering
+
+There will be a cap on profits derived from taxpayer-funded contracts. Suppliers will be required to report and return excess profits or face sanction
+
+
 ## Taxation
 
 ### Income Tax
