@@ -31,11 +31,11 @@ Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
 
-## Elected House of Lords
+## Lords Reform
 
-Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
+Replace the House of Lords with a second chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
 
-Abolish automatic appointment of bishops to the House of Lords.
+Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
 ## Party Funding
 
