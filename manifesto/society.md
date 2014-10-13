@@ -54,7 +54,7 @@ The state should not seek to incentivise marriage through the tax system. But it
 
 Our entire society and economy is centred around the principle of continued economic growth driven by ever increasing consumption. Everyone in society is put under pressure to put in more hours at work, to aim for the next promotion, to get a better salary, to get a bigger house and fill it with more things - depsite the fact this rarely leads to increased happiness or contentment. We feel pressure to do so because it's expected of us, because of peer and family pressure, and because of the constant stream of advertising on the web, TV, radio and billboards. The Government encourage this in order to grow the economy forever more, whilst ignoring the fact it creates feelings of peer inadequacy, is causing chronic physical and mental exhaustion in our workforce, is fuelling an obesity crisis, and is hugely damaging to our natural environment.
 
-This manifesto would encourage the Government to recognsise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental wellbeing, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
+We recognsise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental wellbeing, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
 
 
 
