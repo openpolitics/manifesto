@@ -39,4 +39,12 @@ Implement rigorous protection regimes for whistleblowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
+## Firearms
+
+The right to own firearms for sporting, hunting and pest control will be respected. 
+
+The licencing process will be strengthened to include mandatory mental health assessements and regular inspections to ensure safe storage & lawful possesion.
+
+A minimum age of 18 will be instigated for any shotgun certificate application.
+
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
