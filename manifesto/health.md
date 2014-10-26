@@ -8,15 +8,15 @@ published: true
 
 How do we ensure a healthy population?
 
-## National Health Service
+## Depoliticisation and protection of the National Health Service
 
-In order to support every citizen's basic right to medical care and health services, we will maintain and enhance the NHS, keeping it as a free service available to anyone in the UK.
+Politicians cannot be trusted with the NHS. We will make the NHS independent, governed by a constitution created by a citizen-led constitutional convention.
 
-In order to deliver a high quality of care in the NHS, the government must provide sufficient funding and investment in the system.
+NHS funding will be protected by legislation that binds the Government to committing an amount, decided by the constitutional convention, with increases linked to a measure such as GDP or inflation.
 
 The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see [doitreatthisimmigrant.com](http://doitreatthisimmigrant.com/)).
 
-Ban parking charges in car parks serving NHS facilities. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
+Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
 ## Dentists
 
