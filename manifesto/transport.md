@@ -11,7 +11,7 @@ What policies could improve public and private transport infrastructure?
 
 ## Removal of Fossil Fuels
 
-We will decrease emissions from road transport by setting a date beyond which no new fossil-fuel powered vehicles may be sold in the UK.
+We will decrease emissions from road transport by ensuring that the technology to create low / zero emission transportation and related infrastructure is as cheap and freely available as possible. We will aim to set a date beyond which no new solely fossil-fuel powered vehicles may be sold in the UK and will pursue an agenda to eliminate fossil fuels from the transportation network entirely.
 
 ## National Infrastructure Organisations
 
