@@ -13,9 +13,8 @@ the world.
 
 ## Decarbonisation
 
-We will aim to decarbonise the electricity supply by 2030, through a combination of renewable generation and new nuclear
-power (including alternative nuclear generation methods such as Thorium power). Fossil fuel plants will be allowed to operate
-only if capturing 100% of their carbon emissions using CCS technology.
+We will decarbonise the electricity supply by 2030, through a combination of renewable generation and new nuclear
+power (including alternative nuclear generation methods such as Thorium power). Fossil fuel plants will be allowed to operate only if capturing 100% of their carbon emissions using CCS technology.
 
 ## Resilience and Self-Sufficiency
 
@@ -38,3 +37,8 @@ Simplify buy back rates so that solar, wind, hydro and all other renewables shar
 ## Fossil Fuel Industry
 
 Forbid new fossil fuel extraction in the UK (such as oil drilling, fracking, or coal mining), except for non-combustion industrial purposes such as production of plastics or pharmaceuticals.
+
+## EU Supergrid
+
+Support development of a European and North African supergrid, enabling continent-wide transmission of renewable energy, and the long term energy security of Europe and North Africa. Such a grid would connect British 
+wind, Icelandic geothermal, Nordic hydropower, and African solar into a single system which capable of coping with variability in renewable sources.
