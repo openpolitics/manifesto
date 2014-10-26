@@ -21,6 +21,8 @@ Introduce a 'None of the Above' box on all ballot papers to formally and positiv
 
 Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
 
+Introduce new constituencies for British citizens living abroad. 
+
 Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
 Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
