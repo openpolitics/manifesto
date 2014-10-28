@@ -10,6 +10,8 @@ How do we ensure a healthy population?
 
 ## Depoliticisation and protection of the National Health Service
 
+In order to support every citizen's basic right to medical care and health services, we will maintain and enhance the NHS, keeping it as a free service available to anyone in the UK.
+
 Politicians cannot be trusted with the NHS. We will make the NHS independent, governed by a constitution created by a citizen-led constitutional convention.
 
 NHS funding will be protected by legislation that binds the Government to committing an amount, decided by the constitutional convention, with increases linked to a measure such as GDP or inflation.
