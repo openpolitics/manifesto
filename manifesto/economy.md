@@ -77,3 +77,9 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+
+## Land Ownership
+
+Follow recommendations regarding transparency in the [Lyons Housing Review] (http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
+information to the public in a similar manner as the property price paid data set and make it a legal
+requirement to register land option agreements, transactions and prices."
