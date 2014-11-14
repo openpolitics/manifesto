@@ -15,6 +15,8 @@ We believe that education is the keystone that makes all other longer-term strat
 
 Subsequently we recognise that education is about more than simply equipping the future workforce with relevant vocational and professional skills, but about creating a future society that is healthy, wise, and wealthy in all respects.
 
+We believe that learning is life long and should be encouraged in all elements of life, personal and professional.
+
 ## Funding
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
