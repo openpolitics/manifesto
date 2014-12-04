@@ -32,9 +32,12 @@ We will support research into a [universal basic income](https://en.wikipedia.or
 
 ## Housing
 
-Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate.
-
 Improve rental rights, such that residential tenants cannot be evicted if they are paying market rate rent and have not damaged the property. Create a general principle that for tenants a property is their home and core to their life, whereas for landlords it is but a piece of property and simply a financial asset.
+
+## Land Value Tax
+
+Adopt Land Value Taxation (LVT), a charge on the rental value of land not including any improvements made on the site (such
+as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years). LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research.The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets. 
 
 ## Business
 
