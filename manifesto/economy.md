@@ -80,6 +80,6 @@ The central bank will be required to consider the reduction of inequality (as me
 
 ## Land Ownership
 
-Follow recommendations regarding transparency in the [Lyons Housing Review] (http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
+Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
