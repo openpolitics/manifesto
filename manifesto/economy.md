@@ -36,8 +36,7 @@ Improve rental rights, such that residential tenants cannot be evicted if they a
 
 ## Land Value Tax
 
-Adopt Land Value Taxation (LVT), a charge on the rental value of land not including any improvements made on the site (such
-as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years). LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research.The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets. 
+Adopt Land Value Taxation (LVT)[^2], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^3][^4]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
 
 ## Business
 
@@ -80,6 +79,9 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^2]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
+[^3]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
+[^4]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
 
 ## Land Ownership
 
