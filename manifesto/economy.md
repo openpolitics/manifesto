@@ -13,6 +13,8 @@ What policies should we propose to maintain a competitive economy that provides 
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
 
+Help will be given to companies to transition their staff to the minimum wage where their current business plan cannot immediately support a living wage. Companies that continue to make profits whilst paying below the living wage will be liable to fines of up to 100% of those profits, and the directors will be liable to personal prosecution with a penalty equivalent to their entire salary and any dividends, minus the living wage.
+
 ## Taxation
 
 ### Income Tax
