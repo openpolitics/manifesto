@@ -109,15 +109,15 @@ Repeal existing exemptions from the FOIA that allow communications between other
 
 Adopt full disclosure of royal lobbying and influence, including disclosure of meetings between members of the royal family and ministers.
 
-## Republic
+## Constitutional Monarchy
 
-To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
+Although the Constitutional Monarch inherits the role of Head of State by just being born, there is a great deal of benefit in maintaining it in this role.  The Constitutional Monarchy apolitical, is by nature distant from the day to day running of the country, provides continuity and history and exisits for a very limited set of reasons (to carry out important roles such as the appointment of Prime Ministers, approving legislation and bestowing honours).  It is a strong tourist attraction for the country and carries out a large amount of charitable work.  Being a Constitutional Monarchy it is controlled by the constitution (and in the case of United Kingdom, convention) and owes it's continued existence to parliament and, ultimately, the people.  
 
-The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
+Because a Constitutional Monarch has a limited set of reasons to exist, it allows the incumbant to fully learn and understand their role in a way that an elected president wouldn't have the time to do so.  The Consitutional Monarch lives the role.
 
-Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
+The partial seperation of the Constitutional Monarch as Head of State from day to day politics is a very secure way to ensure that the country remains stable.
 
-The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
+Having a Constitutional Monarchy does require a small amount of democratic sacrifice but, as a country, we already have the checks and balances in place to ensure the Monarch doesn't exceed certain boundaries - and we have implemented these on many occassions over the centuries.  For this reason there is no need to change the role of the Constitutional Monarch as Head of State.
 
 ## Democracy Research
 
