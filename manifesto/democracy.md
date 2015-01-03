@@ -15,6 +15,10 @@ The British constitution should be collected into a single written document that
 
 The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
 
+(***APOLOGIES  No idea what I'm doing with the markup language ***)
+
+You don't need a written constitution, which would take years to enact. A constitution already exists of sorts and it's a bit weird. For normal legislation, any conflict between two acts is deemed in a court to favour the newer statute. However, there are special Acts (Single European Act, Human Rights Act etc.) where the courts rule in favour of the special statute, rather than the newer one. So new laws have to comply with these special laws. Trouble is, there's no basis for defining what is a special law. I propose that parliament passes a constitutional facilitation act devining which laws are special in this way. They would have to be passed by 2/3 of both houses of parliament or a simple majority in a referendum. This way you can define the powers of a constitution without getting bogged down in the content, which would be built one law at a time. In many ways the strength of the US constitution is in the amendments. We would be doing the same, but with no starting text. An Open Source constitution?
+
 ## Electoral Reform
 
 Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
