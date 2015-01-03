@@ -24,7 +24,7 @@ Investigate possible reforms to the way VAT is applied to goods and services wit
 
 ### Financial Transaction Tax
 
-Introduce a tax on financial transactions, commonly known as a "Robin Hood Tax", to raise funds and reduce instability from financial speculation. We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016.
+Introduce a tax on financial transactions, commonly known as a "Robin Hood Tax", to raise funds and reduce instability from financial speculation. We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy and Spain).
 
 ## Social Security
 
