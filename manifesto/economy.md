@@ -24,7 +24,7 @@ Investigate possible reforms to the way VAT is applied to goods and services wit
 
 ### Financial Transaction Tax
 
-Introduce a tax on financial transactions, commonly known as a "Robin Hood Tax". To increase friction in speculative financial markets, a tax of around 0.05% would be levied on on transactions like stocks, bonds, foreign currency and derivatives.[^1]
+Introduce a tax on financial transactions, commonly known as a "Robin Hood Tax". To increase friction in speculative financial markets, we will join the EU Financial Transaction Tax[^1].
 
 ## Social Security
 
@@ -74,5 +74,5 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
-[^1]: [Robin Hood Tax Campaign](http://robinhoodtax.org.uk/)
+[^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
