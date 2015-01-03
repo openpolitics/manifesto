@@ -111,7 +111,7 @@ Adopt full disclosure of royal lobbying and influence, including disclosure of m
 
 ## Republic
 
-To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
+To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/what-we-want/new-head-state).
 
 The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
 

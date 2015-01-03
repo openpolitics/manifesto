@@ -32,9 +32,11 @@ We will support research into a [universal basic income](https://en.wikipedia.or
 
 ## Housing
 
-Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate.
-
 Improve rental rights, such that residential tenants cannot be evicted if they are paying market rate rent and have not damaged the property. Create a general principle that for tenants a property is their home and core to their life, whereas for landlords it is but a piece of property and simply a financial asset.
+
+## Land Value Tax
+
+Adopt Land Value Taxation (LVT)[^2], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^3][^4]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
 
 ## Business
 
@@ -77,3 +79,12 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
 [^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^2]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
+[^3]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
+[^4]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
+
+## Land Ownership
+
+Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
+information to the public in a similar manner as the property price paid data set and make it a legal
+requirement to register land option agreements, transactions and prices."
