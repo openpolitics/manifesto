@@ -55,6 +55,10 @@ Prospective parliamentary candidates must have a good connection with the consti
 
 Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
+## Location of UK Parliament
+
+The Palace of Westminster is in need of urgent repair, but is also unsuited for the open and transparent operation of a modern democracy. We propose to permanently move the UK Parliament to a new, custom-built facility, somewhere close to the population centre of the country, such as Birmingham, Manchester or Sheffield. The Palace of Westminster would be maintained as part of the Westminster UNESCO World Heritage Site, perhaps as a museum.
+
 ## Transparency
 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
