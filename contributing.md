@@ -14,7 +14,7 @@ Your change will be entered into the [discussion queue](http://votebot.openpolit
 
 If you're more familiar with GitHub, you can of course use the standard fork / pull request model. The repository is [openpolitics/manifesto](https://github.com/openpolitics/manifesto).
 
-Want to contribute but aren't sure what you can start with? Check out the [to-do list](todo.html).
+Want to contribute but aren't sure what you can start with? Check out the [issue list](https://github.com/openpolitics/manifesto/issues) for some ideas.
 
 ## The Rules
 
@@ -34,7 +34,7 @@ All changes (aside from very minor ones) should remain open for discussion for a
 
 Any contributor can block a merge by including a 'thumbs-down' symbol, as long as they include constructive reasoning and alternative proposals. A change cannot be merged as long as there are blocks in place.
 
-Votes are counted by an automated script, which sets the GitHub build status on the pull request depending whether enough votes have been received. See the [Votes](http://votebot.openpolitics.org.uk) page for details and vote counts. Changes are merged by a [repository administrator](https://github.com/orgs/openpolitics/members) once consensus is reached.
+Votes are counted by an automated script, which sets the GitHub build status on the pull request depending whether enough votes have been received. See the [Votes](http://votebot.openpolitics.org.uk) page for details and vote counts. Changes are merged by a [repository administrator](https://github.com/orgs/openpolitics/people) once consensus is reached.
 
 Once an author has had a change merged in, they will become an existing contributor and thus can vote on new changes.
 

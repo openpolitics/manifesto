@@ -7,7 +7,7 @@ This is a project to create a new kind of politics. We're starting by writing a 
 
 Everyone has ideas about the future - why not add yours? Perhaps you can see something on here you disagree with? Nothing on this site is set in stone - everything and anything is up for discussion, amending, or changing entirely. Your contribution doesn't have to be huge - everything helps!
 
-We are currently not a registered political party, and do not know if we intend to become one, but we are aiming to have a complete-enough manifesto to be able to support candidates (either within a party or independent) in the 2015 general and local elections.
+This is a nonp-partisan project, and we invite all political parties and candidates to adopt this Manifesto of policy ideas. We're really pleased that [Something New](http://www.somethingnew.org.uk) are the first political party to do so, and we hope others will soon follow. The list of candidates standing for election who have openly pledged to adopt the Open Politics Manifesto can be found [here](/candidates.html).
 
 ## Why?
 

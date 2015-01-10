@@ -1,18 +1,9 @@
 language: ruby
 rvm:
-- 2.1.2
-script: "bundle exec jekyll build"
-before_deploy: "cd _site"
+- 2.1.4
+sudo: false
+cache: bundler
 branches:
   only:
     - gh-pages
-deploy:
-  provider: cloudfiles
-  username: floppy
-  api_key:
-    secure: tyvB5HOjS0ScrGBmKH03DOxDESJwvetBqjQftL2gkkKUzRnBGEMe6lOJAUp0pBiJhxrSI7A9CJLy8Dw8G4rtRsSYnhq40jpya2QtoqifE5eAVupnTj2sIVzya4BG3JXlZv+LBciItvh1T0j6MnKCncRZLC82AhXwwe6zNh0cvOY=
-  region: LON
-  container: openpolitics
-  on:
-    repo: openpolitics/manifesto
-    branch: gh-pages
+    - /^.*$/

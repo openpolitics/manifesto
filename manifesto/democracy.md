@@ -31,11 +31,11 @@ Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
 
-## Elected House of Lords
+## Lords Reform
 
-Create an elected Upper House of Parliament for single 15 year terms, with the explicit purpose of revising and improving (not vetoing) legislation initiated by HM Government in the House of Commons.
+Replace the House of Lords with a second chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
 
-Abolish automatic appointment of bishops to the House of Lords.
+Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
 ## Party Funding
 
@@ -83,7 +83,7 @@ In the case that a local area is unable to deal with any issue effectively, ther
 
 ## MPs pay and expenses
 
-MPs should be paid a good wage, based on the income profile of the country. In the first instance, we propose that this should be set at 3.0x median wage. All MPs would receive this same wage, which would change on an annual basis as the median wage changes.
+MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
 
 Serving MPs should not hold second jobs unless they can show that there is no conflict with their role as MP, both in terms of time required and conflict of interest. This includes directorships and advisory posts.
 
@@ -111,7 +111,7 @@ Adopt full disclosure of royal lobbying and influence, including disclosure of m
 
 ## Republic
 
-To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/What%20we%20want/In%20depth/The%20Case%20for%20a%20Republic/Policy/index.php).
+To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/what-we-want/new-head-state).
 
 The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
 
@@ -119,9 +119,13 @@ Presidential terms of office will be fixed at five years, with a maximum of two 
 
 The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
-## Direct Democracy
+## Democracy Research
 
 Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
+Investigate methods for deliberative democracy[^3] - things which increase research and understanding before decision making. Run trials of these for small decisions. Implement proven ones for members of the upper and lower house, and for ministers. 
+
+
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 [^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
+[^3]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
