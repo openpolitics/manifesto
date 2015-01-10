@@ -26,6 +26,10 @@ The rate of Asset Tax for individuals will be harmonized with the rate of tax on
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
+### Financial Transaction Tax
+
+Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
+
 ## Social Security
 
 We will support research into a [universal basic income](https://en.wikipedia.org/wiki/Basic_income) and its effects on society and the economy, with the aim of eradicating poverty and providing a basic standard of living for all.
@@ -36,7 +40,7 @@ Improve rental rights, such that residential tenants cannot be evicted if they a
 
 ## Land Value Tax
 
-Adopt Land Value Taxation (LVT)[^2], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^3][^4]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
+Adopt Land Value Taxation (LVT)[^3], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^4][^5]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
 
 ## Business
 
@@ -60,7 +64,7 @@ We will complete the metrification of the UK started in 1965, but never complete
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
 
-All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
+All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^2].
 
 ## Public Sector
 
@@ -78,13 +82,14 @@ We will instruct HM Treasury to produce a roadmap for the future of currency and
 
 The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
-[^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
-[^2]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
-[^3]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
-[^4]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
-
 ## Land Ownership
 
 Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
+
+[^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
+[^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
+[^4]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
+[^5]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
