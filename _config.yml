@@ -11,3 +11,6 @@ kramdown:
 baseurl: /
 
 data_source: data
+
+gems:
+  - jemoji
