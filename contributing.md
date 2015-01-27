@@ -62,7 +62,7 @@ A change will be closed without merging when it is more than 3 months old withou
 
 Votes are counted by an automated script, which sets the GitHub build status on the pull request depending whether enough votes have been received. See the [Votes](http://votebot.openpolitics.org.uk) page for details and vote counts. 
 
-If the script detects that a change has been passed, it will be merged automatically
+If the script detects that a change has been passed, it will be merged automatically 24 hours later.
 
 ## Help
 
