@@ -50,9 +50,13 @@ Voting is done using special symbols in the comments for a change:
 
 For a change to be accepted, two existing contributors must agree to the change, and it must have been open for 7 days. If a change is amended, votes are reset and are only counted for the latest version of the text.
 
+### Abstentions
+
+An abstention cancels out one agree vote. So, if there are two agreements and one abstention, another agreement is requirement in order for the vote to pass. This means it can be used as a sort of temporary hold, or a request for more evidence.
+
 ### Blocks
 
-Any contributor can place a block on a proposal, as long as that block comes with reasoning and constructive comments for improvement. A change cannot pass while it has a block on it. A block can be removed by the original blocker changing to an agree or abstain vote.
+Any contributor can place a block on a proposal, as long as that block comes with reasoning and constructive comments for improvement. A change cannot pass while it has a block on it. A block can be removed by the original blocker changing to an agree or abstain vote. Blocks are discouraged; it's preferable to use an abstention to make it more difficult for a vote to pass while more evidence is gathered.
 
 ### Closing old changes
 
