@@ -6,8 +6,6 @@ published: true
 * table of contents 
 {:toc}
 
-What policies do we need to adopt regarding communications technologies like the Internet?
-
 ## Internet Freedom
 
 We believe in a free and open Internet, and back the principles of Internet governance espoused by the [Declaration of Internet Freedom](http://www.internetdeclaration.org/freedom). Aspects of these principles are also expanded upon below.
