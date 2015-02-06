@@ -27,3 +27,11 @@ All foreign deployment of UK Armed Forces, as well as the use of UK Special Advi
 ## Defence Budget
 
 Reviews of defence budgets should be tied to a review of commitments, not just expenditure, to ensure that UK Armed Forces are properly equipped and trained for role our defence and foreign policies are demanding of them.
+
+## Lethal Autonomous Robots
+
+Giving machines the power to decide who lives and dies on the battlefield is an unacceptable application of technology[^1]. Development of lethal autonomous robots will be made illegal in the UK.
+
+We will work with the UN and other international bodies to create an international treaty banning the development and use of lethal autonomous robots.
+
+[^1]: [Campaign to stop killer robots](http://www.stopkillerrobots.org/the-solution/)
