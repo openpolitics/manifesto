@@ -23,9 +23,9 @@ Introduce voting by proportional representation using the Single Transferable Vo
 
 Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
-Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
+Add anyone with a National Insurance Number to the electoral roll for voting in General, Scottish, and European Elections (i.e. to legislative bodies), as well as all national and local referenda. This will mean that anyone over 16 may vote, as well as anyone working in the UK even if they do not have full citizenship. In the words of the old American colonists, "no taxation without representation".
 
-Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
+In addition to the above, allow voting at Local Elections and to the Welsh Assembly (i.e. to non-legislative bodies) at age 15, to encourage youth participation in democracy prior to enjoying full voting right at 16.
 
 ## Recall of Representatives
 
