@@ -12,7 +12,11 @@ What policies should we adopt in our relations with other countries?
 
 We believe that a clear view of the role that the UN, EU, NATO and other international bodies play in reducing the likelihood of war should be clearly and unambiguosly communicated to the electorate. 
 
-The UK should also use it's membership of such bodies to influence them to reinforce this role and use this peaceful approach whenever possible to avoid conflict.
+The UK should also use its membership of such bodies to influence them to reinforce this role and use this peaceful approach whenever possible to avoid conflict.
+
+## Foreign Aid
+
+We will maintain the UK's committment to the [UN Millennium Project agreement](http://www.unmillenniumproject.org/press/07.htm) of allocating 0.7% of Gross National Income (GNI) to Overseas Development Assistance. These funds will be kept separate from military spending; any required security, demobilisation, or peacekeeping expenses will be seperately funded, from Defence budgets.
 
 ## European Union
 
