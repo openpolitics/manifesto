@@ -6,8 +6,6 @@ published: true
 * table of contents
 {:toc}
 
-What policies should we adopt to ensure a fair justice system?
-
 ## Capital Punishment
 
 We are opposed to the death penalty for all crimes, and would vote against any
