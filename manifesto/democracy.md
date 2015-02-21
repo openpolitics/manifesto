@@ -9,6 +9,10 @@ published: true
 
 We believe that the UK should be a truly democratic country, where the state is properly accountable to its citizens. In the short term, this means improving the existing system in various ways, such as by improving the electoral system, changing how parties are funded, curbing the influence of the lobbying industry, and replacing the House of Lords with an elected chamber. In the long term, we believe that the UK should be a secular republic rather than a monarchy, and that at some point in the future technology will allow us to make decisions using some form of direct democracy rather than needing to elect representatives.
 
+See also;
+
+* [Reforming the House of Lords](house-of-lords.html)
+
 ## Written Constitution
 
 The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^1].
@@ -31,11 +35,6 @@ Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
 
-## Lords Reform
-
-Replace the House of Lords with a second chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
-
-Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
 ## Party Funding
 
