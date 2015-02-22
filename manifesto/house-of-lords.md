@@ -19,7 +19,7 @@ The "upper house" - as it is known - should not contain more Lords than MPs. We 
 
 ## Ban on ministerial positions
 
-No ministerial should be held by an unelected politician. We will ban the appointment of Lords to any positions within the Government.
+No ministerial position should be held by an unelected politician. As such, only sitting members of the House of Commons will be permitted to take up Government posts.
 
 ## House of Citizens
 
