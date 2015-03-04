@@ -62,3 +62,9 @@ We recognise that this is hugely damaging, and to take an alternative approach t
 
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+
+## Community Engagement
+
+Local Councillors should provide at least two weekend community surgeries a month.
+
+Ward based Hustings should not be confined to periods of election campaigning and a minimum number should be required per calendar year.
