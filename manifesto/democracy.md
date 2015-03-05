@@ -39,7 +39,7 @@ Citizens are selected from the electoral roll and serve a single fixed-length te
 
 ## Party Funding
 
-Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals who appear on the electoral register.
+Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
 
 Only individual's appearing on the electoral register are able to fund political parties, campaign, lobbying and interest groups and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of fundraising activity in addition to straight forward donations. 
 
