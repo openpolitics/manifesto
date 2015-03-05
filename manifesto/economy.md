@@ -70,6 +70,8 @@ All private companies who receive public money must be subject to the same trans
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
 
+All public sector organizations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
+
 ## Tax Havens
 
 Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
