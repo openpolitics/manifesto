@@ -39,9 +39,15 @@ Citizens are selected from the electoral roll and serve a single fixed-length te
 
 ## Party Funding
 
-Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
+To prevent the undue influence of money on politics and to ensure that politicians are paid by the people that they represent, all parties will be funded by the state based on the number of votes thy received in the most recent election in each constituency. 
 
-Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
+The level of funding will will start at £2.00 per vote per year, and will be subject to review by parliament every year. This funding mechanism will have the added benefit of encouraging parties to campaign for votes on a broad basis, not just in marginal constituencies.
+
+All donations to parties will be prohibited, whether from corporations or individuals. To encourage new parties and candidates, the prohibition on donations will only apply to parties once they have either 100,000 total registered votes or more, or an elected MP in any one constituency.
+
+In order to attract talented candidates and support MPs from non-conventional backgrounds, parties may supplement MP pay or issue grants from party funding, at their own discretion. Any such supplement must be publicly declared.
+
+Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They must not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
 
 ## Standing for Election
 
