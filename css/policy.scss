@@ -15,6 +15,14 @@ $mtb: -2px;
     background-size: cover;
     background-color: darkgray;
     text-decoration: none;
+    
+    opacity: 0.75;
+    transition: opacity .25s ease-in-out;
+    
+    &:hover {
+      opacity: 1;
+    }
+    
   }
 
 }
