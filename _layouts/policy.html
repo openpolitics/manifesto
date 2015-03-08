@@ -3,13 +3,12 @@ layout: main
 ---
 
 {% assign image = site.data.images[page.path]} %}
-<div class='jumbotron' style='background-image: url({{ image.url }}); background-position: center center; background-size: cover; min-height: 200px; position: relative'>
-  <div class='container' style='text-shadow: -1px 1px black, 1px 1px black, 1px -1px black, -1px -1px black;
-font-size: 48px;'>
-    {{page.title}}
+<div class='jumbotron' style='background-image: url({{ image.url }});'>
+  <div class='container'>
+    <h1>{{page.title}}</h1>
   </div>
-  <div class='attribution' style='background: rgba(0,0,0,0.5); padding: 0px 5px; position: absolute; bottom: 0px; right: 0px'>
-    <a href='{{image.link}}' style='color: lightgrey'>{{image.title}} by {{image.author}}</a>
+  <div class='attribution'>
+    <a href='{{image.link}}'>{{image.title}} by {{image.author}}</a>
   </div>
 </div>
 

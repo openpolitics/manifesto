@@ -1,0 +1,31 @@
+---
+---
+
+.jumbotron {
+  
+  min-height: 200px;
+  width: 100%;
+  color: white;
+  margin-top: -20px;
+  border-radius: 0px !important;
+  background-position: center center; 
+  background-size: cover; 
+  position: relative;
+
+  h1 {
+    text-shadow: -1px 1px black, 1px 1px black, 1px -1px black, -1px -1px black;
+  }
+  
+  .attribution {
+    background: rgba(0,0,0,0.5); 
+    padding: 0px 5px; 
+    position: absolute; 
+    bottom: 0px; 
+    right: 0px;
+    
+    a {
+      color: lightgray;
+    }
+  }
+
+}
