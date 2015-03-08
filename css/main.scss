@@ -1,6 +1,9 @@
 ---
 ---
 
+$tb: 2px;
+$mtb: -2px;
+
 .navbar-brand > img {
   display: inline-block;
 }
@@ -16,8 +19,13 @@
   background-size: cover; 
   position: relative;
 
-  h1, h1 + p {
-    text-shadow: -1px 1px black, 1px 1px black, 1px -1px black, -1px -1px black;
+  h1 {
+    text-shadow: $tb $tb black, $tb $mtb black, $mtb $tb black, $mtb $mtb black, $tb 0px black, 0px $mtb black, 0px $tb black, $mtb 0px black;
+  }
+  
+  h1 + p {
+    font-weight: bold;
+    text-shadow: $tb $tb black, $tb $mtb black, $mtb $tb black, $mtb $mtb black, $tb 0px black, 0px $mtb black, 0px $tb black, $mtb 0px black;
   }
   
   .attribution {
