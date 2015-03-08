@@ -4,8 +4,6 @@ title: Infrastructure
 * table of contents
 {:toc}
 
-How do we ensure an effective and sustainable national infrastructure?
-
 ## National Infrastructure in the National Interest
 
 Too much of the national infrastructure that society relies heavily upon is operated for private profit. The predictable result being:

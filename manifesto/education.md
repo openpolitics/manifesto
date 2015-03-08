@@ -5,8 +5,6 @@ title: Education
 * table of contents
 {:toc}
 
-What policies should we propose to give our children a good education?
-
 ## Principles of Education
 
 We believe that education is the keystone that makes all other longer-term strategic policies possible: improving industry and employment; the arts; scientific discovery and research; improving the overall health and well-being of society; and reducing crime. It is the policy area that can justify significant investment in recognition of the dividend that all other areas of public spending will receive 10-15 years hence.

@@ -5,8 +5,6 @@ title: Society
 * table of contents 
 {:toc}
 
-What policies should we propose to improve the fabric of society?
-
 ## Secularism
 
 With 50% of the British public having no religion, including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.

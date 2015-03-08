@@ -4,8 +4,6 @@ title: Health
 * table of contents 
 {:toc}
 
-How do we ensure a healthy population?
-
 ## Depoliticisation and protection of the National Health Service
 
 In order to support every citizen's basic right to medical care and health services, we will maintain and enhance the NHS, keeping it as a free service available to anyone in the UK.

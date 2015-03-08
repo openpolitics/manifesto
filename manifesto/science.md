@@ -4,8 +4,6 @@ title: Science
 * table of contents
 {:toc}
 
-How do we stimulate and support scientific discovery in the UK?
-
 ## Compulsory Purchase in the Public Interest
 
 Patents and other forms of IP are used exercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.

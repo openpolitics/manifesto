@@ -4,8 +4,6 @@ title: Culture & Media
 * table of contents 
 {:toc}
 
-What should we do to enhance culture, and how should we ensure a robust but ethical media landscape?
-
 ## Copyright Reform
 
 Reform copyright law to allow use for parody[^1].

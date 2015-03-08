@@ -4,8 +4,6 @@ title: Foreign Policy
 * table of contents
 {:toc}
 
-What policies should we adopt in our relations with other countries?
-
 ## Internationalist Stance
 
 We believe that a clear view of the role that the UN, EU, NATO and other international bodies play in reducing the likelihood of war should be clearly and unambiguosly communicated to the electorate. 
