@@ -22,3 +22,9 @@ defaults:
     type: "pages"
   values:
     layout: "policy"
+-
+  scope:
+    path: "manifesto/constituencies"
+    type: "pages"
+  values:
+    layout: "local-policy"
