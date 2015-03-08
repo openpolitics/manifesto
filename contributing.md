@@ -1,7 +1,7 @@
 ---
 title: How to contribute
 layout: page
-published: true
+editable: false
 ---
 
 1. Find the page you want to edit, and click the `Edit Page` button at the top right.
