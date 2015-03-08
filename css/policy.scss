@@ -1,6 +1,21 @@
 ---
 ---
 
+.policy-contents {
+
+  .policy-link {
+    display: block;
+    color: white;
+    text-shadow: -1px 1px black, 1px 1px black, 1px -1px black, -1px -1px black;
+    min-height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-color: darkgray;
+    text-decoration: none;
+  }
+
+}
+
 .policy {  
   
   h1 {

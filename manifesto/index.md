@@ -4,8 +4,6 @@ layout: page
 
 # The OpenPolitics Manifesto
 
-## Principles
-
 We believe that government should serve the people, and that 'the state', so often derided, is simply the way that citizens work together to enhance the public good.
 
 We believe that government should be:
@@ -26,13 +24,16 @@ We believe that we are heading towards a better future, and that government has 
 
 The ideas contained in this manifesto are intentionally idealistic; they show the direction we would like to see the UK head in. They are not necessarily policies that could be implemented tomorrow (although a few could be). Any attempt to implement them would certainly take a good deal of work, time, and reform, but we believe it's important to have a long-term roadmap to which to refer.
 
-## Contents
+<hr/>
 
-<ol>
+<div class="row policy-contents">
   {% assign sorted_pages = site.pages | sort:"name" %}
   {% for page in sorted_pages %}
     {% if page.layout == "policy" %}
-      <li> <a href='{{page.url}}'>{{ page.title }}</a></li>
+      {% assign image = site.data.images[page.path]} %}
+      <a class="col-sm-6 col-md-4 policy-link" href='{{page.url}}' style='background-image: url({{ image.url }});'>
+        <h3>{{ page.title }}</h3>
+      </a>
     {% endif %}
   {% endfor %}
-</ol>
+</div>
