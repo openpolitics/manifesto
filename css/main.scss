@@ -12,7 +12,7 @@
   background-size: cover; 
   position: relative;
 
-  h1 {
+  h1, h1 + p {
     text-shadow: -1px 1px black, 1px 1px black, 1px -1px black, -1px -1px black;
   }
   
