@@ -26,7 +26,7 @@ The ideas contained in this manifesto are intentionally idealistic; they show th
 <hr/>
 
 <div class="row policy-contents">
-  {% assign sorted_pages = site.pages | sort:"name" %}
+  {% assign sorted_pages = site.pages | sort:"title" %}
   {% for page in sorted_pages %}
     {% if page.layout == "policy" %}
       {% assign image = site.data.images[page.path]} %}

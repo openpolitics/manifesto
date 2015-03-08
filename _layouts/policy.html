@@ -9,7 +9,7 @@ layout: main
     {{content}}
   </div>
 
-  {% assign sorted_pages = site.pages | sort:"name" %}
+  {% assign sorted_pages = site.pages | sort:"title" %}
   {% for p in sorted_pages %}
     {% if p.layout == 'policy' %}
       {% assign previous_page = this_page %}
