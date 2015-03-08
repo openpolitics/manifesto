@@ -1,6 +1,5 @@
 ---
 layout: page
-published: true
 ---
 
 # The OpenPolitics Manifesto

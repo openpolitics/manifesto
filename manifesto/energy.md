@@ -1,7 +1,5 @@
 ---
 title: Energy
-layout: policy
-published: true
 ---
 
 * table of contents

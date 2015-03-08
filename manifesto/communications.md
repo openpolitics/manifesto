@@ -1,7 +1,5 @@
 ---
 title: Communications
-layout: policy
-published: true
 ---
 * table of contents 
 {:toc}

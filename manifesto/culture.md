@@ -1,7 +1,5 @@
 ---
 title: Culture & Media
-layout: policy
-published: true
 ---
 * table of contents 
 {:toc}

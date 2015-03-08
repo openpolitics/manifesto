@@ -1,7 +1,5 @@
 ---
 title: Health
-layout: policy
-published: true
 ---
 * table of contents 
 {:toc}

@@ -1,7 +1,5 @@
 ---
 title: Infrastructure
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}

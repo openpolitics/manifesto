@@ -1,7 +1,5 @@
 ---
 title: Foreign Policy
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}

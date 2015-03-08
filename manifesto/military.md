@@ -1,7 +1,5 @@
 ---
 title: Military
-layout: policy
-published: true
 ---
 * table of contents 
 {:toc}

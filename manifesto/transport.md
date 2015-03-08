@@ -1,7 +1,5 @@
 ---
 title: Transport
-layout: policy
-published: true
 ---
 
 * table of contents

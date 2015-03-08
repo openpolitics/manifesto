@@ -1,7 +1,5 @@
 ---
 title: Democracy
-layout: policy
-published: true
 ---
 
 * table of contents

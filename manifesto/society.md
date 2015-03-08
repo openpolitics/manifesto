@@ -1,7 +1,5 @@
 ---
 title: Society
-layout: policy
-published: true
 ---
 
 * table of contents 

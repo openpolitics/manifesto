@@ -14,3 +14,11 @@ data_source: data
 
 gems:
   - jemoji
+  
+defaults:
+-
+  scope:
+    path: "manifesto"
+    type: "pages"
+  values:
+    layout: "policy"

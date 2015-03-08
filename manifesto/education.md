@@ -1,7 +1,5 @@
 ---
 title: Education
-layout: policy
-published: true
 ---
 
 * table of contents
