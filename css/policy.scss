@@ -43,7 +43,7 @@ $mtb: -2px;
     counter-reset: paragraph;
   }
 
-  ul + p {
+  ul + p, p:first-child {
     font-size: 125%;
     &:before {
       content: "";
