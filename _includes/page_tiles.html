@@ -1,0 +1,11 @@
+<div class="row policy-contents">
+  {% assign sorted_pages = site.pages | sort:"title" %}
+  {% for page in sorted_pages %}
+    {% if page.layout == include.layout %}
+      {% assign image = site.data.images[page.path]} %}
+      <a class="col-sm-6 col-md-4 policy-link" href='{{page.url}}' style='background-image: url({{ image.url }});'>
+        <h3>{{ page.title }}</h3>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
