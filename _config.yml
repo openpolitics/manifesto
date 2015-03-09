@@ -27,4 +27,4 @@ defaults:
     path: "manifesto/constituencies"
     type: "pages"
   values:
-    layout: "local-policy"
+    layout: "local_policy"

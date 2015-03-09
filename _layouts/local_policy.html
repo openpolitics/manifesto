@@ -1,0 +1,25 @@
+---
+layout: main
+---
+
+{% include header.html %}
+
+<div class="container">
+
+  <div class='alert alert-info'>
+    Many local policies depend on national policies. If you want to change something here, please check for linked national policies; you might need to change those first.
+  </div>
+
+  <div class="policy">
+    {{content}}
+  </div>
+
+  <ul class='pager'>
+    <li class='previous'><a href='{{site.baseurl}}manifesto'>
+      <i class="fa fa-arrow-left"></i>
+      Back to the main manifesto
+    </a></li>
+  </ul>
+
+</div>
+
