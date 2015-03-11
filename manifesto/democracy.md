@@ -57,7 +57,7 @@ Given each EU member country has the right to select the electoral system they u
 
 ## Location of UK Parliament
 
-The Palace of Westminster is in need of urgent repair, but is also unsuited for the open and transparent operation of a modern democracy. We propose to permanently move the UK Parliament to a new, custom-built facility, somewhere close to the population centre of the country, such as Birmingham, Manchester or Sheffield. The Palace of Westminster would be maintained as part of the Westminster UNESCO World Heritage Site, perhaps as a museum.
+The Palace of Westminster is in need of urgent repair, but is also unsuited for the open and transparent operation of a modern democracy[^4]. Privilege, exclusion and confrontation are built into the very architecture. We propose to permanently move the UK Parliament to a new, custom-built facility, designed to make policymaking accessible to citizens. The Palace of Westminster would be maintained as part of the Westminster UNESCO World Heritage Site, perhaps as a museum.
 
 ## Transparency
 
@@ -133,3 +133,4 @@ Investigate methods for deliberative democracy[^3] - things which increase resea
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 [^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
 [^3]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
+[^4]: [Maybe we don't need to move Parliament to Hull. But we do need to overhaul its alienating traditions](http://www.newstatesman.com/politics/2015/03/maybe-we-dont-need-move-parliament-hull-we-do-need-overhaul-its-alienating)
