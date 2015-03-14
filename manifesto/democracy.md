@@ -29,7 +29,7 @@ Reduce the age of voting at General, Scottish, Welsh, Northern Irish and Europea
 
 Reduce the age of voting at Local Elections (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
 
-We'll give the Electoral Commission and local authorities a new responsibility to enable and/or host local election hustings between all the candidates in general elections.
+The Electoral Commission and local authorities will be given a new duty to ensure that at least one independent public hustings between all the candidates in a general election takes place, and is promoted to all constituents.
 
 ## Recall of Representatives
 
