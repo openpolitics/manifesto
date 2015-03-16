@@ -7,6 +7,10 @@ title: Democracy
 
 We believe that the UK should be a truly democratic country, where the state is properly accountable to its citizens. In the short term, this means improving the existing system in various ways, such as by improving the electoral system, changing how parties are funded, curbing the influence of the lobbying industry, and replacing the House of Lords with an elected chamber. In the long term, we believe that the UK should be a secular republic rather than a monarchy, and that at some point in the future technology will allow us to make decisions using some form of direct democracy rather than needing to elect representatives.
 
+## Elections
+
+Elections will always be scheduled to take place on weekends, or public holidays. We will also consider the introduction of a new public holiday for general elections. Where possible, different elections will coincide with each other to maximise participation in different votes.
+
 ## Written Constitution
 
 The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^1].
@@ -25,7 +29,7 @@ Reduce the age of voting at General, Scottish, Welsh, Northern Irish and Europea
 
 Reduce the age of voting at Local Elections (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
 
-We'll give the Electoral Commission and local authorities a new responsibility to enable and/or host local election hustings between all the candidates in general elections.
+The Electoral Commission and local authorities will be given a new duty to ensure that at least one independent public hustings between all the candidates in a general election takes place, and is promoted to all constituents.
 
 ## Recall of Representatives
 
@@ -39,7 +43,9 @@ Citizens are selected from the electoral roll and serve a single fixed-length te
 
 ## Party Funding
 
-Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
+Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
+
+Only individual's appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
 
