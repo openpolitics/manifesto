@@ -53,3 +53,7 @@ Resist the adoption of international treaties that could allow unelected institu
 The UK should join many other countries around the world, as well as the UN, and officially recognise Palestine as a sovereign state. This is in line with our existing national preference for a two-state solution to the Israel/Palestine conflict in accordance with international law.
 
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
+
+##International Development
+
+The role of International Development in alleviating poverty in the World is a moral issue as well as an issue of the UK's self interest.  The current UK aid commitment to match the UN target of 0.7% of GNI should continue.  However resources should be refocused onto direct poverty reduction programs in recipient countries.  As a first move the proportion of the aid budget spent of water and sanitation projects should be gradually increased from 2% to 10% by 2020. The UK should also press the UN to include a DEDICATED water and Sanitation target in the Sustainable Development Goals which will replace the Millennium Development Goals in Autumn 2015.
