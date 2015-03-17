@@ -21,7 +21,7 @@ The constitution will be created with broad participation from the citizenry, an
 
 Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
-Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
+Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. General election boundaries should be redrawn, and each constituency should elect 3 representatives, using STV.
 
 Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
