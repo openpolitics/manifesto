@@ -1,6 +1,6 @@
 ---
 layout: homepage
-published: true
+editable: false
 ---
 
 This is a project to create a new kind of politics. We're starting by writing a manifesto, but we want everyone to build it *together*. Click the button above to start reading, and click "Edit" at the top right to add your own ideas.

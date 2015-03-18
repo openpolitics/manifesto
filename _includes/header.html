@@ -1,0 +1,9 @@
+{% assign image = site.data.images[page.path]} %}
+<div class='jumbotron' style='background-image: url({{ image.url }});'>
+  <div class='container'>
+    <h1>{{page.title}}</h1>
+  </div>
+  <div class='attribution'>
+    <a href='{{image.link}}'>"{{image.title}}" by {{image.author}}</a>
+  </div>
+</div>

@@ -1,0 +1,43 @@
+---
+---
+
+$tb: 2px;
+$mtb: -2px;
+
+.navbar-brand > img {
+  display: inline-block;
+}
+
+.jumbotron {
+  
+  min-height: 200px;
+  width: 100%;
+  color: white;
+  margin-top: -20px;
+  border-radius: 0px !important;
+  background-position: center center; 
+  background-size: cover; 
+  position: relative;
+
+  h1 {
+    text-shadow: $tb $tb black, $tb $mtb black, $mtb $tb black, $mtb $mtb black, $tb 0px black, 0px $mtb black, 0px $tb black, $mtb 0px black;
+  }
+  
+  h1 + p {
+    font-weight: bold;
+    text-shadow: $tb $tb black, $tb $mtb black, $mtb $tb black, $mtb $mtb black, $tb 0px black, 0px $mtb black, 0px $tb black, $mtb 0px black;
+  }
+  
+  .attribution {
+    background: rgba(0,0,0,0.5); 
+    padding: 0px 5px; 
+    position: absolute; 
+    bottom: 0px; 
+    right: 0px;
+    
+    a {
+      color: lightgray;
+    }
+  }
+
+}

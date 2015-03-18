@@ -1,7 +1,6 @@
 ---
 title: To Do
 layout: page
-published: true
 ---
 
 There are plenty of areas where we don't yet have anything in the manifesto. If you're looking to contribute but are unsure where to start, why not have a look at one of these areas?;

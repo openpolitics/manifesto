@@ -14,3 +14,17 @@ data_source: data
 
 gems:
   - jemoji
+  
+defaults:
+-
+  scope:
+    path: "manifesto"
+    type: "pages"
+  values:
+    layout: "policy"
+-
+  scope:
+    path: "manifesto/constituencies"
+    type: "pages"
+  values:
+    layout: "local_policy"

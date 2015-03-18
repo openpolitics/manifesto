@@ -1,13 +1,9 @@
 ---
 title: Society
-layout: policy
-published: true
 ---
 
 * table of contents 
 {:toc}
-
-What policies should we propose to improve the fabric of society?
 
 ## Secularism
 
@@ -62,3 +58,13 @@ We recognise that this is hugely damaging, and to take an alternative approach t
 
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+
+## Community Engagement
+
+Local Councillors should provide at least two weekend community surgeries a month.
+
+Ward based public debates should not be confined to hustings during periods of election campaigning and a minimum number should be required per calendar year.  
+
+An elected ward councillor must participate and one member party member from other parties may do so if they wish.
+
+The debate should be chaired by a local resident.

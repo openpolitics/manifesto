@@ -1,7 +1,5 @@
 ---
 title: Environment
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}

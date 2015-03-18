@@ -1,17 +1,21 @@
 ---
 title: Transport
-layout: policy
-published: true
 ---
 
 * table of contents
 {:toc}
 
-What policies could improve public and private transport infrastructure?
-
 ## Removal of Fossil Fuels
 
 No new fossil-fuel powered vehicles may be sold in the UK after after 2029.
+
+## Scrap Vehicle Excise Duty
+
+As Vehicle Excise Duty is associated with vehicle emissions, it seems fairer to tax
+the fuel directly. VED should be scrapped, and fuel duty increased to cover the reduction
+in income. Overall, the tax levied should be lower, due to the removal of the need to administer
+VED, though the tax will fall more heavily on those who use more fuel, and thus create more
+carbon emissions.
 
 ## National Infrastructure Organisations
 

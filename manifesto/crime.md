@@ -1,7 +1,5 @@
 ---
 title: "Crime & Justice"
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}

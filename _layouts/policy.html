@@ -1,41 +1,47 @@
 ---
-layout: page
+layout: main
 ---
 
-<div class="policy">
-  {{content}}
-</div>
+{% include header.html %}
 
-{% assign sorted_pages = site.pages | sort:"name" %}
-{% for p in sorted_pages %}
-  {% if p.layout == 'policy' %}
-    {% assign previous_page = this_page %}
-    {% assign this_page = p %}
-    {% if p.title == page.title %}
-      {% assign this_page_index = forloop.index %}
+<div class="container">
+  <div class="policy">
+    {{content}}
+  </div>
+
+  {% assign sorted_pages = site.pages | sort:"title" %}
+  {% for p in sorted_pages %}
+    {% if p.layout == 'policy' %}
+      {% assign previous_page = this_page %}
+      {% assign this_page = p %}
+      {% if p.title == page.title %}
+        {% assign this_page_index = forloop.index %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor%}
+  {% for p in sorted_pages offset:this_page_index %}
+    {% if p.layout == 'policy' %}
+      {% assign next_page = p %}
       {% break %}
     {% endif %}
-  {% endif %}
-{% endfor%}
-{% for p in sorted_pages offset:this_page_index %}
-  {% if p.layout == 'policy' %}
-    {% assign next_page = p %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 
 
-<ul class='pager'>
-  {% if previous_page %}
-    <li class='previous'><a href='{{ previous_page.url }}'>
-      <i class="fa fa-arrow-left"></i>
-      {{ previous_page.title }}
-    </a></li>
-  {% endif %}
-  {% if next_page %}
-    <li class='next'><a href='{{ next_page.url }}'>
-      {{ next_page.title }}
-      <i class="fa fa-arrow-right"></i>      
-    </a></li>
-  {% endif %}  
-</ul>
+  <ul class='pager'>
+    {% if previous_page %}
+      <li class='previous'><a href='{{ previous_page.url }}'>
+        <i class="fa fa-arrow-left"></i>
+        {{ previous_page.title }}
+      </a></li>
+    {% endif %}
+    {% if next_page %}
+      <li class='next'><a href='{{ next_page.url }}'>
+        {{ next_page.title }}
+        <i class="fa fa-arrow-right"></i>      
+      </a></li>
+    {% endif %}  
+  </ul>
+  
+</div>
+
