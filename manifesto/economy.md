@@ -1,13 +1,9 @@
 ---
 title: Economy
-layout: policy
-published: true
 ---
 
 * table of contents
 {:toc}
-
-What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
 
 ## Minimum Wage
 
@@ -70,6 +66,8 @@ All private companies who receive public money must be subject to the same trans
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
 
+All public sector organizations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
+
 ## Tax Havens
 
 Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
@@ -87,6 +85,18 @@ The central bank will be required to consider the reduction of inequality (as me
 Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
+
+## Regulation of Credit Ratings Agencies
+
+We aim to reduce over-reliance on credit ratings whilst at the same time improving the quality of the rating process.
+
+We will establish a national monitoring body to examine the work of Ratings Agencies in the United Kingdom.
+
+We will force Credit Rating Agencies to be more transparent about their work and their ratings processes.
+
+We will open up the market for competition with Credit Rating Agencies, as well as introduce a ban on expansion for the “Big Three,” Standard and Poor's, Moody's and Fitch. We should also have a public or non-profit Credit Rating Agency.
+
+We will also make Ratings Agencies legally liable for their actions.
 
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
