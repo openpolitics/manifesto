@@ -86,6 +86,14 @@ Follow recommendations regarding transparency in the [Lyons Housing Review](http
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
 
+## Credit Default Swaps
+
+We will bring credit default swaps under a clearing house where capital reserves and collateral are both carefully scrutinised.
+
+## Credit Rating Agencies
+
+Increase regulation of Credit Rating Agencies, by first wholly supporting the efforts of the European Commission to increase regulation.
+
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
 [^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
