@@ -15,28 +15,25 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Education should be freely available to all to first degree level or equivalent. 
 
-## Secular Schools
+Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
-50% of the British public identify as having no religion, and this number is growing[^1] but over half of all state funded schools have a religious character[^2], including over 4,500 Church of England schools. It has been demonstrated that faith schools are religiously selective, excluding those of other or no faith[^3].
+All school funding will be assessed on a pupil by pupil basis (to include a basic entitlement, additional needs, pupil premium top up etc) and these funds will stay with the child.  This will remove the inequality of the present funding system (where certain areas can recieve a lot less per child than others) but will also remove the need for "big bucket" approaches such as Pupil Premium.  On entry to the school system, each child will take with them guaranteed minimum funding (that can be adjusted if and when necessary to take into account life changes) and schools will be able to plan more effectively (especially with regards to children entering mid-year).  These funds will be valid as payment towards private education.
 
-Therefore, we will mandate that all state-funded schools be secular in nature.
+## Local Schools
 
-No state funded school will be permitted to admit students based on religiosity.
+Schools should reflect the local aspirations and desires of the communities they serve.  Mechanisms will be put in place to allow local communities more say in how schools are set up and run - including, but not limited to:
 
-We will end compulsory worship in schools.
-
-State-funded faith schools will also lose their exemption to equalities legislation, preventing them from practising religious discrimination in their employment policies.
-
-Religious education (R.E.) will also be reviewed, starting with research on the current state of R.E. and followed by a consultation to include all interested parties on whether to keep R.E., reform it, or replace it.
-
-Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
+- powers to promote a broad cross-section of local people sitting on governing bodies.
+- legal requirement to consult on progress with local communities at set intervals.
+- further evolution of the Free School and Academy Programme to facilitate the setup or conversion of schools of any faith, speciality or none.
+- An end to a two tier approach to school management - all maintained schools will be converted to Academies and current Local Education Authorities closed but a framework will be created to allow new style Education Authorities to be set up to manage chains/groups of Academies and Free Schools should local communities desire this.
+- Inherent in all the above will be a desire to protect smaller local and rural schools and their individual characters.  We understand that this will come at substantial cost to the taxpayer and certain criteria will have to be met (i.e. school is well performing, has great potential etc) but this fits in with the local aspirations that we wish to encourage.
 
 ## School Governance
 
-All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
+Powers to promote a broad cross-section of local people sitting on governing bodies.
+Legal requirement to consult on progress with local communities at set intervals.
+All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will be a co-opted member on the board of governors.
 
-[^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
-[^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
-[^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
