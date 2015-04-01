@@ -26,5 +26,5 @@ Reduce the level of bureaucracy at the research councils in order to free up fun
 
 Investigate the possibility of using online communities to perform more robust and wide-ranging reviews of scientific research project proposals.
 
-[^1]: (Science is Vital)[http://scienceisvital.org.uk/]
-[^2]: (Tell Them Science is Vital)[http://scienceisvital.org.uk/tell-them-science-is-vital/]
+[^1]: [Science is Vital](http://scienceisvital.org.uk/)
+[^2]: [Tell Them Science is Vital](http://scienceisvital.org.uk/tell-them-science-is-vital/)
