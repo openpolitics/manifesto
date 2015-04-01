@@ -13,7 +13,9 @@ Elections will always be scheduled to take place on weekends, or public holidays
 
 Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
 
-Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
+Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. 
+
+General election boundaries should be redrawn so that constituencies are larger, and elect at least 3 representatives proportionally using STV. This ensures a more representative result than single-member STV.
 
 Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
