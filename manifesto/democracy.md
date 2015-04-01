@@ -59,10 +59,6 @@ Upon entering Government we will immediately end all new appointments to the Hou
 
 The "upper house" - as it is known - should not contain more Lords than MPs. We will place a cap on Lords of 650, and seek to remove those Lords with the lowest attendance in order to drop the current levels down to match the House of Commons.
 
-### Ban on ministerial positions
-
-No ministerial position should be held by an unelected politician. As such, only sitting members of the House of Commons will be permitted to take up Government posts.
-
 ### House of Citizens
 
 The House of Lords will be replaced with a chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
@@ -79,13 +75,15 @@ Allowed expenses would be reduced to only those costs incurred as part of their 
 
 Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
 
-## Government Ministers
+## Separation of Powers
+
+In the UK, our executive branch (the government) is made up of members of the legislative branch (the Commons and Lords). Ideally, they would be separated.
+
+The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
+
+## Government Posts
 
 Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
-
-Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'toe the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
-
-Cabinet appointments will be subject to a vote of approval by the House of Commons.
 
 ## Royal Secrecy
 
