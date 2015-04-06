@@ -37,6 +37,11 @@ Scottish authorities will no longer be legally obligated to appoint unelected re
 
 All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
 
+## Focus on Education
+
+We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
+
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
+[^4]: [Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
