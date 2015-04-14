@@ -29,6 +29,10 @@ An opt-out system will be adopted for organ donation upon death, ensuring that m
 
 The organ donation wishes of the deceased will not be permitted to be overridden by family members.
 
+## Chaplaincy
+
+Organise the chaplaincy service along secular lines, with no privileges for religious chaplains.
+
 ## Minimum Unit Price for Alcohol
 
 Alcohol misuse is a serious health issue costing around £21bn per year[^1], including related crime. Much of this is down to the sale of cheap alcohol products that allow for over-consumption. A Minimum Unit Price (MUP) of 45p will curb dangerous consumption habits whilst having a negligible, if any, impact on responsible drinkers. An estimated economic net benefit in excess of £300m is achievable.
