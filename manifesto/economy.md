@@ -1,26 +1,32 @@
 ---
 title: Economy
-layout: policy
-published: true
 ---
 
-* table of contents 
+* table of contents
 {:toc}
 
-What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
+## Minimum Wage
+
+The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
+
+Minimum wage policy should be devolved to account for the disparities in living wage across the UK, e.g. London living wage is £9.15/hour rather than £7.65.
 
 ## Taxation
 
 ### Income Tax
 
-The personal income tax allowance will be set at the level of a full time living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65) and will rise inline with the living wage.
+The personal income tax allowance will be set at the level of a full time living wage and will rise inline with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
 
 Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
 The rate of Asset Tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
 ### VAT
-Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely - even if this requires renegotiating our obligations to the EU. 
+Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
+
+### Financial Transaction Tax
+
+Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
 
 ## Social Security
 
@@ -28,7 +34,11 @@ We will support research into a [universal basic income](https://en.wikipedia.or
 
 ## Housing
 
-Stamp Duty Land Tax (paid on house purchases) should be reformed, with tax band thresholds linked to the regional average house price. Purchases up to the regional average house price should be zero-rated. In addition, the 'slab' approach of current taxation will be changed to an incremental approach, where only the amount above a threshold is taxed at that rate.
+Improve rental rights, such that residential tenants cannot be evicted if they are paying market rate rent and have not damaged the property. Create a general principle that for tenants a property is their home and core to their life, whereas for landlords it is but a piece of property and simply a financial asset.
+
+## Land Value Tax
+
+Adopt Land Value Taxation (LVT)[^3], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^4][^5]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
 
 ## Business
 
@@ -52,19 +62,13 @@ We will complete the metrification of the UK started in 1965, but never complete
 
 Ensure worker-owned cooperatives and mutuals are given priority with all government contracts.
 
-All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^1].
+All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^2].
 
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
 
-## Compulsory Purchase in the Public Interest
-
-Patents and other forms of IP are used excercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.
-
-We will investigate a form of compulsory purchase aimed at important scientific advancements that would then place those advancements under an open license, encouraging wider use at lower cost.
-
-Of huge importance to the investigation will be the need to establish a method of compensation that the scientific community can trust. Avoiding a chilling effect is essential - the comulsory purchase should be there to aid the adoption of advancements, not stifle research in the first place. 
+All public sector organizations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
 ## Tax Havens
 
@@ -76,4 +80,16 @@ In parallel, work at an international level to get rid of tax havens outside Bri
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
 
-[^1]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
+
+## Land Ownership
+
+Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
+information to the public in a similar manner as the property price paid data set and make it a legal
+requirement to register land option agreements, transactions and prices."
+
+[^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
+[^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
+[^4]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
+[^5]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
