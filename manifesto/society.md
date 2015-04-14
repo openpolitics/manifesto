@@ -7,7 +7,7 @@ title: Society
 
 ## Secularism
 
-With 50% of the British public having no religion, including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
+With 50-62% of the British public having no religion[^2], including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
 
@@ -58,6 +58,8 @@ We recognise that this is hugely damaging, and to take an alternative approach t
 
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+
+[^2]: [YouGov poll] (http://www.secularism.org.uk/news/2015/04/as-cameron-says-uk-still-a-christian-country-62-percent-tell-yougov-they-are-not-religious)
 
 ## Community Engagement
 
