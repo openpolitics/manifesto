@@ -62,4 +62,9 @@ The UK should repatriate fully the natives of the Chagos Archipelagos that were 
 
 The UK should revoke the Chagos Marine Protected Area as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot by the Americans to keep the Chagossians off the islands, and it was also declared illegal on 18 March 2015 by the UN's Permanent Court of Arbitration.
 
+## De-listing of the PKK
+
+We recognise that the PKK (Kurdistan Workers' Party) has turned to peaceful means to secure rights for the Kurdish people[^2]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation, and move that the organisation similarly be de-listed at EU and NATO levels. 
+
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
+[^2]: [Why delist the PKK?] (http://delistthepkk.com/why/)
