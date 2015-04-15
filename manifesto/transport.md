@@ -50,3 +50,5 @@ Incentivise existing fuelling stations to install charging units for electric ve
 Develop a long-term plan for complete electrification of the national rail network, and the replacement of diesel trains with electric multiple-units. This has the benefit of reduced emissions, improved efficiency, quieter and more comfortable trains. Alongside electrification, signalling should be updated to [ETCS](http://en.wikipedia.org/wiki/European_Train_Control_System) level 2 or 3 standard for improved safety and efficiency.
 
 Investigate feasibility of building a high speed rail network that connects our ten largest cities (and Cardiff also) to the European high speed network via HS1.
+
+Examine which areas of the United Kingdom were most detrimentally affected by the changes in the [Beeching Reports](https://en.wikipedia.org/wiki/Beeching_cuts), and whether it would be economically feasible to bring back any formerly established railways.
