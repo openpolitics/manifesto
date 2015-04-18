@@ -21,7 +21,7 @@ In order to ensure that essential infrastructure is run in the interests of wide
 * Profits must be reinvested, ensuring surpluses go towards service improvement
 * Dividends are still acceptable, allowing for existing or new shareholders to maintain their stake and reap financial rewards for investing in the furtherance of the public benefit aims of the organisation
 
-In addition to the public interest test, an additional burden will be placed upon NIOs:
+In addition to the public interest test, additional requirements will be placed upon NIOs:
 
 * All staff must receive at least a living wage
 * The highest pay must not exceed 5 times the national average wage
@@ -32,7 +32,7 @@ Requiring these will help to ensure NIOs are responsible, transparent businesses
 
 ### Infrastructure
 
-A number of existing organisations are specifically targetted by this policy:
+A number of existing organisations are specifically targeted by this policy:
 
 * Network Rail
 * Royal Mail
