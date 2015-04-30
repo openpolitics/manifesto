@@ -26,7 +26,7 @@ We will remain a part of the EU, and we will campaign for:
   * Reform of fishing policy and quotas, reducing waste and allowing fish stocks to recover for the long term future of EU fisheries.
   * Reform of the Emissions Trading Scheme (see [Environment](environment.html) for more details).
   * Increased democratic control of EU institutions, with improved accountability and transparency.
-  * A reduction in bureaucracy and inefficiency i.e make Brussels the permanent home of the EU and abolish the Strasbourg Parliament.
+  * A reduction in bureaucracy and inefficiency, e.g. making Brussels the permanent home of the EU and abolish the Strasbourg Parliament.
 
 ## Arms Trading
 
