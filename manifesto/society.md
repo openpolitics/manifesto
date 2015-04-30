@@ -26,6 +26,8 @@ Religious organisations operating public services will be explicitly banned from
 
 Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion). 
 
+Local and national Remembrance Day/Sunday celebrations to be secular events, including the Cenotaph ceremony.
+
 ## Immigration
 
 The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
