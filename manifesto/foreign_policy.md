@@ -23,6 +23,7 @@ However, we also know that the EU is in need of major reform to fit the politics
 We will remain a part of the EU, and we will campaign for:
 
   * Major reform or removal of the Common Agricultural Policy, to operate in harmony with the natural environment and remove market distortions.
+  * Britain to remain outside of the Eurozone. 
   * Reform of fishing policy and quotas, reducing waste and allowing fish stocks to recover for the long term future of EU fisheries.
   * Reform of the Emissions Trading Scheme (see [Environment](environment.html) for more details).
   * Increased democratic control of EU institutions, with improved accountability and transparency.
