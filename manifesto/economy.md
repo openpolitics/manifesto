@@ -9,7 +9,7 @@ title: Economy
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure. 
 
-The living wage policy should be decided by the appropriate devolved assembly or legislature (e.g. London or Welsh Assemby). This way the relevant body could account for the disparities in living wage across the UK, e.g. London living wage is £9.15/hour rather than £7.65.
+The living wage level should be decided by the appropriate devolved assembly or legislature (e.g. London or Welsh Assemby). This way the relevant body could account for the disparities in living wage across the UK, e.g. London living wage is £9.15/hour rather than £7.65.
 
 ## Taxation
 
