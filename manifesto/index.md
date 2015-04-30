@@ -12,7 +12,6 @@ We believe that government should be:
 * Courageous, able to make difficult decisions without pandering to short-termism.
 * Ethical: dedicated to creating a sustainable society and economy with progressive moral values.
 * Bottom-up: People should be telling the government what they want from a local level, rather than being told from the top. 
-* Give the people free donuts every Saturday
 
 We believe that individuals should be:
 
