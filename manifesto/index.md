@@ -11,6 +11,7 @@ We believe that government should be:
 * Rational, with decisions and policy based on sound evidence, not media pressure.
 * Courageous, able to make difficult decisions without pandering to short-termism.
 * Ethical: dedicated to creating a sustainable society and economy with progressive moral values.
+* Bottom-up: People should be telling the government what they want from a local level, rather than being told from the top. 
 
 We believe that individuals should be:
 
