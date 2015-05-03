@@ -24,7 +24,7 @@ With fewer people able to afford to buy, many are renting. We will carry out a p
 
 ## Council Tax
 
-Investigate a fairer system than the current 'band' system of council tax.
+Replace council tax with a Land Value Tax as detailed in Economy 5.1.
 
 ## Housing Benefit
 
