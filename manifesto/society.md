@@ -48,6 +48,8 @@ Nominations for State Honours should continue to be encouraged from the public. 
 
 The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
 
+Humanist marriage to be made legal.
+
 ## Equality in Civil Partnerships
 
 Under all devolved jurisdications each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
