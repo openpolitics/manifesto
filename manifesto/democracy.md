@@ -1,7 +1,5 @@
 ---
 title: Democracy
-layout: policy
-published: true
 ---
 
 * table of contents
@@ -15,45 +13,13 @@ The British constitution should be collected into a single written document that
 
 The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
 
-## Electoral Reform
-
-Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
-
-Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections.
-
-Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
-
-Reduce the age of voting at General, Scottish, and European Elections (ie to legislative bodies) and all national and local referenda to those aged 16 years and above.
-
-Reduce the age of voting at Local Elections and to the Welsh Assemby (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
-
-## Recall of Representatives
-
-Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
-
-## Lords Reform
-
-Replace the House of Lords with a second chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
-
-Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
-
 ## Party Funding
 
-Limit all donations and loans to political parties, campaign, lobbying and interest groups to a maximum of £5,000 from individuals and groups.
+Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
+
+Only individual's appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
-
-## Standing for Election
-
-Much apathy is focused around the perceived privilege of the political class. This is reinforced by the costs of attempting to stand for election. In the digital age, where a political campaign can be waged at little to no cost, the £500 deposit required to stand for election excludes some of the most enthusiastic and contributory members of society. These are people who often spent a majority of time volunteering in their community and don't have the income to save for such a high fee. Candidacy should be open to all, regardless of financial wealth, if we are to have an open democracy, so this deposit will be removed.
-
-To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
-
-Prospective parliamentary candidates must have a good connection with the constituency they wish to represent. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
-
-## European Elections
-
-Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
 
 ## Transparency
 
@@ -81,6 +47,24 @@ c) To ensure resources continue to be redistributed from each region according t
 
 In the case that a local area is unable to deal with any issue effectively, there shall be an escalation path available to ensure that the issue can be decided at the next broader level.
 
+## House of Lords Reform
+
+We believe in replacing the House of Lords with a more representative chamber. However, there are immediate reforms required and so while we will work to replace the House of Lords, we will apply incremental reform to the Lords before hand to improve our democracy in the meantime. These reforms are outline below, in the order in which we'll hope to implement them.
+
+### Cease all new appointments
+
+Upon entering Government we will immediately end all new appointments to the House of Lords, swiftly ending the undemocratic procedure.
+
+### Cut membership to 650
+
+The "upper house" - as it is known - should not contain more Lords than MPs. We will place a cap on Lords of 650, and seek to remove those Lords with the lowest attendance in order to drop the current levels down to match the House of Commons.
+
+### House of Citizens
+
+The House of Lords will be replaced with a chamber made up of randomly-selected citizens tasked with reviewing and amending legislation created by the House of Commons.
+
+Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
+
 ## MPs pay and expenses
 
 MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
@@ -91,15 +75,15 @@ Allowed expenses would be reduced to only those costs incurred as part of their 
 
 Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
 
-## Government Ministers
+## Separation of Powers
+
+In the UK, our executive branch (the government) is made up of members of the legislative branch (the Commons and Lords). Ideally, they would be separated.
+
+The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
+
+## Government Posts
 
 Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
-
-Limit the number of ministers, abolish Parliamentary Private Secretaries and further place a limit on the number or percentage of ruling party MPs that may serve in Government. Granting Government jobs to MPs has been used increasingly as a way to help ensure more MPs 'toe the party line' often in the face of staunch opposition from constituents. Limiting this tactic will help to ensure more MPs remain more accountable to their electorate, not the party.
-
-Ban unelected Lords from serving in Government.
-
-Cabinet appointments will be subject to a vote of approval by the House of Commons.
 
 ## Royal Secrecy
 
@@ -119,13 +103,9 @@ Presidential terms of office will be fixed at five years, with a maximum of two 
 
 The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
-## Democracy Research
+## British Overseas Territories
 
-Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
-
-Investigate methods for deliberative democracy[^3] - things which increase research and understanding before decision making. Run trials of these for small decisions. Implement proven ones for members of the upper and lower house, and for ministers. 
-
+A Royal Commission will be launched to examine the feasibility of fair representation of the British Overseas Territories in Parliament.
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 [^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
-[^3]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
