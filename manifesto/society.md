@@ -60,6 +60,9 @@ Our entire society and economy is centred around the principle of continued econ
 
 We recognise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental wellbeing, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
 
+## Egalitarianism
+Particularly between men and women should be promoted
+
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 
