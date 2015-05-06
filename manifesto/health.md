@@ -35,6 +35,9 @@ Alcohol misuse is a serious health issue costing around £21bn per year[^1], inc
 
 Resulting price increases would largely be restricted to off-trade retailers such as supermarkets and off-licenses and so would not have a large negative impact on the licensed pub trade.
 
+## Focus on mental health in young people
+Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
+
 Examples;
 * A 3 litre bottle of 4.7% ABV cider can be purchased for as little as £3.99[^2] and contains 14.1 units of alcohol. An MUP of 45p would force this up to at least £8.81 (£6.35 MUP + £1.27 VAT + £1.19 duty).
 * A pint of 4% draught beer can be purchased for around £3.21[^3] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
