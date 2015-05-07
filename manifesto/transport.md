@@ -7,7 +7,7 @@ title: Transport
 
 ## Removal of Fossil Fuels
 
-No new fossil-fuel powered vehicles may be sold in the UK after after 2029.
+No new fossil-fuel powered vehicles may be sold in the UK after 2029.
 
 ## Scrap Vehicle Excise Duty
 
