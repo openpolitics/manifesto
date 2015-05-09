@@ -16,4 +16,8 @@ Immediately reduce the term of copyright from '70 years from the end of the cale
 
 Encourage the Advertising Standards Authority to tighten regulations around the use of pseudo-scientific language and terminology for the promotion of cosmetic, toiletry, food or other products, without sufficient evidence.
 
+Ban the use of Photoshop in advertising.
+
+Impose weight regulations for models (BMI18+) to ensure that models aren't causing body image issues within the population. A punishment of 2 months jail to the employer and a fine of £2000 to the company would be used as a sentence for breaking this regulation.
+
 [^1]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
