@@ -79,7 +79,7 @@ Second home allowances will be scrapped, and MPs will instead have accommodation
 
 In the UK, our executive branch (the government) is made up of members of the legislative branch (the Commons and Lords). Ideally, they would be separated.
 
-The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
+The executive should be appointed by the legislature, with the proportion of the executive from each political party being the same as the proportion of the vote each party received in the previous general election.
 
 ## Government Posts
 
