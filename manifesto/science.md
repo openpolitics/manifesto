@@ -8,6 +8,8 @@ title: Science
 
 The UK should spend at least 0.8% of GDP on scientific research and development[^1]. 0.8% is the average amongst the G8 countries, and as of March 2015, the UK spends less than 0.5%[^2], one of the lowest in the G8.
 
+Implement a favourable tax regime for private sector investment in scientific and technical research
+
 ## Compulsory Purchase in the Public Interest
 
 Patents and other forms of IP are used exercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.
