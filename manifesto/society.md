@@ -1,17 +1,13 @@
 ---
 title: Society
-layout: policy
-published: true
 ---
 
 * table of contents 
 {:toc}
 
-What policies should we propose to improve the fabric of society?
-
 ## Secularism
 
-With 50% of the British public having no religion, including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
+With 50-62% of the British public having no religion[^2], including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
 
@@ -29,6 +25,8 @@ All human rights exemptions for religious organisations, such as discrimination 
 Religious organisations operating public services will be explicitly banned from promoting their religion in the process in order to protect vulnerable members of society.
 
 Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion). 
+
+Local and national Remembrance Day/Sunday celebrations to be secular events, including the Cenotaph ceremony.
 
 ## Immigration
 
@@ -50,6 +48,8 @@ Nominations for State Honours should continue to be encouraged from the public. 
 
 The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
 
+Humanist marriage to be made legal.
+
 ## Equality in Civil Partnerships
 
 Under all devolved jurisdications each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
@@ -60,5 +60,33 @@ Our entire society and economy is centred around the principle of continued econ
 
 We recognise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental wellbeing, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
 
+## The City of London
+
+The City of London Corporation is an affrontery to modern democracy and that it embodies what is wrong with British society. We demand immediate wide-reaching reform of the City and its institutions.
+
+Our foremost aim is to abolish the City of London Corporation and replace it with a City of London Council.
+
+We will repeal Clause 13 of the Magna Carta, which serves only to reinforce the undue privileges of the City of London.
+
+We will the Freedom of Information Act 2000 to include the entirety of the City of London Corporation's assets.
+
+To reduce the democratic deficit, we will abolish the business vote in City of London elections, allowing the residents of the City to decide their own future.
+
+We will retain the role of Lord Mayor of London but only as a ceremonial figurehead of the City of London Council.
+
+We will dissolve the City of London Police and bring the role of policing the City under the Metropolitan Police's remit.
+
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+
+[^2]: [YouGov poll] (http://www.secularism.org.uk/news/2015/04/as-cameron-says-uk-still-a-christian-country-62-percent-tell-yougov-they-are-not-religious)
+
+## Community Engagement
+
+Local Councillors should provide at least two weekend community surgeries a month.
+
+Ward based public debates should not be confined to hustings during periods of election campaigning and a minimum number should be required per calendar year.  
+
+An elected ward councillor must participate and one member party member from other parties may do so if they wish.
+
+The debate should be chaired by a local resident.
