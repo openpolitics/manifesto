@@ -29,7 +29,7 @@ We will end compulsory worship in schools.
 
 State-funded faith schools will also lose their exemption to equalities legislation, preventing them from practising religious discrimination in their employment policies.
 
-Religious education (R.E.) will also be reviewed, starting with research on the current state of R.E. and followed by a consultation to include all interested parties on whether to keep R.E., reform it, or replace it.
+Religious education (R.E.) will be replaced by Philosophy and Comparative Religion, and content in other subjects that is based on religious beliefs which are divisive (such as homosexuality) or not scientifically valid (such as creationism) will not be allowed.
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
 
