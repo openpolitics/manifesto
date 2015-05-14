@@ -29,10 +29,11 @@ All frontline Police officers will be equipped with personal cameras for the pot
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw 'religious courts'.
+Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^2]
 
 Implement rigorous protection regimes for whistleblowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
+[^2]: [One Law for All] (http://www.onelawforall.org.uk/)
