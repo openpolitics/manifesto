@@ -26,6 +26,9 @@ Investigate possible reforms to the way VAT is applied to goods and services wit
 
 Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
 
+### Remove Tampon Tax
+Tampons should not be considered a luxury item and should be considered a necessity 
+
 ## Social Security
 
 We will support research into a [universal basic income](https://en.wikipedia.org/wiki/Basic_income) and its effects on society and the economy, with the aim of eradicating poverty and providing a basic standard of living for all.
