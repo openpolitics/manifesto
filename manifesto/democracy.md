@@ -71,7 +71,7 @@ MP salaries should be linked to other public sector wages, and should rise and f
 
 Serving MPs should not hold second jobs unless they can show that there is no conflict with their role as MP, both in terms of time required and conflict of interest. This includes directorships and advisory posts.
 
-All persons holding public office will be barred from standing as a candidate in any election other than for re-election to the same post.
+All persons holding elected public office will be barred from standing as a candidate in any election other than for re-election to the same post. An exclusion will apply to holding parish and district-level councillor positions simultaneously.
 
 Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accomodation.
 
