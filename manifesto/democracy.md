@@ -65,6 +65,10 @@ The House of Lords will be replaced with a chamber made up of randomly-selected 
 
 Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
+### Remove Bishops from the House of Lords
+
+Immediately remove the 26 Bishops from the House of Lords.
+
 ## MPs pay and expenses
 
 MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
@@ -105,3 +109,7 @@ The President will be equal before the law, and will not be protected by [Sovere
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 [^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
+
+## Disestablish the Church of England
+
+Work towards the total disestablishment of the Church of England. Create a secular state.
