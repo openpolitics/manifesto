@@ -1,12 +1,8 @@
 ---
 title: Health
-layout: policy
-published: true
 ---
 * table of contents 
 {:toc}
-
-How do we ensure a healthy population?
 
 ## Depoliticisation and protection of the National Health Service
 
@@ -42,6 +38,14 @@ Resulting price increases would largely be restricted to off-trade retailers suc
 Examples;
 * A 3 litre bottle of 4.7% ABV cider can be purchased for as little as £3.99[^2] and contains 14.1 units of alcohol. An MUP of 45p would force this up to at least £8.81 (£6.35 MUP + £1.27 VAT + £1.19 duty).
 * A pint of 4% draught beer can be purchased for around £3.21[^3] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
+
+## Focus on mental health in young people
+
+Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
+
+## Homeopathy
+
+End public spending on homeopathy within the NHS.
 
 [^1]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
 [^2]: [Bargain Booze: Blackthorn Cider 3ltr](http://www.bargainbooze.co.uk/products/4043/index.html)
