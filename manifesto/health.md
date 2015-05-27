@@ -35,13 +35,12 @@ Alcohol misuse is a serious health issue costing around £21bn per year[^1], inc
 
 Resulting price increases would largely be restricted to off-trade retailers such as supermarkets and off-licenses and so would not have a large negative impact on the licensed pub trade.
 
+Examples:
+ * A 3 litre bottle of 4.7% ABV cider can be purchased for as little as £3.99 and contains 14.1 units of alcohol. An MUP of 45p would force this up to at least £8.81 (£6.35 MUP + £1.27 VAT + £1.19 duty).
+ * A pint of 4% draught beer can be purchased for around £3.21[^2] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
+
 ## Focus on mental health in young people
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
-Examples;
-* A 3 litre bottle of 4.7% ABV cider can be purchased for as little as £3.99[^2] and contains 14.1 units of alcohol. An MUP of 45p would force this up to at least £8.81 (£6.35 MUP + £1.27 VAT + £1.19 duty).
-* A pint of 4% draught beer can be purchased for around £3.21[^3] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
-
 [^1]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
-[^2]: [Bargain Booze: Blackthorn Cider 3ltr](http://www.bargainbooze.co.uk/products/4043/index.html)
-[^3]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
+[^2]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
