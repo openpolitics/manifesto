@@ -2,7 +2,10 @@ require 'html/proofer'
 
 task :test do
   sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site", {typhoeus: { ssl_verifypeer: false }}).run
+  ignore = [
+    'https://githubeditor.herokuapp.com'
+  ]
+  HTML::Proofer.new("./_site", {href_ignore: ignore, typhoeus: { ssl_verifypeer: false }}).run
 end
 
 task :default => :test
