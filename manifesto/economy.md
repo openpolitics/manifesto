@@ -1,13 +1,11 @@
 ---
 title: Economy
-layout: policy
-published: true
 ---
 
 * table of contents
 {:toc}
 
-What policies should we propose to maintain a competitive economy that provides [full employment](http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Full_employment.html)?
+We think the economy should work for everyone, not just billionaires, hedge funds and investment banks. We oppose the austerity policies of George Osborne that have doubled the national debt in the last five years and caused much unnecessary suffering for those on the lowest rungs of the economic ladder. We want to stop tax evasion and avoidance, so that everyone pays their fair share. We want to introduce a Land Value Tax to replace Council Tax, Uniform Business Rates and Stamp Duty. We want to introduce a Financial Transaction Tax, and we also want rent controls. We want to raise and minimum wage, and we encourage everyone to pay the living wage, starting with the government.
 
 ## Minimum Wage
 
@@ -29,6 +27,9 @@ Investigate possible reforms to the way VAT is applied to goods and services wit
 ### Financial Transaction Tax
 
 Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed EU Financial Transaction Tax[^1] system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
+
+### Remove Tampon Tax
+Tampons should not be considered a luxury item and should be considered a necessity 
 
 ## Social Security
 
@@ -69,6 +70,8 @@ All private companies who receive public money must be subject to the same trans
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
+
+All public sector organizations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
 ## Tax Havens
 
