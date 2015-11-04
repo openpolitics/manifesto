@@ -5,7 +5,7 @@ title: Economy
 * table of contents
 {:toc}
 
-We think the economy should work for everyone, not just billionaires, hedge funds and investment banks. We oppose the austerity policies of George Osborne that have doubled the national debt in the last five years and caused much unnecessary suffering for those on the lowest rungs of the economic ladder. We want to stop tax evasion and avoidance, so that everyone pays their fair share. We want to introduce a Land Value Tax to replace Council Tax, Uniform Business Rates and Stamp Duty. We want to introduce a Financial Transaction Tax, and we also want rent controls. We want to raise and minimum wage, and we encourage everyone to pay the living wage, starting with the government.
+We think the economy should work for everyone, not just billionaires, hedge funds and investment banks. We want to improve fairness in the tax system by closing tax evasion loopholes and reducing the gap between corporation tax and income tax. We want to create affordable housing for everyone, and to do this we will introduce a land value tax, adjust capital gain tax and introduce rent control. We want to help the lowest paid and we will by raising the minimum wage and encouraging everyone to pay the living wage.
 
 ## Minimum Wage
 
