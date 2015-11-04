@@ -59,20 +59,24 @@ We should use our significant financial position within the global economy to he
 
 ## British Overseas Territories
 
-### Sovereign Base Areas of Akrotiri and Dhekelia
-
-Grant British citizenship to the 67 residents of Richmond Village, Akrotiri.[^2]
-
 ### British Indian Ocean Territory
 
 The UK should repatriate fully the natives of the Chagos Archipelago that were evicted illegally by the British government between 1967 and 1973. All descendants of those originally evicted should be given the option to return. A referendum should then be held from those that choose to return to decide what to do with Naval Support Facility Diego Garcia which is currently based on the islands. 
 
 The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://www.pca-cpa.org/PCA%20Press%20Release%20-%20Tribunal%20issues%20Award%20in%20Chagos%20Marine%20Protected%20Area%20Arbitration9b13.pdf?fil_id=2901) by the Permanent Court of Arbitration on 18 March 2015, as it is a breach of the United Nations Convention on the Law of the Sea.
 
+### Montserrat
+
+We will commission a report into how best to help Monterrat recover in the long-term and how better infrastructure can be put in place to cope with future crises and disasters.
+
+### Sovereign Base Areas of Akrotiri and Dhekelia
+
+We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri.[^2]
+
 ## De-listing of the PKK
 
 We recognise that the PKK (Kurdistan Workers' Party) has turned to peaceful means to secure rights for the Kurdish people[^3]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation, and move that the organisation similarly be de-listed at EU and NATO levels. 
 
-[^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
-[^2]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
-[^3]: [Why delist the PKK?](http://delistthepkk.com/why/)
+* [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
+* [^2]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
+* [^3]: [Why delist the PKK?](http://delistthepkk.com/why/)
