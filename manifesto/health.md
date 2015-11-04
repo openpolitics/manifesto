@@ -43,9 +43,9 @@ Examples;
 
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
-## Homeopathy
+## Review of placebo treatments
 
-End public spending on homeopathy within the NHS.
+We will conduct a science-led review of placebo treatments in the NHS, such as homeopathy, to decide whether placebos are value-for-money, ethical and effective at treating patients.
 
 [^1]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
 [^2]: [Bargain Booze: Blackthorn Cider 3ltr](http://www.bargainbooze.co.uk/products/4043/index.html)
