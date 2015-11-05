@@ -35,7 +35,7 @@ Scottish authorities will no longer be legally obligated to appoint unelected re
 
 ## School Governance
 
-All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
+All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will be a co-opted member on the board of governors.
 
 ## Focus on Education
 
