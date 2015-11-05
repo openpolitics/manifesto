@@ -93,6 +93,18 @@ Follow recommendations regarding transparency in the [Lyons Housing Review](http
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
 
+## Regulation of Credit Ratings Agencies
+
+We aim to reduce over-reliance on credit ratings whilst at the same time improving the quality of the rating process.
+
+We will establish a national monitoring body to examine the work of Ratings Agencies in the United Kingdom.
+
+We will force Credit Rating Agencies to be more transparent about their work and their ratings processes.
+
+We will open up the market for competition with Credit Rating Agencies, as well as introduce a ban on expansion for the “Big Three,” Standard and Poor's, Moody's and Fitch. We should also have a public or non-profit Credit Rating Agency.
+
+We will also make Ratings Agencies legally liable for their actions.
+
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
 [^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
