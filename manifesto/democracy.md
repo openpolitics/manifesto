@@ -17,7 +17,7 @@ The constitution will be created with broad participation from the citizenry, an
 
 Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
 
-Only individual's appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
+Only individuals appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
 
@@ -94,6 +94,22 @@ Fully include of the monarchy within the Freedom of Information Act (FOIA), so t
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 
 Adopt full disclosure of royal lobbying and influence, including disclosure of meetings between members of the royal family and ministers.
+
+## City of London
+
+The City of London Corporation is an effrontery to modern democracy and it embodies all that is wrong with British society. We demand immediate wide-reaching reform of the City and its institutions.
+
+Our foremost aim is to abolish the City of London Corporation and replace it with a City of London Council.
+
+We will repeal Clause 13 of the Magna Carta, which serves only to reinforce the unfair privileges of the City of London.
+
+We will extend the Freedom of Information Act 2000 to include the entirety of the City of London Corporation's assets.
+
+To reduce the democratic deficit within the City, we will abolish the business vote in all City of London elections, allowing the residents of the City to decide their own future.
+
+We will retain the role of Lord Mayor of London but only as a ceremonial figurehead of the City of London Council.
+
+We will dissolve the City of London Police and bring the role of policing the City under the Metropolitan Police's remit.
 
 ## Republic
 
