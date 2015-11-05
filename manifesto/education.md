@@ -15,7 +15,11 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Education should be freely available to all to first degree level or equivalent. 
+
+Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+
+All school funding will be assessed on a pupil by pupil basis (to include a basic entitlement, additional needs and other relevant adjustments).  These funds will stay with the child throughout their education. This will remove the inequality of the present funding system (where certain areas can recieve a lot less per child than others) but will also remove the need for "big bucket" approaches such as Pupil Premium. On entry to the school system, each child will take with them guaranteed minimum funding (that can be adjusted if and when necessary to take into account life changes) and schools will be able to plan more effectively (especially with regards to children entering mid-year).
 
 ## Secular Schools
 
