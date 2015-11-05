@@ -35,5 +35,10 @@ Implement rigorous protection regimes for whistleblowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
+
+## Chaplaincy
+
+Organise the chaplaincy service along secular lines, with no privileges for religious chaplains. Provide secular alternatives to religious rehabilitation programs.
+
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
 [^2]: [One Law for All] (http://www.onelawforall.org.uk/)
