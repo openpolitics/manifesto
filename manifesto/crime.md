@@ -1,12 +1,8 @@
 ---
 title: "Crime & Justice"
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}
-
-What policies should we adopt to ensure a fair justice system?
 
 ## Capital Punishment
 
@@ -29,14 +25,19 @@ We will end the unwinnable war on drugs. Recreational drug use will be legalised
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
 
+### Independent Police Complaints Commission
+
+Expand the role of the Independent Police Complaints Commission (IPCC) to include all security companies that have been privately-contracted by the government, such as G4S.
+
 ## Courts
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw 'religious courts'.
+Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^2]
 
 Implement rigorous protection regimes for whistleblowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
+[^2]: [One Law for All] (http://www.onelawforall.org.uk/)
