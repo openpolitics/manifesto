@@ -9,6 +9,8 @@ title: Economy
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
 
+Companies that continue to make profits whilst paying below the minimum wage will be liable to fines of up to 100% of those profits, and the directors will be liable to personal prosecution with a penalty equivalent to their entire salary and any dividends, minus the minimum wage. Fines will be used towards back-paying underpaid workers and enforcing the minimum wage.
+
 ## Taxation
 
 Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
