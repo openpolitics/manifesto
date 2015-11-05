@@ -35,5 +35,9 @@ Implement rigorous protection regimes for whistleblowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
+## Extradition
+
+The UK will no longer extradite anyone to stand trial abroad. Alleged offences may have been committed while defendants were in the UK, or only in another country for a short time, and facing trial in an unfamiliar country without access to a support network that would available at home is too close to punishment rather than process. Instead, provisions will be made for 'international courts', where defendants can be tried without leaving the country. These international courts would host trials by countries which previously had extradition treaties with the UK.
+
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
 [^2]: [One Law for All] (http://www.onelawforall.org.uk/)
