@@ -23,3 +23,8 @@ All foreign deployment of UK Armed Forces, as well as the use of UK Special Advi
 ## Defence Budget
 
 Reviews of defence budgets should be tied to a review of commitments, not just expenditure, to ensure that UK Armed Forces are properly equipped and trained for role our defence and foreign policies are demanding of them.
+
+
+## Chaplaincy
+
+Organise the chaplaincy service along secular lines, with no privileges for religious chaplains.
