@@ -9,6 +9,8 @@ title: Economy
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
 
+A new low-interest loan scheme would be introduced for employers who cannot afford to pay their staff a living wage. This is not a long-term scheme, but an interim measure to allow employers currently paying below this level to adapt to paying their staff a living wage. In return for money to top-up staff wages, companies must accept an open-books policy with HMRC, place a cap on dividends, and place a cap on maximum salaries.
+
 ## Taxation
 
 Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
