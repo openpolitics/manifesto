@@ -55,6 +55,10 @@ To be an effective policy, it will also cover any organisation performing one of
 
 NIOs are intended to provide the basic infrastructure that is essentially to a functioning society in a way that is protected from the volatility of shareholder whims. They provide the basics for innovators to provide services on top of, and without simply placing the entire service burden onto the state through nationalisation.
 
+### Public Service Users Bill
+
+We will enact the [Public Service Users Bill](http://weownit.org.uk/public-service-users-bill), as proposed by [We Own It](http://weownit.org.uk/), ensuring any public services that are operated by private companies are subject to rigorous public consultation and accountability.
+
 
 [^1]: In the case of BT, the business would be broken up to separate the infrastructure (ducts, cabinets, poles, exchanges) from the commercial business and only the infrastructure side would become subject to the national infrastructure regulation
 [^2]: In a similar way to BT's telephone infrastructure, mobile operators would be required to transfer their ownership of masts into NIOs with the rest of their business remaining fully private
