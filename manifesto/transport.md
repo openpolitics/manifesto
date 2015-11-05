@@ -52,3 +52,7 @@ Develop a long-term plan for complete electrification of the national rail netwo
 Investigate feasibility of building a high speed rail network that connects our ten largest cities (and Cardiff also) to the European high speed network via HS1.
 
 Examine which areas of the United Kingdom were most detrimentally affected by the changes in the [Beeching Reports](https://en.wikipedia.org/wiki/Beeching_cuts), and whether it would be economically feasible to bring back any formerly established railways.
+
+## Bus
+
+Promote efficient use of road space in towns and cities by allocating road space to bus lanes, encouraging the creation of a network of frequent bus routes.
