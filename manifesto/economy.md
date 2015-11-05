@@ -11,6 +11,10 @@ The minimum wage should be set to the same value as the living wage (currently Â
 
 ## Taxation
 
+Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
+
+As a general rule of thumb, tax policy should focus on simple direct taxation (such as income tax, corporation tax and land value tax) for the bulk of revenue raising, and use minimal indirect taxes to discourage certain activities (such as fossil fuel use, drug use, and so on).
+
 ### Income Tax
 
 The personal income tax allowance will be set at the level of a full time living wage and will rise inline with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
