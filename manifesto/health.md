@@ -42,5 +42,13 @@ Examples:
 ## Focus on mental health in young people
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
+## Focus on mental health in young people
+
+Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
+
+## Review of placebo treatments
+
+We will conduct a science-led review of placebo treatments in the NHS, such as homeopathy, to decide whether placebos are value-for-money, ethical and effective at treating patients.
+
 [^1]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
 [^2]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
