@@ -5,6 +5,8 @@ title: Economy
 * table of contents
 {:toc}
 
+We think the economy should work for everyone, not just billionaires, hedge funds and investment banks. We want to improve fairness in the tax system by closing tax evasion loopholes and reducing the gap between corporation tax and income tax. We want to create affordable housing for everyone, and to do this we will introduce a land value tax, adjust capital gain tax and introduce rent control. We want to help the lowest paid and we will by raising the minimum wage and encouraging everyone to pay the living wage.
+
 ## Minimum Wage
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
