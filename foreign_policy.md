@@ -6,13 +6,13 @@ title: Foreign Policy
 
 ## Internationalist Stance
 
-We believe that a clear view of the role that the UN, EU, NATO and other international bodies play in reducing the likelihood of war should be clearly and unambiguosly communicated to the electorate. 
+We believe that a clear view of the role that the UN, EU, NATO and other international bodies play in reducing the likelihood of war should be clearly and unambiguously communicated to the electorate. 
 
 The UK should also use its membership of such bodies to influence them to reinforce this role and use this peaceful approach whenever possible to avoid conflict.
 
 ## Foreign Aid
 
-We will maintain the UK's committment to the [UN Millennium Project agreement](http://www.unmillenniumproject.org/press/07.htm) of allocating 0.7% of Gross National Income (GNI) to Overseas Development Assistance. These funds will be kept separate from military spending; any required security, demobilisation, or peacekeeping expenses will be seperately funded, from Defence budgets.
+We will maintain the UK's commitment to the [UN Millennium Project agreement](http://www.unmillenniumproject.org/press/07.htm) of allocating 0.7% of Gross National Income (GNI) to Overseas Development Assistance. These funds will be kept separate from military spending; any required security, demobilisation, or peacekeeping expenses will be separately funded, from Defence budgets.
 
 ## European Union
 
@@ -63,9 +63,26 @@ The UK should repatriate fully the natives of the Chagos Archipelagos that were 
 
 The UK should revoke the Chagos Marine Protected Area as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot by the Americans to keep the Chagossians off the islands, and it was also declared illegal on 18 March 2015 by the UN's Permanent Court of Arbitration.
 
+## British Overseas Territories
+
+### British Indian Ocean Territory
+
+The UK should repatriate fully the natives of the Chagos Archipelago that were evicted illegally by the British government between 1967 and 1973. All descendants of those originally evicted should be given the option to return. A referendum should then be held from those that choose to return to decide what to do with Naval Support Facility Diego Garcia which is currently based on the islands. 
+
+The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://www.pca-cpa.org/PCA%20Press%20Release%20-%20Tribunal%20issues%20Award%20in%20Chagos%20Marine%20Protected%20Area%20Arbitration9b13.pdf?fil_id=2901) by the Permanent Court of Arbitration on 18 March 2015, as it is a breach of the United Nations Convention on the Law of the Sea.
+
+### Montserrat
+
+We will commission a report into how best to help Montserrat recover in the long-term and how better infrastructure can be put in place to cope with future crises and disasters.
+
+### Sovereign Base Areas of Akrotiri and Dhekelia
+
+We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri.[^2]
+
 ## PKK and Turkey Peace Process
 
 We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^2]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
 
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
-[^2]: [Why delist the PKK?] (http://delistthepkk.com/why/)
+[^2]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
+[^3]: [Why delist the PKK?] (http://delistthepkk.com/why/)
