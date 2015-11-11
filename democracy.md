@@ -11,7 +11,7 @@ We believe that the UK should be a truly democratic country, where the state is 
 
 The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^1].
 
-The constitution will be created with broad participation from the citizenry, and approval and adoption shall be subject to a referendum.
+The constitution could either be created by a citizens' panel, with approval and adoption subject to a referendum, or created as a "blank slate", with every addition done as an amendment by Parliament with a super-majority vote (e.g. 75% in favour).
 
 ## Party Funding
 
