@@ -17,7 +17,11 @@ The constitution will be created with broad participation from the citizenry, an
 
 Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
 
+<<<<<<< HEAD:democracy.md
 Only individuals appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
+=======
+Only individual's appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
+>>>>>>> b9c49f745079a06656a7b4630b99919b5ad7d481:manifesto/democracy.md
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
 
@@ -35,6 +39,12 @@ A local accountability service will be provided online to show, for each local a
 * searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
 
 To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
+
+## Lobbying
+
+We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^2]
+
+To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
 
 ## Devolution
 
@@ -89,7 +99,7 @@ Abolish the City Minister position, ending the privileged position of the City o
 
 ## Royal Secrecy
 
-Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^2].
+Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^3].
 
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 
@@ -122,4 +132,5 @@ Presidential terms of office will be fixed at five years, with a maximum of two 
 The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
 [^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
-[^2]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
+[^2]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
+[^3]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
