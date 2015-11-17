@@ -25,6 +25,10 @@ We will end the unwinnable war on drugs. Recreational drug use will be legalised
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
 
+### Independent Police Complaints Commission
+
+Expand the role of the Independent Police Complaints Commission (IPCC) to include all security companies that have been privately-contracted by the government, such as G4S.
+
 ## Courts
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
