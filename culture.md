@@ -1,5 +1,5 @@
 ---
-title: Culture & Media
+title: Culture &amp; Media
 ---
 * table of contents 
 {:toc}
