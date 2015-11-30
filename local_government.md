@@ -14,7 +14,7 @@ The Localism Act 2011 repealed powers under The Climate Change Act 2008 which ga
 
 ## Reducing Corruption
 
-Inline with Transparency International's recommendations in their report [Corruption in Local Government: The Mounting Risks](http://www.transparency.org.uk/our-work/publications/10-publications/747-corruption-in-uk-local-government-the-mounting-risks), we will introduce the following policies:
+Inline with Transparency International's recommendations in their report [Corruption in Local Government: The Mounting Risks](http://sro.sussex.ac.uk/52109/1/Corruption_in_UK_Local_Government-_The_Mounting_Risks.pdf), we will introduce the following policies:
 
 ### Inquiry
 
