@@ -1,5 +1,5 @@
 ---
-title: "Crime & Justice"
+title: "Crime &amp; Justice"
 ---
 * table of contents
 {:toc}
