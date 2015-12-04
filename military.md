@@ -29,3 +29,9 @@ Reviews of defence budgets should be tied to a review of commitments, not just e
 We will establish a regulatory body for private military and security companies (PMSC) registered in the UK. All PMSCs will be required to register with this body and they will then either receive approval to operate as a PMSC or not. PMSCs will have to seek approval with the regulatory body before accepting operational deployments. A list of private military contractors that have been killed whilst in the service of these PMSCs will also be collated and published annually.
 
 We will push for an international regulatory body and statutes for PMSCs around the world, possibly administered through the UN. The international body could potentially incorporate both the [Montreux Document](https://www.globalpolicy.org/images/pdfs/0917montreuxdocument.pdf) and the [International Code of Conduct for Private Security Service Providers](http://icoca.ch/sites/all/themes/icoca/assets/icoc_english3.pdf).
+
+## Lethal Autonomous Robots
+
+Giving machines the power to decide who lives and dies on the battlefield is an unacceptable application of technology[^1]. Development of lethal autonomous robots will be made illegal in the UK. We will work with the UN and other international bodies to create an international treaty banning the development and use of lethal autonomous robots.
+
+[^1]: [Campaign to stop killer robots](http://www.stopkillerrobots.org/the-solution/)
