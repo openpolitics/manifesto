@@ -41,7 +41,21 @@ All state secondary schools will have an elected students council, and student p
 
 We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
 
+## Evidence based Learning
+
+We recognise the tension between the coercion inherent in 'being taught' to follow a curriculum and testing regime, and the innate drive of self motivated learning, which is a biological mandate, where the student requests specific help to explore a given subject area, based on their interest and resources. [^5]
+
+We therefore suggest that all teaching staff, support staff in Education be trained in the ethics of Education without compulsion, and furthermore, that all teaching staff undergo training in empathy, conflict resolution, open democracy, child development and other areas aligned to the welfare and healthy development  of our children as people, as the future adults of this Society. How we treat the child determines the emerging psychology of the future.
+
+We recognise a wide variety of psychologies and perspectives amongst our children, and suggest that these be understood and worked with, rather than policed, controlled or medicated as class room management strategies. The Natural Child, the child that learns by exploration, observation, experimentation, critical analysis is a biological mandate, and it represents the greatest variety of ways of being available to any given community, and it should be at the very centre of our Education system. 
+
+## Separation from Militarisation.
+
+We suggest that the Military Cadet system be removed from all schools, and that History Education be 100% honest and transparent in all respects. We sense that would go a long way to combating the emergence of right wing support across the country.
+
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
 [^4]: [Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
+[^5]: [Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life ](http://www.goodreads.com/book/show/15843125-free-to-learn)
+
