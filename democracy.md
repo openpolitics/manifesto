@@ -71,6 +71,9 @@ The House of Lords will be replaced with a chamber made up of randomly-selected 
 
 Citizens are selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is changed each year. Leave from work is legally protected, and help back to work included in the cost.
 
+### Minister appointments
+Until the House of Lords is abolished government ministers can only be appointed from the House of Commons.
+
 ## MPs pay and expenses
 
 MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
