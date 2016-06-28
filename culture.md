@@ -17,3 +17,7 @@ Immediately reduce the term of copyright from '70 years from the end of the cale
 Encourage the Advertising Standards Authority to tighten regulations around the use of pseudo-scientific language and terminology for the promotion of cosmetic, toiletry, food or other products, without sufficient evidence.
 
 [^1]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
+
+## Media Retractions
+
+Media outlet retractions should mirror the original article. This covers font size, word count, page space and positioning within the document. If a media outlet does not follow this it will receive a fine from OfCom.
