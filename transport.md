@@ -41,9 +41,13 @@ Work with automobile manufacturers to establish ways of providing infrastructure
 
 Encourage automobile manufacturers to agree upon an open and non-proprietary standard for wireless automated vehicle-to-vehicle (V2V) communication to improve road safety by reducing both congestion and collisions.
 
-## Electric Vehicles
+## Electric and Alternative Fuel Vehicles
 
 Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
+
+Incentivise existing fuelling stations to install hydrogen fuel pumps.
+
+Incentivise research into retrospective modifications to existing vehicles allowing them to run on hydrogen. This would facilitate an easier transition from our dependency on fossil fuels, and encourage the development of new hydrogen based vehicle (which doesn't have the same carbon footprint as the manufacture of lithium ion batteries.)
 
 ## Railways
 
