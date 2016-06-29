@@ -57,12 +57,6 @@ The UK should join many other countries around the world, as well as the UN, and
 
 We should use our significant financial position within the global economy to help us achieve our ethical foreign policy goals. We should impose financial and trade restrictions against states who pursue aggressive or expansionist policies against their neighbours, or anti-democratic or oppressive policies against their own citizens.
 
-## Repatriation of the Chagossians to the British Indian Ocean Territory
-
-The UK should repatriate fully the natives of the Chagos Archipelagos that were evicted illegally by the British government between 1967 and 1973. All descendants of those originally evicted should be given the option to return. A referendum should then be held from those that choose to return to decide what to do with Naval Support Facility Diego Garcia which is currently based on the islands. 
-
-The UK should revoke the Chagos Marine Protected Area as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot by the Americans to keep the Chagossians off the islands, and it was also declared illegal on 18 March 2015 by the UN's Permanent Court of Arbitration.
-
 ## British Overseas Territories
 
 ### British Indian Ocean Territory
