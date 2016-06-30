@@ -75,7 +75,7 @@ Any government contract that can only be successfully managed by another nation 
 
 Any government contract that has been successfully tendered can be put on hiatus if it is found that the successful firm has become majority or wholly state owned. This will run until the either: 1) the firm returns to majority private ownership, 2) the tenure of the contract elapses. Should the contract elapse the government has the right to re-tender the asset.
 
-At completion of a government contract, should the asset be in proper working order to be sold to the private sector, the UK government must never knowingly undersell the asset. If an asset is sold undervalued the government minister responsible should be held accountable on condition of treason for knowingly betraying one's country. We believe that selling our nations assets at below market value is to steal from all of us and requires a severe punishment.
+At completion of a government contract, should the asset be in proper working order to be sold to the private sector, the UK government must never knowingly undersell the asset.
 
 ## Public Sector
 
