@@ -20,4 +20,4 @@ Encourage the Advertising Standards Authority to tighten regulations around the 
 
 ## Media Retractions
 
-Media outlet retractions should mirror the original article. This covers font size, word count, page space and positioning within the document. If a media outlet does not follow this it will receive a fine from OfCom.
+Media outlet retractions should mirror the original article. This covers font size, word count, page space and positioning within the document. If a media outlet does not follow this it will receive a fine from Independent Press Standards Organisation (IPSO).
