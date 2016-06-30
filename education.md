@@ -51,7 +51,9 @@ We recognise a wide variety of psychologies and perspectives amongst our childre
 
 ## Separation from Militarisation.
 
-We suggest that the Military Cadet system be removed from all schools, and that History Education be 100% honest and transparent in all respects. We sense that would go a long way to combating the emergence of right wing support across the country.
+We suggest that the Military Cadet system be removed from all schools, and be replace with something that provides the opportunity to learn and explore the same skills divorced from Militarisation. Military activity is about killing, and has no place in a rational, humane environment. Enlistment in the armed forces ought to be something chosen by adults who are well informed, mature and resilient, rather than children or teenagers who can have only a fantasy perception of the realities of military action.
+
+As part of that we also suggest that History be an exploration, rather than rote learning of 'approved' texts. Children ought to be allowed to explore all available materials as individuals, then encouraged to bring what they have found back to share with their fellow students, and to discuss what they have found, in order to arrive at a more nuanced understanding and to help the children to develope their innate critical thinking skills in a group setting. Varied perspectives can then be integrated. We would look to the quality of their logic and research, their ability to define, integrate and refine, in written and spoken word, as the measure of their progress.
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
