@@ -71,6 +71,12 @@ Ensure worker-owned cooperatives and mutuals are given priority with all governm
 
 All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^2].
 
+Any government contract that can only be successfully managed by another nation state or a private firm with majority state ownership should be retained, developed, administered and controlled by the UK government, until such a time as a viable private alternative becomes available.
+
+Any government contract that has been successfully tendered can be put on hiatus if it is found that the successful firm has become majority or wholly state owned. This will run until the either: 1) the firm returns to majority private ownership, 2) the tenure of the contract elapses. Should the contract elapse the government has the right to re-tender the asset.
+
+At completion of a government contract, should the asset be in proper working order to be sold to the private sector, the UK government must never knowingly undersell the asset. If an asset is sold undervalued the government minister responsible should be held accountable on condition of treason for knowingly betraying one's country. We believe that selling our nations assets at below market value is to steal from all of us and requires a severe punishment.
+
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
