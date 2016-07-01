@@ -71,7 +71,7 @@ Ensure worker-owned cooperatives and mutuals are given priority with all governm
 
 All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^2].
 
-Any government contract that can only be successfully managed by another nation state or a private firm with majority state ownership should be retained, developed, administered and controlled by the UK government, until such a time as a viable private alternative becomes available.
+Any government contract that can only be successfully managed by another nation state or a private firm with majority state ownership could be retained, developed, administered and controlled by the UK government, until such a time as a viable private alternative becomes available.
 
 Any government contract that has been successfully tendered can be put on hiatus if it is found that the successful firm has become majority or wholly state owned. This will run until the either: 1) the firm returns to majority private ownership, 2) the tenure of the contract elapses. Should the contract elapse the government has the right to re-tender the asset.
 
