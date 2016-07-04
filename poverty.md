@@ -21,7 +21,7 @@ The Office for Budget Responsibility will be given a new role in accessing and f
 
 ## The Burden of Childcare
 
-We believe that the cost of childcare is so high that it actively inhibits people from finding employment and building themselves a career. That is why, building on the current 15hr free childcare provision for all 3 and 4 year olds, we will look to gradually increase this until a full working week is provided for free for all.
+We believe that the cost of childcare is so high that it actively inhibits people from finding employment and building themselves a career. That is why, building on the current 30hr free childcare provision for all 3 and 4 year olds, we will look to gradually increase this until a full working week is provided for free for all.
 
 We oppose the governments proposed amendment to the childcare voucher salary sacrifice scheme. The proposed scheme actively punishes people that are out of work and we do not consider this productive (given the cost of care referenced above). The current system is successful and does not need changing. We propose increasing the income and national insurance limits to make child care more affordable from £243 a month to £500 a month for basic rate tax payers. This would provide a saving of £160 a month at full voucher limit. Higher and Additional Rates would be amended to reflect the savings level.
 
