@@ -19,7 +19,7 @@ Ensure euthanasia is permissible and available for those with conditions causing
 
 ## War on Drugs
 
-We will end the unwinnable war on drugs. Recreational drug use will be legalised under a program of regulation.
+We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
 
 ## Police
 
