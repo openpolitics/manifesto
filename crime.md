@@ -41,3 +41,11 @@ A review will be carried out into the composition of juries, especially for comp
 
 [^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
 [^2]: [One Law for All] (http://www.onelawforall.org.uk/)
+
+##Judicial Protocols
+
+A new Act will be passed granting the Court more power. This power will be exercised in accordance with judicial activist principles. Such principles will allow the Court to suspend Statute and to hold any individual to account on a point of law. 
+
+The lower Court will be reformed. The Magistrates Court must have a judge sitting. 
+
+All defendants in a criminal case will be entitled to legal representation without cost subject to their own finances.
