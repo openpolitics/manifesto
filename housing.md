@@ -29,3 +29,7 @@ Replace council tax with a Land Value Tax as detailed in Economy 5.1.
 ## Housing Benefit
 
 Repeal the size criteria for housing benefit (commonly known as the "Bedroom Tax"), which punishes housing benefit claimants for having spare rooms when in many cases smaller properties are not available for them to move into.
+
+## Housing Association
+
+If a privately run housing association seeks to sell properties because they are unprofitable, we believe that the local authority should be able to buy the houses at a preferential rate. The local authority would then use these properties as council houses. We believe that this will help ease the waiting time for council houses, providing security for many families across the country.
