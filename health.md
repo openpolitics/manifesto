@@ -4,6 +4,10 @@ title: Health
 * table of contents 
 {:toc}
 
+## The Right to Health
+
+Introduce a "right to health", which makes access to healthcare a basic right for any resident of the UK. The Government will have a duty to ensure that every resident has access to quality healthcare, independent of their financial circumstances.
+
 ## Depoliticisation and protection of the National Health Service
 
 In order to support every citizen's basic right to medical care and health services, we will maintain and enhance the NHS, keeping it as a free service available to anyone in the UK.
