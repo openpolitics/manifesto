@@ -59,24 +59,36 @@ We should use our significant financial position within the global economy to he
 
 ## British Overseas Territories
 
+We fundamentally believe in self-determination for residents of the British Overseas Territories, and also that as many powers as possible should be devolved to them. We believe that self-determination, as set out in various international treaties such as UN Resolutions [1415 (XV)](http://www.un.org/en/decolonization/declaration.shtml) and [2625 (XXV)](http://www.un-documents.net/a25r2625.htm) and also the [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx) as well as the [International Covenant on Civil and Political Rights](http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx), is sacred where Non Self Governing Territories (NSGTs) such as the British Overseas Territories are concerned. When it comes to decolonization, including of British Overseas Territories, self-determination is the only acceptable manner in which to do it. As such, we will defend the wishes of the residents against any aggressor states.
+
+### Ascension Island
+
+We will conduct a review into the state of democracy and people’s rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^2]
+
 ### British Indian Ocean Territory
 
 The UK should repatriate fully the natives of the Chagos Archipelago that were evicted illegally by the British government between 1967 and 1973. All descendants of those originally evicted should be given the option to return. A referendum should then be held from those that choose to return to decide what to do with Naval Support Facility Diego Garcia which is currently based on the islands. 
 
-The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://archive.pca-cpa.org/MU-UK%2020150318%20Awardd4b1.pdf?fil_id=2899) by the Permanent Court of Arbitration on 18 March 2015, as it is a breach of the United Nations Convention on the Law of the Sea.
+The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://archive.pca-cpa.org/MU-UK%2020150318%20Awardd4b1.pdf?fil_id=2899) by the Permanent Court of Arbitration on 18 March 2015, as it was in breach of the United Nations Convention on the Law of the Sea, and therefore the UK ought to act swiftly in dismantling it.
+
+### Falkland Islands
+
+We support the right of Falkland Islanders to determine their own future, and so respect the outcome of the 2013 sovereignty referendum, when 99.8% of Falklanders voted to remain an Overseas Territory of the UK. 
 
 ### Montserrat
 
-We will commission a report into how best to help Montserrat recover in the long-term and how better infrastructure can be put in place to cope with future crises and disasters.
+We will commission a report into how best to help Montserrat recover in the long-term following recent eruptions from Soufrière Hills volcano. We will also look at how better infrastructure can be put in place to cope with future crises and disasters.
 
 ### Sovereign Base Areas of Akrotiri and Dhekelia
 
-We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri.[^2]
+We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri, Cyprus.[^3]
 
 ## PKK and Turkey Peace Process
 
-We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^2]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
+We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^4]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
 
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
-[^2]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
-[^3]: [Why delist the PKK?] (http://delistthepkk.com/why/)
+[^2]: ["US and UK accused of 'squeezing life out of' Ascension Island
+", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
+[^3]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
+[^4]: [Why delist the PKK?](http://delistthepkk.com/why/)
