@@ -13,6 +13,8 @@ The British constitution should be collected into a single written document that
 
 The constitution could either be created by a citizens' panel, with approval and adoption subject to a referendum, or created as a "blank slate", with every addition done as an amendment by Parliament with a super-majority vote (e.g. 75% in favour).
 
+Provision for calling a national constitutional convention to alter the constitution should be made in statute law. The law should call a constitutional convention if a super-majority (75%) of members of the Scottish Parliament, the Welsh Assembly, the Northern Ireland Assembly, and the English Grand Committee (if no English Parliament exists) vote for such a convention to be held. In the case one is called, members should be elected on a non-partisan ticket under a proportional electoral system, and it should have free power to make amendments to the constitution.
+
 ## Party Funding
 
 Limit all donations and loans to political parties to a maximum of £5,000 from individuals who appear on the electoral register.
