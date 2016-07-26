@@ -15,7 +15,7 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Education should be freely available to all to first degree level or equivalent, regardless of age. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
 ## Secular Schools
 
@@ -40,6 +40,10 @@ All state secondary schools will have an elected students council, and student p
 ## Focus on Education
 
 We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
+
+## Curriculum
+
+We will add Philosophy to the current core subjects of Maths, Science and English. Philosophy will coach pupils on how to deal with the challenges of life as well as establishing the principles of the modern society.
 
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
