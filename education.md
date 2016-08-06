@@ -41,6 +41,8 @@ All state secondary schools will have an elected students council, and student p
 
 We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
 
+We will include fiscal education into the national curriculum. This will include personal finances, understanding and paying taxes, understanding loans and debt, and relating fiscal choices to the state of the greater economy.  
+
 [^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
