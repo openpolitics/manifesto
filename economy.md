@@ -95,6 +95,9 @@ Follow recommendations regarding transparency in the [Lyons Housing Review](http
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
 
+## Ownership
+When you buy something, it should be owned (not a licence to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
+
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
 [^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
