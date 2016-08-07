@@ -15,7 +15,9 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation. 
+
+Funding to the Open University, and other distance learning courses will be increased to allow for greater uptake and a wider range of courses. Funding will also be targeted not only at degree level qualifications, but also at a cheaper level of continual improvement qualifications. 
 
 ## Secular Schools
 
