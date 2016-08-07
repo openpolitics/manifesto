@@ -37,6 +37,12 @@ Scottish authorities will no longer be legally obligated to appoint unelected re
 
 All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
 
+## Continuing Education
+
+Allowing individuals to be able to gain skills and knowlage, and validate them at a reasonable cost is an important part of our plans for life long education. This will allow for workers to develop skills later in life, and give a boost in the general skill level of the work force, while also allowing people to move into new and emerging industries, while leaving areas of employment with a less stable future.
+
+Life long learning also allows for a better informed public, social interaction between communities, and studies sugest that it can also [reduce the risk of dementia](https://www.nia.nih.gov/alzheimers/publication/preventing-alzheimers-disease/search-alzheimers-prevention-strategies). 
+
 ## Focus on Education
 
 We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
