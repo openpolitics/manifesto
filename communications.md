@@ -18,7 +18,7 @@ Require all UK Internet Service Providers to provide IPv6 connections to home an
 
 ## Surveillance
 
-All communications (whether physical or digital) by individuals and groups, should be considered private property and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicially approved warrant in relation to a specific threat.
+All communications (whether physical or digital) by individuals and groups, should be considered private property and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicial warrant approved on the basis of evidence, not suspicion, in relation to a specific threat.
 
 We will repeal in full the [Data Retention and Investigatory Powers Act 2014](http://www.legislation.gov.uk/ukpga/2014/27/crossheading/retention-of-relevant-communications-data/enacted) which is in breach of Article 8 of the European Convention on Human Rights and Article 7 of the European Charter of Fundamental Rights.
 
