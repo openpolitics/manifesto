@@ -15,7 +15,9 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+Funding for 'Sure Start' children's centres is to be restored, and any closed children's centres are to be reopened.
+ 
+Education shall be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
 ## Secular Schools
 
