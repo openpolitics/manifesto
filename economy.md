@@ -95,6 +95,14 @@ Follow recommendations regarding transparency in the [Lyons Housing Review](http
 information to the public in a similar manner as the property price paid data set and make it a legal
 requirement to register land option agreements, transactions and prices."
 
+## Employee Equality
+
+We wish to ensure that all employees are treated fairly and equally. 
+
+We believe that equitable treatment for Maternity and Paternity leave would help. We seek to establish paternity leave that matches the 52 weeks leave provided for Maternity cover. Equally we will pursue that organisations that offer their own Maternity leave must off the same agreement for Paternity.
+
+We believe that alongside Gender Pay Reporting, organisations should undertake Race Pay Reporting, Age Pay Reporting, LGBT Pay Reporting and Faith Pay Reporting. In line with Gender Pay Reporting organisations must publish their internal findings to the public on a forum of their choice. Findings will also be considered by Government organisations if potential discrimination is found.
+
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
 [^3]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
