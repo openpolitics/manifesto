@@ -17,7 +17,7 @@ task :htmlproofer => :rebuild do
 end
 
 task :spellcheck do
-  sh "mdspell . -c .mdspell"
+  sh "mdspell *.md constituencies/*.md -c .mdspell"
 end
 
 task :default => [:htmlproofer, :spellcheck]
