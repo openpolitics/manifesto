@@ -91,4 +91,4 @@ We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to pe
 [^2]: ["US and UK accused of 'squeezing life out of' Ascension Island
 ", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
 [^3]: ["'We're in limbo': the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
-[^4]: [Why delist the PKK?](http://delistthepkk.com/why/)
+[^4]: [The Case for Delisting the PKK as a Foreign Terrorist Organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)
