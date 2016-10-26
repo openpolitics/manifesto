@@ -69,7 +69,7 @@ We will conduct a review into the state of democracy and people’s rights on As
 
 The UK should repatriate fully the natives of the Chagos Archipelago that were evicted illegally by the British government between 1967 and 1973. All descendants of those originally evicted should be given the option to return. A referendum should then be held from those that choose to return to decide what to do with Naval Support Facility Diego Garcia which is currently based on the islands. 
 
-The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://archive.pca-cpa.org/MU-UK%2020150318%20Awardd4b1.pdf?fil_id=2899) by the Permanent Court of Arbitration on 18 March 2015, as it was in breach of the United Nations Convention on the Law of the Sea, and therefore the UK ought to act swiftly in dismantling it.
+The UK should revoke the Chagos Marine Protected Area (MPA) as it was founded under the auspices of a legitimate environmental project, when it was later revealed to be a plot to keep the Chagossians off the islands. The Chagos MPA was [declared illegal](http://www.pcacases.com/pcadocs/MU-UK%2020150318%20Award.pdf) by the Permanent Court of Arbitration on 18 March 2015, as it was in breach of the United Nations Convention on the Law of the Sea, and therefore the UK ought to act swiftly in dismantling it.
 
 ### Falkland Islands
 
@@ -90,4 +90,5 @@ We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to pe
 [^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
 [^2]: ["US and UK accused of 'squeezing life out of' Ascension Island", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
 [^3]: ["We're in limbo: the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
-[^4]: [Why delist the PKK?](http://delistthepkk.com/why/)
+[^4]: [The Case for Delisting the PKK as a Foreign Terrorist Organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)
+>>>>>>> master
