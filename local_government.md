@@ -24,7 +24,7 @@ The government should, following the conclusion of the independent inquiry into 
 
 ### Counter-corruption
 
-We will maintain legal protections for key anti-corruption officials within councils, such as Chief Executives and Monitoring Officers, to prevent them being targeted by corrupt officials or councillors. We will also establish an easy-to-use and confidential channel whereby whistleblowers can report suspicions of corruption and incidents.
+We will maintain legal protections for key anti-corruption officials within councils, such as Chief Executives and Monitoring Officers, to prevent them being targeted by corrupt officials or councillors. We will also establish an easy-to-use and confidential channel whereby whistle-blowers can report suspicions of corruption and incidents.
 
 Each local authority should have a dedicated counter-corruption official who conducts regular corruption risk assessments and liaises closely with law enforcement officials and other government bodies, such as the Local Government Ombudsman.
 

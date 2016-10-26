@@ -30,7 +30,7 @@ A longer term fixed rate buy back will also allow more people to get finance for
 
 Remove confusing limitations currently in place about installations not created by accredited organisations to help individuals and small businesses get started.
 
-Simplify buy back rates so that solar, wind, hydro and all other renewables share the same fixed tariff so as not to discriminate against any one technology.
+Simplify buy back rates so that solar, wind, hydro and all other renewable energy sources share the same fixed tariff so as not to discriminate against any one technology.
 
 ## Fossil Fuel Industry
 
@@ -39,4 +39,4 @@ Forbid new fossil fuel extraction in the UK (such as oil drilling, fracking, or 
 ## EU Supergrid
 
 Support development of a European and North African supergrid, enabling continent-wide transmission of renewable energy, and the long term energy security of Europe and North Africa. Such a grid would connect British 
-wind, Icelandic geothermal, Nordic hydropower, and African solar into a single system which capable of coping with variability in renewable sources.
+wind, Icelandic geothermal, Nordic hydroelectric, and African solar into a single system which capable of coping with variability in renewable sources.

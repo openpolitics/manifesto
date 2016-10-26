@@ -7,7 +7,7 @@ title: Society
 
 ## Secularism
 
-With 50-62% of the British public having no religion[^2], including 64% of 18-24 year olds[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
+With 50-62% of the British public having no religion[^2], including 64% of those aged 18-24[^1], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
 
@@ -30,7 +30,7 @@ Local and national Remembrance Day/Sunday celebrations organised or controlled b
 
 ## Immigration
 
-The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
+The British Isles have been the destination of migrants for millennia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
 
 This manifesto opposes those policies and views that seek to stigmatise, isolate, or denigrate those who wish to come and make a positive contribution to British society and the economy.
 
@@ -40,7 +40,7 @@ We also wish to ensure the United Kingdom remains committed to fulfilling its in
 
 ## State Honours
 
-The state should be able to honour deceased individuals in ways that the current Honours System does not allow (eg remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
+The state should be able to honour deceased individuals in ways that the current Honours System does not allow (e.g. remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
 
 Nominations for State Honours should continue to be encouraged from the public. These nominations should be shortlisted by a Committee appointed from within an elected Upper Chamber of Parliament. A nationwide public online vote should then decide on the final award of Honours on the basis of a redacted nomination paper to remove identifying information and prevent cronyism.
 
@@ -52,13 +52,13 @@ Humanist marriage to be made legal.
 
 ## Equality in Civil Partnerships
 
-Under all devolved jurisdications each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
+Under all devolved jurisdictions each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
 
 ## Never-ending Consumption and Consumerism
 
 Our entire society and economy is centred around the principle of continued economic growth driven by ever increasing consumption. Everyone in society is put under pressure to put in more hours at work, to aim for the next promotion, to get a better salary, to get a bigger house and fill it with more things - despite the fact this rarely leads to increased happiness or contentment. We feel pressure to do so because it's expected of us, because of peer and family pressure, and because of the constant stream of advertising on the web, TV, radio and billboards. The Government encourage this in order to grow the economy forever more, whilst ignoring the fact it creates feelings of peer inadequacy, is causing chronic physical and mental exhaustion in our workforce, is fuelling an obesity crisis, and is hugely damaging to our natural environment.
 
-We recognise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental wellbeing, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
+We recognise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental well-being, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
 
 ## Egalitarianism
 Particularly between men and women should be promoted

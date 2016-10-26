@@ -11,7 +11,7 @@ Elections will always be scheduled to take place on weekends, or public holidays
 
 ## Electoral Reform
 
-Introduce a 'None of the Above' box on all ballot papers to formally and positively register abstention.
+Introduce a "None of the Above" box on all ballot papers to formally and positively register abstention.
 
 Introduce voting by proportional representation using the Single Transferable Vote (STV) method in all General and Local Elections. 
 
@@ -19,15 +19,15 @@ General election boundaries should be redrawn so that constituencies are larger,
 
 Investigate the feasibility of electronic voting at all elections, with a view to increasing accessibility and turnout.
 
-Reduce the age of voting at General, Scottish, Welsh, Northern Irish and European Elections (ie to all bodies with primary legislative powers) and all national and local referenda to those aged 16 years and above.
+Reduce the age of voting at General, Scottish, Welsh, Northern Irish and European Elections (i.e. to all bodies with primary legislative powers) and all national and local referendums to those aged 16 years and above.
 
-Reduce the age of voting at Local Elections (ie to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
+Reduce the age of voting at Local Elections (i.e. to non-legislative bodies) to those aged 15 to encourage youth participation in democracy prior to enjoying full voting right at 16.
 
 The Electoral Commission and local authorities will be given a new duty to ensure that at least one independent public hustings between all the candidates in a general election takes place, and is promoted to all constituents.
 
 ## Recall of Representatives
 
-Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh byelection.
+Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh by-election.
 
 ## Standing for Election
 
@@ -39,7 +39,7 @@ Prospective parliamentary candidates must have a good connection with the consti
 
 ## European Elections
 
-Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List sytem (using the 'most-open' method) will also be used for elections to the European Parliament.
+Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List system (using the "most-open" method) will also be used for elections to the European Parliament.
 
 ## Democracy Research
 

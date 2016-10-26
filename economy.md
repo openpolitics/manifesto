@@ -23,7 +23,7 @@ The personal income tax allowance will be set at the level of a full time living
 
 Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
-The rate of Asset Tax for individuals will be harmonized with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
+The rate of Asset Tax for individuals will be harmonised with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
@@ -49,9 +49,9 @@ Adopt Land Value Taxation (LVT)[^3], a charge on the rental value of land not in
 
 ## Business
 
-Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasability and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (ie taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone.
+Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasibility and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (i.e. taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone.
 
-Given that there is a current tax gap (between tax due and tax recieved by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
+Given that there is a current tax gap (between tax due and tax received by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
 
 ## Digital Economy
 
@@ -63,7 +63,7 @@ Any data or research that is government funded will be required to be released u
 
 ## Metric System
 
-We will complete the metrification of the UK started in 1965, but never completed. The remaining uses of imperial units should be phased out and replaced with the modern metric equivalent, as recommended by the [UK Metric Association](http://metric.org.uk/).
+We will complete the metrication of the UK started in 1965, but never completed. The remaining uses of imperial units should be phased out and replaced with the modern metric equivalent, as recommended by the [UK Metric Association](http://metric.org.uk/).
 
 ## Government Contracts
 
@@ -75,7 +75,7 @@ All private companies who receive public money must be subject to the same trans
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
 
-All public sector organizations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
+All public sector organisations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
 ## Tax Havens
 

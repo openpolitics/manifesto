@@ -15,7 +15,7 @@ We believe that learning is life long and should be encouraged in all elements o
 
 ## Funding
 
-Funding for 'Sure Start' children's centres is to be restored, and any closed children's centres are to be reopened.
+Funding for Sure Start children's centres is to be restored, and any closed children's centres are to be reopened.
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation. 
 
@@ -43,9 +43,9 @@ All state secondary schools will have an elected students council, and student p
 
 ## Continuing Education
 
-Allowing individuals to be able to gain skills and knowlage, and validate them at a reasonable cost is an important part of our plans for life long education. This will allow for workers to develop skills later in life, and give a boost in the general skill level of the work force, while also allowing people to move into new and emerging industries, while leaving areas of employment with a less stable future.
+Allowing individuals to be able to gain skills and knowledge, and validate them at a reasonable cost is an important part of our plans for life long education. This will allow for workers to develop skills later in life, and give a boost in the general skill level of the work force, while also allowing people to move into new and emerging industries, while leaving areas of employment with a less stable future.
 
-Life long learning also allows for a better informed public, social interaction between communities, and studies sugest that it can also [reduce the risk of dementia](https://www.nia.nih.gov/alzheimers/publication/preventing-alzheimers-disease/search-alzheimers-prevention-strategies). 
+Life long learning also allows for a better informed public, social interaction between communities, and studies suggest that it can also [reduce the risk of dementia](https://www.nia.nih.gov/alzheimers/publication/preventing-alzheimers-disease/search-alzheimers-prevention-strategies). 
 
 ## Focus on Education
 

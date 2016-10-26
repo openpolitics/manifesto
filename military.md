@@ -18,7 +18,7 @@ UK Armed Forces should be structured to focus on humanitarian, peace-keeping, pe
 
 ## Parliamentary Oversight
 
-All foreign deployment of UK Armed Forces, as well as the use of UK Special Advisors and the provision of military support in foreign conflict zones, should be subject to Parliamentary approval.
+All foreign deployment of UK Armed Forces, as well as the use of UK Special Advisers and the provision of military support in foreign conflict zones, should be subject to Parliamentary approval.
 
 ## Defence Budget
 

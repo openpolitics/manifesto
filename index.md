@@ -3,7 +3,7 @@ title: The OpenPolitics Manifesto
 layout: policy_index
 ---
 
-We believe that government should serve the people, and that 'the state', so often derided, is simply the way that citizens work together to enhance the public good.
+We believe that government should serve the people, and that "the state", so often derided, is simply the way that citizens work together to enhance the public good.
 
 We believe that government should be:
 

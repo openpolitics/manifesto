@@ -9,7 +9,7 @@ title: Infrastructure
 Too much of the national infrastructure that society relies heavily upon is operated for private profit. The predictable result being:
 
 * profits line the pockets of shareholders, instead of being used to improve services
-* shareholders often squirrel away their dividends in tax havens, witholding much needed tax revenue that can be used to benefit society
+* shareholders often squirrel away their dividends in tax havens, withholding much needed tax revenue that can be used to benefit society
 * commercial interest is put before public interest
 * infrastructure improvements are lacklustre or dismissed over keeping costs down and profits up
 

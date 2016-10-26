@@ -10,7 +10,7 @@ Reform copyright law to allow use for parody[^1].
 
 Reform copyright law to allow format-shifting of purchased media (for example, from CD to MP3)[^1].
 
-Immediately reduce the term of copyright from '70 years from the end of the calendar year of the author's death' to '50 years from the end of the calendar year of the author's death' (the minimum allowed by the [Berne Convention](http://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)) and lobby other states for a worldwide further reduction to 'life + 25 years'.
+Immediately reduce the term of copyright from "70 years from the end of the calendar year of the author's death" to "50 years from the end of the calendar year of the author's death" (the minimum allowed by the [Berne Convention](http://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)) and lobby other states for a worldwide further reduction to "life + 25 years".
 
 ## Advertising
 
