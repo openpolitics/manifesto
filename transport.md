@@ -21,9 +21,9 @@ carbon emissions.
 
 Network Rail, the Highways Agency, train operating companies and bus operating companies would all be required to become [National Infrastructure Organisations (NIOs)](infrastructure.html) under a policy to ensure that infrastructure which is essential to a functioning society is not solely operated for the benefit of private shareholders, but in the national interest.
 
-## End UK airport expansion
+## Expand UK airports and make them carbon neutral
 
-Until the aviation industry is carbon neutral, there will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
+Both Heathrow and Gatwick would be allowed to build a new runway. Other UK airports would also be allowed to expand. All flights taking off or landing in the UK after 2029 must be carbon neutral.
 
 ## Cycling
 
