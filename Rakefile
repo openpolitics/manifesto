@@ -16,4 +16,8 @@ task :htmlproofer => :rebuild do
     assume_extension: ".html").run
 end
 
-task :default => [:htmlproofer]
+task :spellcheck do
+  sh "mdspell . -c .mdspell"
+end
+
+task :default => [:htmlproofer, :spellcheck]
