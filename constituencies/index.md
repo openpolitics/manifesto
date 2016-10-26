@@ -1,6 +1,5 @@
 ---
 title: Your Local Area
-layout: policy
 editable: false
 ---
 * table of contents 
