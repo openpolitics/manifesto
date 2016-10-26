@@ -21,6 +21,29 @@ Ensure euthanasia is permissible and available for those with conditions causing
 
 We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
 
+### National Laevel
+
+At a national level, we aim to legislate on this matter, changing key pieces of primary legislation, while using the ministerial mandate to change secondary legislation and practices in areas such as policing, the NHS, customs and revenue, and education.
+
+This will be staged, and in a managed, harm based strategy advised by the medical and scientific communities as well as other knowledgeable parties (such as charities who manage addiction based harm, and current and ex-substance users). This will allow us to steadily put in place infrastructure, services, advice, training, and good working practices around each drug as it is decriminalised, allowing for the development and roll out of a comprehensive harm reduction system.
+
+With specific regards to the Psychoactive Substances Act, a more pro-active stance will be taken, with a far more rapid addition of classes of psychoactive substances to the white list. This will allow for individuals to access these substances on a clear informed consent basis. This change will allow communities such as the gay community and the Nootropics community to be free from criminalisation. We will then remove the Psychoactive Substances Act entirely.
+
+### Local Level
+
+While on a local level primary legislation is somewhat out of reach, there are many ways local councils, NHS bodies, and emergency services, can work on a harm reduction basis.
+
+Within the council, safe and known areas for trading in substances can be set up, literature on safer and informed consent around drug use can be produced, procured, and distributed, harm reduction education and drug amnesty policies can be implemented in schools (focusing on post 13 education), addiction management and confidentiality policies can be implemented within social services.
+
+Within the police, the position of Police and Crime Commissioner would allow for nullification of drug legislation through non-enforcement. This would be done in a coordinated manner with other public service organisations, allowing for a managed reduction in drug based policing. This would primarily focus on drugs with a low potential for harm, such as cannabis and MDMA as suggested by neuropsychopharmacologist David Nutt. This would be supported with drug testing kits being made available to users at key locations, allowing for less unpredictable behaviour due to being provided with the wrong substance. This lowering of policing in the area of drugs with a low potential for harm will allow for resources to be better used in other areas as wanted by the community.
+
+The NHS has a key role to play locally, as education, treatment, training, and more honest responses from users will all allow for faster and more effective treatment and long term care for drug users. GPs surgeries and clinics are key places to distribute information, provide testing services or kits, and collect important anonymised data to allow for the better provisioning of services targeted at drug users.
+
+With the emergency services, the current harm reduction pathway, specifically that seen within the ambulance services,  has seen lives saved due to the enabling of friends and relatives to give relevant information to emergency personnel with no threat of reprisal. The expansion and diversification of this strategy, specifically with regards to personal use, may well allow for preventative measures and information, such as the fitting of fire alarms in users residences and information around the fire dangers around smoking, to be delivered to otherwise reluctant users, potentially resulting in fewer house fires etc.
+
+With a comprehensive strategy allowing for strategies at all levels and areas of local government, we hope this will allow us to effect change in a productive manner wherever we are elected.
+
+
 ## Police
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
