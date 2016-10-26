@@ -1,7 +1,5 @@
 ---
 title: Poverty
-layout: policy
-published: true
 ---
 * table of contents
 {:toc}
