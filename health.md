@@ -8,7 +8,7 @@ title: Health
 
 Introduce a "right to health", which makes access to healthcare a basic right for any resident of the UK. The Government will have a duty to ensure that every resident has access to quality healthcare, independent of their financial circumstances.
 
-## Depoliticisation and protection of the National Health Service
+## Protect the National Health Service
 
 In order to support every citizen's basic right to medical care and health services, we will maintain and enhance the NHS, keeping it as a free service available to anyone in the UK.
 
@@ -16,7 +16,7 @@ Politicians cannot be trusted with the NHS. We will make the NHS independent, go
 
 NHS funding will be protected by legislation that binds the Government to committing an amount, decided by the constitutional convention, with increases linked to a measure such as GDP or inflation.
 
-The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see [doitreatthisimmigrant.com](http://doitreatthisimmigrant.com/)).
+The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see ["Do I Treat This Immigrant?"](http://doitreatthisimmigrant.com/)).
 
 Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
@@ -35,7 +35,7 @@ The organ donation wishes of the deceased will not be permitted to be overridden
 
 ## Minimum Unit Price for Alcohol
 
-Alcohol misuse is a serious health issue costing around £21bn per year[^1], including related crime. Much of this is down to the sale of cheap alcohol products that allow for over-consumption. A Minimum Unit Price (MUP) of 45p will curb dangerous consumption habits whilst having a negligible, if any, impact on responsible drinkers. An estimated economic net benefit in excess of £300m is achievable.
+Alcohol misuse is a serious health issue costing around £21 billion per year[^1], including related crime. Much of this is down to the sale of cheap alcohol products that allow for over-consumption. A Minimum Unit Price (MUP) of 45p will curb dangerous consumption habits whilst having a negligible, if any, impact on responsible drinkers. An estimated economic net benefit in excess of £300m is achievable.
 
 Resulting price increases would largely be restricted to off-trade retailers such as supermarkets and off-licenses and so would not have a large negative impact on the licensed pub trade.
 

@@ -21,7 +21,7 @@ Limit all donations and loans to political parties to a maximum of £5,000 from 
 
 Only individuals appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
-Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicy funded electoral advantage to incumbents over challengers.  
+Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
 
 ## Transparency
 
@@ -51,7 +51,7 @@ We support the principle of subsidiarity, in the general sense that decisions sh
 Our current view is that:
 a) We should consider devolving legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in regions across England, Wales and (eventually) Northern Ireland. 
 b) The UK Parliament to retain control over macro-economic, foreign, and defence policy.
-c) To ensure resources continue to be redistributed from each region according to their ability to pay, to each region according to their need (as is currently the case) all current taxes set by Westminster would become 'Federal Taxes' and distributed as appropriate, and each regional Parliament should have the power to establish top-up 'Regional Taxes' either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour. 
+c) To ensure resources continue to be redistributed from each region according to their ability to pay, to each region according to their need (as is currently the case) all current taxes set by Westminster would become "Federal Taxes" and distributed as appropriate, and each regional Parliament should have the power to establish top-up "Regional Taxes" either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour. 
 
 In the case that a local area is unable to deal with any issue effectively, there shall be an escalation path available to ensure that the issue can be decided at the next broader level.
 
@@ -81,7 +81,7 @@ Serving MPs should not hold second jobs unless they can show that there is no co
 
 All persons holding elected public office will be barred from standing as a candidate in any election other than for re-election to the same post. An exclusion will apply to holding parish and district-level councillor positions simultaneously.
 
-Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accomodation.
+Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accommodation.
 
 Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
 

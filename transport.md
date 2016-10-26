@@ -27,7 +27,7 @@ Until the aviation industry is carbon neutral, there will be no further expansio
 
 ## Cycling
 
-Commit to investing in cycling infrastructure: dedicated and separate lanes; secure parking; making traffic junctions 'cycle-safe'; encouraging shared use of pavements and paths where dedicated lanes are not feasible.
+Commit to investing in cycling infrastructure: dedicated and separate lanes; secure parking; making traffic junctions "cycle-safe"; encouraging shared use of pavements and paths where dedicated lanes are not feasible.
 
 Put in place clear and simple standards to cover cycle lane design, signage, continuity and traffic signals. Extend existing transport planning requirements to always include these new cycling standards.
 
@@ -43,7 +43,7 @@ Encourage automobile manufacturers to agree upon an open and non-proprietary sta
 
 ## Electric and Alternative Fuel Vehicles
 
-Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of 'range anxiety' amongst consumers.
+Incentivise existing fuelling stations to install charging units for electric vehicles to help create a nationwide network and overcome the perception of "range anxiety" amongst consumers.
 
 Incentivise existing fuelling stations to install hydrogen fuel pumps.
 

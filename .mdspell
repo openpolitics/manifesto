@@ -1,6 +1,7 @@
 language 'en_GB'
 ignored %w{
   ABV
+  adult's
   Akrotiri
   anonymise
   Archives'
@@ -35,6 +36,10 @@ ignored %w{
   Horsham
   incentivise
   incentivising
+  inline
+  inquiry
+  International's
+  Internet
   IP
   IPCC
   IPSO
@@ -61,10 +66,12 @@ ignored %w{
   NSGT
   Nutt
   OFCOM
+  online
   OpenlyLocal
   OpenPolitics
   PKK
   PMSC
+  practices
   preapprove
   prenegotiate
   Remembrancer
@@ -77,6 +84,7 @@ ignored %w{
   TheyWorkForYou
   timeline
   TTIP
+  UK's
   unburnt
   unelected
   unwinnable
