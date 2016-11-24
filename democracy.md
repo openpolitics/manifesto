@@ -129,6 +129,6 @@ Presidential terms of office will be fixed at five years, with a maximum of two 
 
 The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
-[^1]: [Do we need a written constitution?](http://www.consoc.org.uk/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
+[^1]: [Do we need a written constitution?](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 [^2]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
 [^3]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
