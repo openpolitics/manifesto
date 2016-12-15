@@ -12,7 +12,7 @@ Implement a favourable tax regime for private sector investment in scientific an
 
 ## Compulsory Purchase in the Public Interest
 
-Patents and other forms of IP are used exercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.
+Patents and other forms of IP are used and exercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.
 
 We will investigate a form of compulsory purchase aimed at important scientific advancements that would then place those advancements under an open license, encouraging wider use at lower cost.
 
@@ -26,7 +26,16 @@ Make research proposals fully anonymous during review to remove both intentional
 
 Reduce the level of bureaucracy at the research councils in order to free up funding for more research.
 
+## Encourage open access to data and research information and existing results
+
+Enforce open access of existing published journal papers - no paywalls.
+
+Develop standardised open data and software infrastructure for reproducibility and artifacts of published results.
+
+Facilitate/enforce the publication of negative or controversial outcomes and results to studies.
+
 Investigate the possibility of using online communities to perform more robust and wide-ranging reviews of scientific research project proposals.
+
 
 [^1]: [Science is Vital](http://scienceisvital.org.uk/)
 [^2]: [Tell Them Science is Vital](http://scienceisvital.org.uk/tell-them-science-is-vital/)
