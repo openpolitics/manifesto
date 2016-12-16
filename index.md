@@ -14,6 +14,7 @@ We believe that government should be:
 
 We believe that individuals should be:
 
+* Treated equally by the law and society, regardless of gender, sexuality, ethnicity, age, belief or disability.
 * Free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
 * Enjoy a fundamental right to privacy from the state or their agents.
 
