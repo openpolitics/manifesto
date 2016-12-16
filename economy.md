@@ -19,7 +19,7 @@ As a general rule of thumb, tax policy should focus on simple direct taxation (s
 
 ### Income Tax
 
-The personal income tax allowance will be set at the level of a full time living wage and will rise inline with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
+The personal income tax allowance will be set at the level of a full time living wage and will rise in line with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
 
 Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
 
@@ -55,7 +55,7 @@ Given that there is a current tax gap (between tax due and tax received by the e
 
 ## Digital Economy
 
-We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the internet and to keep pace with the connected digital economy.
+We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the Internet and to keep pace with the connected digital economy.
 
 Enshrine net neutrality in law, protecting the fundamental principle of the free and open web.
 
@@ -96,7 +96,7 @@ information to the public in a similar manner as the property price paid data se
 requirement to register land option agreements, transactions and prices."
 
 ## Ownership
-When you buy something, it should be owned (not a licence to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
+When you buy something, it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
 
 [^1]: [EU Financial Transaction Tax - Wikipedia](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax)
 [^2]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
