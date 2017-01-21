@@ -11,7 +11,7 @@ With 50-62% of the British public having no religion[^yougov-religion], includin
 
 [^bsa-religion]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 
-[^yougov-religion]: [YouGov poll] (http://www.secularism.org.uk/news/2015/04/as-cameron-says-uk-still-a-christian-country-62-percent-tell-yougov-they-are-not-religious)
+[^yougov-religion]: [YouGov poll](http://www.secularism.org.uk/news/2015/04/as-cameron-says-uk-still-a-christian-country-62-percent-tell-yougov-they-are-not-religious)
 
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
