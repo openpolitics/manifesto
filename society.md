@@ -2,9 +2,6 @@
 title: Society
 ---
 
-* table of contents 
-{:toc}
-
 ## Secularism
 
 With 50-62% of the British public having no religion[^yougov-religion], including 64% of those aged 18-24[^bsa-religion], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.

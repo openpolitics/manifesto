@@ -1,8 +1,6 @@
 ---
 title: Science
 ---
-* table of contents
-{:toc}
 
 ## Science Funding
 

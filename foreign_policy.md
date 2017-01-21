@@ -1,8 +1,6 @@
 ---
 title: Foreign Policy
 ---
-* table of contents
-{:toc}
 
 ## Internationalist Stance
 

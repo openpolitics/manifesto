@@ -1,8 +1,6 @@
 ---
 title: Infrastructure
 ---
-* table of contents
-{:toc}
 
 ## National Infrastructure in the National Interest
 

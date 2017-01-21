@@ -1,8 +1,6 @@
 ---
 title: Health
 ---
-* table of contents 
-{:toc}
 
 ## The Right to Health
 

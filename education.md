@@ -2,9 +2,6 @@
 title: Education
 ---
 
-* table of contents
-{:toc}
-
 We believe that education is the keystone that makes all other longer-term strategic policies possible: improving industry and employment; the arts; scientific discovery and research; improving the overall health and well-being of society; and reducing crime. It is the policy area that can justify significant investment in recognition of the dividend that all other areas of public spending will receive 10-15 years hence. We also recognise that education is about more than simply equipping the future workforce with relevant vocational and professional skills, but about creating a future society that is healthy, wise, and wealthy in all respects. We believe that learning is life long and should be encouraged in all aspects of life, personal and professional.
 
 ## Funding

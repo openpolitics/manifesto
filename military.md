@@ -1,8 +1,6 @@
 ---
 title: Military
 ---
-* table of contents 
-{:toc}
 
 ## Nuclear Disarmament
 

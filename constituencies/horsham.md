@@ -1,8 +1,6 @@
 ---
 title: Horsham
 ---
-* table of contents 
-{:toc}
 
 ## Council Transparency
 

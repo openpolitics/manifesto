@@ -1,8 +1,6 @@
 ---
 title: Culture &amp; Media
 ---
-* table of contents 
-{:toc}
 
 ## Copyright Reform
 

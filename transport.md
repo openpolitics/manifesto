@@ -2,9 +2,6 @@
 title: Transport
 ---
 
-* table of contents
-{:toc}
-
 ## Removal of Fossil Fuels
 
 No new fossil-fuel powered vehicles may be sold in the UK after 2029.

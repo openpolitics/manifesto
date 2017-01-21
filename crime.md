@@ -1,8 +1,6 @@
 ---
 title: "Crime &amp; Justice"
 ---
-* table of contents
-{:toc}
 
 ## Capital Punishment
 

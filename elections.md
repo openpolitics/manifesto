@@ -2,9 +2,6 @@
 title: Elections
 ---
 
-* table of contents
-{:toc}
-
 ## Elections
 
 Elections will always be scheduled to take place on weekends, or public holidays. We will also consider the introduction of a new public holiday for general elections. Where possible, different elections will coincide with each other to maximise participation in different votes.

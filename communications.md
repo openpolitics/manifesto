@@ -1,8 +1,6 @@
 ---
 title: Communications
 ---
-* table of contents 
-{:toc}
 
 We believe that individual privacy and government transparency are the cornerstones of Freedom and Liberty. This is why we oppose communication surveillance and government censorship and support internet freedom and net neutrality.
 
