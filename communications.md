@@ -14,7 +14,9 @@ We believe in a free and open Internet, and back the principles of Internet gove
 
 In a connected future, Internet access is a basic right. Moving the process of government and democracy online requires that all homes be connected to high-speed broadband services to ensure equality of access.
 
-Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^1].
+Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
+
+[^ipv6]: [Ofcom in denial over UK IPv6 failure](http://www.emilytaylor.eu/ofcom-in-denial-ipv6/)
 
 ## Surveillance
 
@@ -33,5 +35,3 @@ ISPs may give users the option to apply content filters on their connections, an
 ## Net Neutrality
 
 Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
-
-[^1]: [Ofcom in denial over UK IPv6 failure](http://www.emilytaylor.eu/ofcom-in-denial-ipv6/)

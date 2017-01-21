@@ -47,7 +47,9 @@ Whilst it's right that those nations that make the greatest contribution to UN t
 
 ## Investor-State Dispute Settlement
 
-Resist the adoption of international treaties that could allow unelected institutions to have a chilling effect on government policy that is in the public interest of UK voters. A current example is the Investor-State Dispute Settlement (ISDS) process in the TTIP treaty currently under negotiation[^1], which undermines democratic processes and could prevent the government taking action which benefits the UK if it causes potential losses for foreign investors.
+Resist the adoption of international treaties that could allow unelected institutions to have a chilling effect on government policy that is in the public interest of UK voters. A current example is the Investor-State Dispute Settlement (ISDS) process in the TTIP treaty currently under negotiation[^isds], which undermines democratic processes and could prevent the government taking action which benefits the UK if it causes potential losses for foreign investors.
+
+[^isds]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
 
 ## Recognition of Palestine
 
@@ -63,7 +65,9 @@ We fundamentally believe in self-determination for residents of the British Over
 
 ### Ascension Island
 
-We will conduct a review into the state of democracy and people’s rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^2]
+We will conduct a review into the state of democracy and people’s rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^ascension]
+
+[^ascension]: ["US and UK accused of 'squeezing life out of' Ascension Island", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
 
 ### British Indian Ocean Territory
 
@@ -81,13 +85,12 @@ We will commission a report into how best to help Montserrat recover in the long
 
 ### Sovereign Base Areas of Akrotiri and Dhekelia
 
-We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri, Cyprus.[^3]
+We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri, Cyprus.[^akrotiri]
+
+[^akrotiri]: ["We're in limbo: the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
 
 ## PKK and Turkey Peace Process
 
-We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^4]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
+We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^pkk]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
 
-[^1]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
-[^2]: ["US and UK accused of 'squeezing life out of' Ascension Island", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
-[^3]: ["We're in limbo: the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
-[^4]: [The Case for Delisting the PKK as a Foreign Terrorist Organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)
+[^pkk]: [The Case for Delisting the PKK as a Foreign Terrorist Organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)

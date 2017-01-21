@@ -45,7 +45,6 @@ Given each EU member country has the right to select the electoral system they u
 
 Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
 
-Investigate methods for deliberative democracy[^1] - things which increase research and understanding before decision making. Run trials of these for small decisions. Implement proven ones for members of the upper and lower house, and for ministers. 
+Investigate methods for deliberative democracy[^rebooting-democracy] - things which increase research and understanding before decision making. Run trials of these for small decisions. Implement proven ones for members of the upper and lower house, and for ministers. 
 
-
-[^1]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
+[^rebooting-democracy]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
