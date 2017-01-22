@@ -31,7 +31,7 @@ Reduce the level of bureaucracy at the research councils in order to free up fun
 
 Enforce open access of existing published journal papers - no paywalls.
 
-Develop standardised open data and software infrastructure for reproducibility and artifacts of published results.
+Develop standardised open data and software infrastructure for reproducibility and artefacts of published results.
 
 Facilitate/enforce the publication of negative or controversial outcomes and results to studies.
 
