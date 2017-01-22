@@ -10,7 +10,7 @@ Reform copyright law to allow format-shifting of purchased media (for example, f
 
 [^org-copyright]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
 
-Immediately reduce the term of copyright from "70 years from the end of the calendar year of the author's death" to two 40 year terms, with a renewal necessary after the first 40 years. Make the necessary preparations for a general case within the World Trade Organization's Dispute Settlement Body, regarding UK conformity with the [Berne Convention](http://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)).
+Immediately reduce the term of copyright from "70 years from the end of the calendar year of the author's death" to two 40 year terms, with a renewal necessary after the first 40 years. Make the necessary preparations for a general case within the World Trade Organization's Dispute Settlement Body, regarding UK conformity with the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)).
 
 Lobby other states for a worldwide further reduction to "life + 25 years".
 

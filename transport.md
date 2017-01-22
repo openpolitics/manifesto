@@ -48,7 +48,7 @@ Incentivise research into retrospective modifications to existing vehicles allow
 
 ## Railways
 
-Develop a long-term plan for complete electrification of the national rail network, and the replacement of diesel trains with electric multiple-units. This has the benefit of reduced emissions, improved efficiency, quieter and more comfortable trains. Alongside electrification, signalling should be updated to [ETCS](http://en.wikipedia.org/wiki/European_Train_Control_System) level 2 or 3 standard for improved safety and efficiency.
+Develop a long-term plan for complete electrification of the national rail network, and the replacement of diesel trains with electric multiple-units. This has the benefit of reduced emissions, improved efficiency, quieter and more comfortable trains. Alongside electrification, signalling should be updated to [ETCS](https://en.wikipedia.org/wiki/European_Train_Control_System) level 2 or 3 standard for improved safety and efficiency.
 
 Investigate feasibility of building a high speed rail network that connects our ten largest cities (and Cardiff also) to the European high speed network via HS1.
 
