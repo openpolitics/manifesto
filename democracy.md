@@ -20,13 +20,9 @@ Limit all donations and loans to political parties to a maximum of £5,000 from 
 
 Only individuals appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
-Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
-
 ## Transparency
 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
-
-To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
 
 ## Lobbying
 

@@ -34,6 +34,12 @@ To deter time wasters, the current requirement of 10 nominations from the electo
 
 Prospective parliamentary candidates must have a good connection with the constituency they wish to represent. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
 
+## Campaigning
+
+Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
+
+To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
+
 ## European Elections
 
 Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List system (using the "most-open" method) will also be used for elections to the European Parliament.
