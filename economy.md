@@ -61,10 +61,6 @@ Personal income tax is calculated on income generated prior to expenses being de
 
 Given that there is a current tax gap (between tax due and tax received by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
 
-## Research Funding
-
-Any data or research that is government funded will be required to be released under the Open Government License, ensuring that public funding equals public ownership. There will be an exception for government loans and innovation investment.
-
 ## Metric System
 
 We will complete the metrication of the UK started in 1965, but never completed. The remaining uses of imperial units should be phased out and replaced with the modern metric equivalent, as recommended by the [UK Metric Association](http://metric.org.uk/).
