@@ -1,8 +1,6 @@
 ---
 title: Local Government
 ---
-* table of contents 
-{:toc}
 
 ## Transparency
 

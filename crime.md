@@ -1,8 +1,6 @@
 ---
 title: "Crime &amp; Justice"
 ---
-* table of contents
-{:toc}
 
 ## Capital Punishment
 
@@ -46,7 +44,9 @@ With a comprehensive strategy allowing for strategies at all levels and areas of
 
 ## Police
 
-All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^1]
+All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^police-cameras]
+
+[^police-cameras]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
 
 ### Independent Police Complaints Commission
 
@@ -56,11 +56,10 @@ Expand the role of the Independent Police Complaints Commission (IPCC) to includ
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^2]
+Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^onelaw]
+
+[^onelaw]: [One Law for All](http://www.onelawforall.org.uk/)
 
 Implement rigorous protection regimes for whistle-blowers.
 
 A review will be carried out into the composition of juries, especially for complex trials.
-
-[^1]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
-[^2]: [One Law for All] (http://www.onelawforall.org.uk/)

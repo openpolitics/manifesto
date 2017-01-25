@@ -2,16 +2,7 @@
 title: Education
 ---
 
-* table of contents
-{:toc}
-
-## Principles of Education
-
-We believe that education is the keystone that makes all other longer-term strategic policies possible: improving industry and employment; the arts; scientific discovery and research; improving the overall health and well-being of society; and reducing crime. It is the policy area that can justify significant investment in recognition of the dividend that all other areas of public spending will receive 10-15 years hence.
-
-Subsequently we recognise that education is about more than simply equipping the future workforce with relevant vocational and professional skills, but about creating a future society that is healthy, wise, and wealthy in all respects.
-
-We believe that learning is life long and should be encouraged in all elements of life, personal and professional.
+We believe that education is the keystone that makes all other longer-term strategic policies possible: improving industry and employment; the arts; scientific discovery and research; improving the overall health and well-being of society; and reducing crime. It is the policy area that can justify significant investment in recognition of the dividend that all other areas of public spending will receive 10-15 years hence. We also recognise that education is about more than simply equipping the future workforce with relevant vocational and professional skills, but about creating a future society that is healthy, wise, and wealthy in all respects. We believe that learning is life long and should be encouraged in all aspects of life, personal and professional.
 
 ## Funding
 
@@ -23,7 +14,11 @@ Funding to the Open University, and other distance learning courses will be incr
 
 ## Secular Schools
 
-50% of the British public identify as having no religion, and this number is growing[^1] but over half of all state funded schools have a religious character[^2], including over 4,500 Church of England schools. It has been demonstrated that faith schools are religiously selective, excluding those of other or no faith[^3].
+50% of the British public identify as having no religion, and this number is growing[^bsa-religion] but over half of all state funded schools have a religious character[^faith-schools], including over 4,500 Church of England schools. It has been demonstrated that faith schools are religiously selective, excluding those of other or no faith[^fair-admissions].
+
+[^bsa-religion]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+[^faith-schools]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
+[^fair-admissions]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
 
 Therefore, we will mandate that all state-funded schools be secular in nature.
 
@@ -49,11 +44,8 @@ Life long learning also allows for a better informed public, social interaction 
 
 ## Focus on Education
 
-We will remove the guidelines[^4] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
+We will remove the guidelines[^teachers-and-terrorism] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
+
+[^teachers-and-terrorism]: [Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
 
 We will include fiscal education into the national curriculum. This will include personal finances, understanding and paying taxes, understanding loans and debt, and relating fiscal choices to the state of the greater economy.  
-
-[^1]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
-[^2]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
-[^3]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
-[^4]: [Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)

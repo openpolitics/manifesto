@@ -2,9 +2,6 @@
 title: Energy
 ---
 
-* table of contents
-{:toc}
-
 The UK must move to a sustainable and diversified energy future, while safeguarding
 supply and decreasing dependency on sources of energy in the more volatile areas of
 the world.

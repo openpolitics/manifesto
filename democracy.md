@@ -2,14 +2,13 @@
 title: Democracy
 ---
 
-* table of contents
-{:toc}
-
 We believe that the UK should be a truly democratic country, where the state is properly accountable to its citizens. In the short term, this means improving the existing system in various ways, such as by improving the electoral system, changing how parties are funded, curbing the influence of the lobbying industry, and replacing the House of Lords with an elected chamber. In the long term, we believe that the UK should be a secular republic rather than a monarchy, and that at some point in the future technology will allow us to make decisions using some form of direct democracy rather than needing to elect representatives.
 
 ## Written Constitution
 
-The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^1].
+The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^constitution].
+
+[^constitution]: [Do we need a written constitution?](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
 
 The constitution could either be created by a citizens' panel, with approval and adoption subject to a referendum, or created as a "blank slate", with every addition done as an amendment by Parliament with a super-majority vote (e.g. 75% in favour).
 
@@ -40,7 +39,9 @@ To improve the ability of citizens to hold politicians to account for the promis
 
 ## Lobbying
 
-We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^2]
+We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^lobbying]
+
+[^lobbying]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
 
 To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
 
@@ -97,7 +98,9 @@ Abolish the City Minister position, ending the privileged position of the City o
 
 ## Royal Secrecy
 
-Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^3].
+Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
+
+[^royal-secrecy]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
 
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 
@@ -128,7 +131,3 @@ The President would be mainly a ceremonial position, and should be apolitical an
 Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
 
 The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
-
-[^1]: [Do we need a written constitution?](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
-[^2]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
-[^3]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)

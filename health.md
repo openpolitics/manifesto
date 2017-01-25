@@ -1,8 +1,6 @@
 ---
 title: Health
 ---
-* table of contents 
-{:toc}
 
 ## The Right to Health
 
@@ -35,16 +33,18 @@ The organ donation wishes of the deceased will not be permitted to be overridden
 
 ## Minimum Unit Price for Alcohol
 
-Alcohol misuse is a serious health issue costing around £21 billion per year[^1], including related crime. Much of this is down to the sale of cheap alcohol products that allow for over-consumption. A Minimum Unit Price (MUP) of 45p will curb dangerous consumption habits whilst having a negligible, if any, impact on responsible drinkers. An estimated economic net benefit in excess of £300m is achievable.
+Alcohol misuse is a serious health issue costing around £21 billion per year[^alcohol-impact], including related crime. Much of this is down to the sale of cheap alcohol products that allow for over-consumption. A Minimum Unit Price (MUP) of 45p will curb dangerous consumption habits whilst having a negligible, if any, impact on responsible drinkers. An estimated economic net benefit in excess of £300m is achievable.
+
+[^alcohol-impact]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
 
 Resulting price increases would largely be restricted to off-trade retailers such as supermarkets and off-licenses and so would not have a large negative impact on the licensed pub trade.
 
 Examples:
  * A 3 litre bottle of 4.7% ABV cider can be purchased for as little as £3.99 and contains 14.1 units of alcohol. An MUP of 45p would force this up to at least £8.81 (£6.35 MUP + £1.27 VAT + £1.19 duty).
- * A pint of 4% draught beer can be purchased for around £3.21[^2] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
+ * A pint of 4% draught beer can be purchased for around £3.21[^beer-prices] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
+
+ [^beer-prices]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
 
 ## Focus on mental health in young people
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
-[^1]: [Impact Assessment: A Minimum Unit Price for Alcohol](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/157763/ia-minimum-unit-pricing.pdf)
-[^2]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)

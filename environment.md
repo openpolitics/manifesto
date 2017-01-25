@@ -1,8 +1,6 @@
 ---
 title: Environment
 ---
-* table of contents
-{:toc}
 
 We understand that swift and effective action is required to reduce carbon emissions
 in order to reduce the chance of catastrophic global warming. Fossil fuel reserves

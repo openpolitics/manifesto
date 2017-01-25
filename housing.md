@@ -1,8 +1,6 @@
 ---
 title: Housing
 ---
-* table of contents
-{:toc}
 
 ## Empty Properties
 
