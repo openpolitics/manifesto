@@ -59,7 +59,6 @@ Given that there is a current tax gap (between tax due and tax received by the e
 
 We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the Internet and to keep pace with the connected digital economy.
 
-Enshrine net neutrality in law, protecting the fundamental principle of the free and open web.
 
 Any data or research that is government funded will be required to be released under the Open Government License, ensuring that public funding equals public ownership. There will be an exception for government loans and innovation investment.
 

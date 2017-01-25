@@ -32,4 +32,4 @@ ISPs may give users the option to apply content filters on their connections, an
 
 ## Net Neutrality
 
-Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
+Enshrine net neutrality in law, protecting the fundamental principle of the free and open web. Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
