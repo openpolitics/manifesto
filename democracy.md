@@ -26,15 +26,6 @@ Constituency offices of MPs, which quite rightly are publicly funded, should be 
 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
 
-Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
-
-A local accountability service will be provided online to show, for each local authority;
-
-* spending records (including spending below £500)
-* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
-* details of councillor connections with companies and charities (i.e. shareholding and directorships)
-* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
-
 To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
 
 ## Lobbying

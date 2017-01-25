@@ -6,6 +6,13 @@ title: Local Government
 
 Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
 
+A local accountability service will be provided online to show, for each local authority;
+
+* spending records (including spending below £500)
+* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
+* details of councillor connections with companies and charities (i.e. shareholding and directorships)
+* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
+
 ## Waste and Environment
 
 The Localism Act 2011 repealed powers under The Climate Change Act 2008 which gave councils the ability to charge fine or introduce tariffs regarding household waste. Local authorities are primarily responsible for waste collection and recycling. Consequently, local government should have the power to issue financial disincentives (and/or incentives) to encourage recycling and effective waste collection.
