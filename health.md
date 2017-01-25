@@ -53,6 +53,6 @@ Examples:
 
 Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
-## Focus on mental health in young people
+## Mental Health
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
