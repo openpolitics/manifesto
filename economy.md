@@ -83,10 +83,6 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 
 All public sector organisations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
-## Inequality
-
-The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
-
 ## P2P Open Source Currency and role of Central Bank?
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
