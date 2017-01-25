@@ -11,7 +11,7 @@ A local accountability service will be provided online to show, for each local a
 * spending records (including spending below £500)
 * council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
 * details of councillor connections with companies and charities (i.e. shareholding and directorships)
-* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
+* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](https://www.theyworkforyou.com/))
 
 ## Waste and Environment
 
