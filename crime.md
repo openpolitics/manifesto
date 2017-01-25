@@ -60,6 +60,8 @@ Specifically outlaw religious courts, such as Sharia Law courts, by banning thei
 
 [^onelaw]: [One Law for All](http://www.onelawforall.org.uk/)
 
-Implement rigorous protection regimes for whistle-blowers.
-
 A review will be carried out into the composition of juries, especially for complex trials.
+
+## Whistleblowing
+
+Implement rigorous protection regimes for whistle-blowers.
