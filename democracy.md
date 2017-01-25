@@ -30,8 +30,6 @@ We want to establish a single, comprehensive and mandatory statutory register of
 
 [^lobbying]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
 
-To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
-
 ## Devolution
 
 We support the principle of subsidiarity, in the general sense that decisions should be devolved to the most local organisational level capable of effectively handling the issue.
@@ -79,10 +77,6 @@ In the UK, our executive branch (the government) is made up of members of the le
 
 The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
 
-## Government Posts
-
-Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
-
 ## Royal Secrecy
 
 Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
@@ -108,6 +102,10 @@ To reduce the democratic deficit within the City, we will abolish the business v
 We will retain the role of Lord Mayor of London but only as a ceremonial figurehead of the City of London Council.
 
 We will dissolve the City of London Police and bring the role of policing the City under the Metropolitan Police's remit.
+
+Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
+
+To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
 
 ## Republic
 
