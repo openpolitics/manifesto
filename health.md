@@ -16,7 +16,6 @@ NHS funding will be protected by legislation that binds the Government to commit
 
 The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see ["Do I Treat This Immigrant?"](http://doitreatthisimmigrant.com/)).
 
-Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
 A "maternity package" of useful items for newborn babies (similar to [the one offered in Finland](http://www.kela.fi/web/en/maternitypackage)) will be provided free to charge to mothers who register for NHS antenatal care before the end of the fourth month of pregnancy.
 
@@ -48,6 +47,10 @@ Examples:
  * A pint of 4% draught beer can be purchased for around £3.21[^beer-prices] and contains 2.3 units of alcohol. An MUP of 45p would make the minimum legal price £1.65 (£1.35 MUP + £0.21 VAT + £0.09 duty), well below the current price.
 
  [^beer-prices]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
+
+## Parking Charges
+
+Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
 ## Focus on mental health in young people
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
