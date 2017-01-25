@@ -17,6 +17,16 @@ A local accountability service will be provided online to show, for each local a
 
 The Localism Act 2011 repealed powers under The Climate Change Act 2008 which gave councils the ability to charge fine or introduce tariffs regarding household waste. Local authorities are primarily responsible for waste collection and recycling. Consequently, local government should have the power to issue financial disincentives (and/or incentives) to encourage recycling and effective waste collection.
 
+## Community Engagement
+
+Local Councillors should provide at least two weekend community surgeries a month.
+
+Ward based public debates should not be confined to hustings during periods of election campaigning and a minimum number should be required per calendar year.  
+
+An elected ward councillor must participate and one member party member from other parties may do so if they wish.
+
+The debate should be chaired by a local resident.
+
 ## Reducing Corruption
 
 Inline with Transparency International's recommendations in their report [Corruption in Local Government: The Mounting Risks](http://sro.sussex.ac.uk/52109/1/Corruption_in_UK_Local_Government-_The_Mounting_Risks.pdf), we will introduce the following policies:

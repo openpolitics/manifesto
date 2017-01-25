@@ -65,13 +65,3 @@ We recognise that this is hugely damaging, and to take an alternative approach t
 ## Egalitarianism
 
 Particularly between men and women should be promoted
-
-## Community Engagement
-
-Local Councillors should provide at least two weekend community surgeries a month.
-
-Ward based public debates should not be confined to hustings during periods of election campaigning and a minimum number should be required per calendar year.  
-
-An elected ward councillor must participate and one member party member from other parties may do so if they wish.
-
-The debate should be chaired by a local resident.
