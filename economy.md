@@ -25,12 +25,18 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
+#### Remove Tampon Tax
+Tampons should not be considered a luxury item and should be considered a necessity 
+
 ### Financial Transaction Tax
 
 Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed [EU Financial Transaction Tax](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax) system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
 
-### Remove Tampon Tax
-Tampons should not be considered a luxury item and should be considered a necessity 
+### Tax Havens
+
+Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
+
+In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
 
 ## Social Security
 
@@ -77,11 +83,8 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 
 All public sector organisations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
-## Tax Havens
 
-Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
 
-In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
 
 ## P2P Open Source Currency and role of Central Bank?
 
