@@ -49,10 +49,11 @@ To dampen the influence of the City of London in the legislative process, we wil
 
 We support the principle of subsidiarity, in the general sense that decisions should be devolved to the most local organisational level capable of effectively handling the issue.
 
-Our current view is that:
-a) We should consider devolving legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in regions across England, Wales and (eventually) Northern Ireland. 
-b) The UK Parliament to retain control over macro-economic, foreign, and defence policy.
-c) To ensure resources continue to be redistributed from each region according to their ability to pay, to each region according to their need (as is currently the case) all current taxes set by Westminster would become "Federal Taxes" and distributed as appropriate, and each regional Parliament should have the power to establish top-up "Regional Taxes" either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour. 
+Devolve legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in regions across England, Wales and Northern Ireland.
+ 
+The UK Parliament will retain control over macro-economic, foreign, and defence policy.
+
+Currently resources are redistributed from each region according to their ability to pay, to each region according to their need. To ensure this continues, all current taxes set by Westminster would become "federal taxes" and distributed appropriately, and each regional Parliament would have the power to establish top-up "regional taxes" either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour.
 
 In the case that a local area is unable to deal with any issue effectively, there shall be an escalation path available to ensure that the issue can be decided at the next broader level.
 
