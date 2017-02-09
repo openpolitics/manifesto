@@ -17,6 +17,10 @@ The Office for Budget Responsibility will be given a new role in accessing and f
 
 [^rowntree-poverty]: [Recommendation from Joseph Rowntree Foundation report, September 2014](http://www.jrf.org.uk/a-uk-without-poverty)
 
+## Inequality
+
+The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
+
 ## The Burden of Childcare
 
 We believe that the cost of childcare is so high that it actively inhibits people from finding employment and building themselves a career. That is why, building on the current 30hr free childcare provision for all children aged 3 and 4, we will look to gradually increase this until a full working week is provided for free for all.

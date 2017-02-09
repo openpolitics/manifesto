@@ -16,7 +16,7 @@ NHS funding will be protected by legislation that binds the Government to commit
 
 The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see ["Do I Treat This Immigrant?"](http://doitreatthisimmigrant.com/)).
 
-Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
+## Maternity
 
 A "maternity package" of useful items for newborn babies (similar to [the one offered in Finland](http://www.kela.fi/web/en/maternitypackage)) will be provided free to charge to mothers who register for NHS antenatal care before the end of the fourth month of pregnancy.
 
@@ -24,6 +24,10 @@ A "maternity package" of useful items for newborn babies (similar to [the one of
 
 We have a "free at the point of delivery" National Health Service and for good reason - a healthy population is a productive population, and that reaps benefits for all. That does not however extend to an area of our health that influences our ability to eat and drink and that when not maintained adequately can lead to cancer.
 Care of the mouth and teeth should be brought fully under the National Health Service and free at the point of delivery, sweeping away the often prohibitive costs for the poorest in society and ensuring that our world class health care system continues to beat it's international counterparts in keeping the nation in good health.
+
+## Right to Die
+
+Ensure euthanasia is permissible and available for those with conditions causing the individual such pain that they wish to end their own life but cannot do so without assistance. Medical staff and loved ones aiding anyone under such circumstances should not be prosecuted providing clear (and independently witnessed) consent has been given.
 
 ## Organ Donation
 
@@ -45,6 +49,10 @@ Examples:
 
  [^beer-prices]: [Average prices for pint of beer across UK revealed](http://www.mirror.co.uk/money/personal-finance/average-prices-pint-beer-across-2234409#ixzz2tOXabpqa)
 
-## Focus on mental health in young people
+## Parking Charges
+
+Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
+
+## Mental Health
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 

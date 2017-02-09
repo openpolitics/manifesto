@@ -25,12 +25,18 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
+#### Remove Tampon Tax
+Tampons should not be considered a luxury item and should be considered a necessity 
+
 ### Financial Transaction Tax
 
 Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed [EU Financial Transaction Tax](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax) system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
 
-### Remove Tampon Tax
-Tampons should not be considered a luxury item and should be considered a necessity 
+### Tax Havens
+
+Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
+
+In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
 
 ## Social Security
 
@@ -55,14 +61,6 @@ Personal income tax is calculated on income generated prior to expenses being de
 
 Given that there is a current tax gap (between tax due and tax received by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
 
-## Digital Economy
-
-We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the Internet and to keep pace with the connected digital economy.
-
-Enshrine net neutrality in law, protecting the fundamental principle of the free and open web.
-
-Any data or research that is government funded will be required to be released under the Open Government License, ensuring that public funding equals public ownership. There will be an exception for government loans and innovation investment.
-
 ## Metric System
 
 We will complete the metrication of the UK started in 1965, but never completed. The remaining uses of imperial units should be phased out and replaced with the modern metric equivalent, as recommended by the [UK Metric Association](http://metric.org.uk/).
@@ -81,17 +79,9 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 
 All public sector organisations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
-## Tax Havens
-
-Close down all tax havens under British jurisdiction. This means reforming tax rules in the Channel Islands, the Isle of Man, the Cayman Islands, the British Virgin Islands, and others.
-
-In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
-
 ## P2P Open Source Currency and role of Central Bank?
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
-
-The central bank will be required to consider the reduction of inequality (as measured by the GINI coefficient) when formulating monetary policy to balance its existing remit of maintaining price stability and inflation at 2%. 
 
 ## Land Ownership
 

@@ -20,30 +20,15 @@ Limit all donations and loans to political parties to a maximum of £5,000 from 
 
 Only individuals appearing on the electoral register are able to fund political parties and each individual is absolutely limited to transfer a maximum of £5,000 in any calendar year.  This is the total amount that may be transferred and includes every type of financial activity in addition to straight forward donations. 
 
-Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
-
 ## Transparency
 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
-
-Publish full minutes (or transcripts if available), audio recordings, and voting records from all local council meetings. Online publication should be performed within 24 hours. Software tools will be created to make this process simple.
-
-A local accountability service will be provided online to show, for each local authority;
-
-* spending records (including spending below £500)
-* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
-* details of councillor connections with companies and charities (i.e. shareholding and directorships)
-* searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](http://theyworkforyou.com))
-
-To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
 
 ## Lobbying
 
 We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^lobbying]
 
 [^lobbying]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
-
-To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
 
 ## Devolution
 
@@ -92,10 +77,6 @@ In the UK, our executive branch (the government) is made up of members of the le
 
 The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
 
-## Government Posts
-
-Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
-
 ## Royal Secrecy
 
 Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
@@ -121,6 +102,10 @@ To reduce the democratic deficit within the City, we will abolish the business v
 We will retain the role of Lord Mayor of London but only as a ceremonial figurehead of the City of London Council.
 
 We will dissolve the City of London Police and bring the role of policing the City under the Metropolitan Police's remit.
+
+Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
+
+To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
 
 ## Republic
 

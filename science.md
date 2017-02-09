@@ -11,6 +11,8 @@ The UK should spend at least 0.8% of GDP on scientific research and development[
 
 Implement a favourable tax regime for private sector investment in scientific and technical research
 
+Any data or research that is government funded will be required to be released under the Open Government License, ensuring that public funding equals public ownership. There will be an exception for government loans and innovation investment.
+
 ## Compulsory Purchase in the Public Interest
 
 Patents and other forms of IP are used and exercised for many globally important scientific and medical examples. Such protection is necessary for the organisations that produce the advancements, as they need to recoup the costs. A side effect, however, is that crucial cures and the like are subject to high costs and so spread slower than they perhaps could.

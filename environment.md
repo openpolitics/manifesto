@@ -20,15 +20,13 @@ In order to meet this target, we will create a complete and legally-binding nati
 budget for the entire period up to 2050, so that we reduce uncertainty for investors, businesses,
 and citizens about the route ahead.
 
-## Subsidies
-
-All subsidies and tax breaks for fossil fuel companies will be removed.
-
-## Carbon Rationing
-
 We will introduce a functioning national carbon trading scheme that sets a yearly carbon cap, and provides a
 market-based means for the country to stay below the cap. Existing polluters will not be "grandfathered" into
 such a system and given pollution permits for free, and all polluting activities will be included.
+
+## Subsidies
+
+All subsidies and tax breaks for fossil fuel companies will be removed.
 
 ## International Leadership
 

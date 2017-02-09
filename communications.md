@@ -10,7 +10,7 @@ We believe in a free and open Internet, and back the principles of Internet gove
 
 ## Access
 
-In a connected future, Internet access is a basic right. Moving the process of government and democracy online requires that all homes be connected to high-speed broadband services to ensure equality of access.
+In a connected future, Internet access is a basic right. Moving the process of government and democracy online requires that all homes be connected to high-speed broadband services to ensure equality of access. We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the Internet and to keep pace with the connected digital economy.
 
 Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
 
@@ -32,4 +32,4 @@ ISPs may give users the option to apply content filters on their connections, an
 
 ## Net Neutrality
 
-Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
+Enshrine net neutrality in law, protecting the fundamental principle of the free and open web. Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.

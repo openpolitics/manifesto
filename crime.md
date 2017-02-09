@@ -11,10 +11,6 @@ attempt to reintroduce it.
 
 We are opposed to the removal of British citizenship as a sentence for committing criminal offences, which may leave individuals stateless. We also reject the suggestion of denying entry into the UK for British citizens suspected of committing offences abroad without having undergone due criminal proceedings. Where reasonable suspicion of such a criminal act occurs it should be investigated for possible prosecution within the criminal justice system. 
 
-## Right to Die
-
-Ensure euthanasia is permissible and available for those with conditions causing the individual such pain that they wish to end their own life but cannot do so without assistance. Medical staff and loved ones aiding anyone under such circumstances should not be prosecuted providing clear (and independently witnessed) consent has been given.
-
 ## War on Drugs
 
 We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
@@ -60,6 +56,8 @@ Specifically outlaw religious courts, such as Sharia Law courts, by banning thei
 
 [^onelaw]: [One Law for All](http://www.onelawforall.org.uk/)
 
-Implement rigorous protection regimes for whistle-blowers.
-
 A review will be carried out into the composition of juries, especially for complex trials.
+
+## Whistleblowing
+
+Implement rigorous protection regimes for whistle-blowers.
