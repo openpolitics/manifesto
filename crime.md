@@ -4,8 +4,7 @@ title: "Crime &amp; Justice"
 
 ## Capital Punishment
 
-We are opposed to the death penalty for all crimes, and would vote against any
-attempt to reintroduce it.
+We are opposed to the death penalty for all crimes, and would vote against any attempt to reintroduce it. We will also lobby internationally to stop the death penalty in other countries.
 
 ## Removal of British Citizenship for Criminal Acts 
 
