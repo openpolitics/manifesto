@@ -9,7 +9,7 @@ Publish full minutes (or transcripts if available), audio recordings, and voting
 A local accountability service will be provided online to show, for each local authority;
 
 * spending records (including spending below £500)
-* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://openlylocal.com))
+* council political make-up and details of councillors (similar to that provided by [OpenlyLocal](http://www.socialtech.org.uk/projects/openly-local/))
 * details of councillor connections with companies and charities (i.e. shareholding and directorships)
 * searchable transcripts and video recordings of all public council meetings (similar to [TheyWorkForYou.com](https://www.theyworkforyou.com/))
 
