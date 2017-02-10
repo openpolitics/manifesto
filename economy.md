@@ -2,13 +2,15 @@
 title: Economy
 ---
 
-We think the economy should work for everyone, not just billionaires, hedge funds and investment banks. We want to improve fairness in the tax system by closing tax evasion loopholes and reducing the gap between corporation tax and income tax. We want to create affordable housing for everyone, and to do this we will introduce a land value tax, adjust capital gain tax and introduce rent control. We want to help the lowest paid and we will by raising the minimum wage and encouraging everyone to pay the living wage.
+Markets are a tool for society, not as the primary reason for it. The economy should work for everyone, not just billionaires, hedge funds and investment banks. Excessive [rent-seeking](https://en.wikipedia.org/wiki/Rent-seeking) (gaining wealth from from financial speculation and intellectual property) increases inequality. In the short to medium term, we seek to rebalance the economy to reduce this by ensuring wage income is closer to rentier income.
 
 ## Minimum Wage
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
 
 ## Taxation
+
+We must improve fairness in the tax system by closing tax evasion loopholes and reducing the gap between corporation tax and income tax.
 
 Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
 
