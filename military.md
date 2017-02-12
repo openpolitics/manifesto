@@ -32,6 +32,6 @@ We will push for an international regulatory body and statutes for PMSCs around 
 
 Giving machines the power to decide who lives and dies on the battlefield is an unacceptable and dangerous application of modern technology[^killer-robots]. Development of lethal autonomous weapon systems will be made illegal in the UK.
 
-We will work with the UN and other international bodies to create an international treaty, similar to the Geneva Convention, banning the development and use of lethal autonomous weapon systems.
+We will lead the UN and other international bodies to create an international treaty, similar to the Geneva Convention, banning the development and use of lethal autonomous weapon systems.
 
 +[^killer-robots]: [Campaign to stop killer robots](http://www.stopkillerrobots.org/the-solution/)
