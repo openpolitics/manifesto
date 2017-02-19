@@ -2,6 +2,10 @@
 title: Housing
 ---
 
+## Right to Shelter
+
+Introduce a “right to shelter”, which makes access to shelter a basic right for any resident of the UK. The Government will have a duty to ensure that every resident has somewhere to live, independent of their financial circumstances.
+
 ## Empty Properties
 
 Residential properties that have been empty for more than 12 months will automatically attract a 100% increase in council tax.
