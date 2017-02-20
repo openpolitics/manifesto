@@ -22,6 +22,10 @@ Network Rail, the Highways Agency, train operating companies and bus operating c
 
 Until the aviation industry is carbon neutral, there will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
 
+## Get rid of Nude Body Scanners
+
+We believe that other technologies and solutions exist that are able to better serve transport authorities in carrying out their responsibility in the interests of airport and national security.
+
 ## Cycling
 
 Commit to investing in cycling infrastructure: dedicated and separate lanes; secure parking; making traffic junctions "cycle-safe"; encouraging shared use of pavements and paths where dedicated lanes are not feasible.
