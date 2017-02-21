@@ -24,6 +24,9 @@ Only individuals appearing on the electoral register are able to fund political 
 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
 
+## Cash for Access
+"Cash for access" shall be explicitly declared an illegal act warranting criminal prosecution, with sentences comparable to similar offences wherein officials have been found to be in wilful receipt of a bribe.
+
 ## Lobbying
 
 We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^lobbying]
