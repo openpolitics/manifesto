@@ -56,6 +56,10 @@ Humanist marriage to be made legal.
 
 Under all devolved jurisdictions each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
 
+## Shared Parental Leave
+
+By implementing shared rights to parental leave, couples raising young children may decide for themselves how to best share and make use of their time and resources.
+
 ## Never-ending Consumption and Consumerism
 
 Our entire society and economy is centred around the principle of continued economic growth driven by ever increasing consumption. Everyone in society is put under pressure to put in more hours at work, to aim for the next promotion, to get a better salary, to get a bigger house and fill it with more things - despite the fact this rarely leads to increased happiness or contentment. We feel pressure to do so because it's expected of us, because of peer and family pressure, and because of the constant stream of advertising on the web, TV, radio and billboards. The Government encourage this in order to grow the economy forever more, whilst ignoring the fact it creates feelings of peer inadequacy, is causing chronic physical and mental exhaustion in our workforce, is fuelling an obesity crisis, and is hugely damaging to our natural environment.
