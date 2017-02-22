@@ -48,7 +48,7 @@ We believe in replacing the House of Lords with a more representative chamber. H
 
 ### Cease all new appointments
 
-Upon entering Government we will immediately end all new appointments to the House of Lords, swiftly ending the undemocratic selection procedure.
+We will immediately end all new appointments to the House of Lords, swiftly ending the undemocratic selection procedure, including [internal by-elections](https://en.m.wikipedia.org/wiki/By-elections_to_the_House_of_Lords).
 
 ### Cut membership to equal the Commons
 
