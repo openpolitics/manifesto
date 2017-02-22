@@ -78,7 +78,7 @@ In the UK, our executive branch (the government) is made up of members of the le
 
 The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
 
-## Free Passage of Big Ben
+## Free Passage in Big Ben and the Houses of Parliament
 
 British subjects shall pay no fee to enter parliamentary grounds.
 
