@@ -70,7 +70,9 @@ All persons holding elected public office will be barred from standing as a cand
 
 Allowed expenses would be reduced to only those costs incurred as part of their job; for instance, travel and accommodation.
 
-Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally  under this system.
+Second home allowances will be scrapped, and MPs will instead have accommodation provided through parliament. This could be in dedicated accommodation, existing hotels, or long-term leases as appropriate. All MPs would be treated equally under this system.
+
+The overall parliamentary catering budget shall be capped at a rate of five pounds per head, from then onward following in line with inflation.
 
 ## Separation of Powers
 
