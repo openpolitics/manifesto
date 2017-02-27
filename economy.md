@@ -4,6 +4,16 @@ title: Economy
 
 Markets are a tool for society, not as the primary reason for it. The economy should work for everyone, not just billionaires, hedge funds and investment banks. Excessive [rent-seeking](https://en.wikipedia.org/wiki/Rent-seeking) (gaining wealth from from financial speculation and intellectual property) increases inequality. In the short to medium term, we seek to rebalance the economy to reduce this by ensuring wage income is closer to rentier income.
 
+## National Investment Bank
+
+Re-nationalise the UK Green Investment Bank and rename and restructure it as the National Investment Bank (NIB). The NIB will also be merged with the Public Works Loan Board and the Infrastructure and Projects Authority.
+
+The NIB shall be capitalised with £20 billion, drawn primarily from the sale of the government’s shares of private banks following the financial crisis, the [removal of subsidies for fossil fuels](http://openpolitics.org.uk/manifesto/environment.html#subsidies), and the existing funds held by the UK Green Investment Bank.
+
+The aim will be to raise £500 billion in investment over the next 20 years and invest that into infrastructure and technology.
+
+The NIB will target particularly deprived or underfunded regions, and local authorities will also be able to make the case for investment in their region.
+
 ## Minimum Wage
 
 The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
