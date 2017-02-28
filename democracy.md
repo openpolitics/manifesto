@@ -78,6 +78,10 @@ In the UK, our executive branch (the government) is made up of members of the le
 
 The executive should be appointed by the legislature, on an annual basis. Ministers could then be selected from all walks of life for their expertise in subject areas, management, or other desirable skills.
 
+## Free Passage in Big Ben and the Houses of Parliament
+
+British subjects shall pay no fee to enter parliamentary grounds.
+
 ## Royal Secrecy
 
 Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
@@ -87,6 +91,16 @@ Fully include of the monarchy within the Freedom of Information Act (FOIA), so t
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 
 Adopt full disclosure of royal lobbying and influence, including disclosure of meetings between members of the royal family and ministers.
+
+## Republic
+
+To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/what-we-want/new-head-state).
+
+The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
+
+Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
+
+The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
 
 ## City of London
 
@@ -107,13 +121,3 @@ We will dissolve the City of London Police and bring the role of policing the Ci
 Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
 
 To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
-
-## Republic
-
-To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/what-we-want/new-head-state).
-
-The President would be mainly a ceremonial position, and should be apolitical and not affiliated to any party. The Prime Minster would remain as Head of Government, and would be appointed by the President after a General Election, as is the case with the Queen now. The President will not be involved in the legislative process.
-
-Presidential terms of office will be fixed at five years, with a maximum of two terms to be served by an individual.
-
-The President will be equal before the law, and will not be protected by [Sovereign Immunity](https://en.wikipedia.org/wiki/Sovereign_immunity#United_Kingdom). The President will not be constitutionally linked to any faith.
