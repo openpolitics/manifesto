@@ -38,7 +38,13 @@ Prospective parliamentary candidates must have a good connection with the consti
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
 
-To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
+The Electoral Commission should record all campaign materials produced by political parties. As well as the material, also some detail on where the material was used, and a description of the audience. This should include:
+
+ * Party manifestos
+ * Leaflets (whether delivered by Royal Mail or by hand)
+ * Billboards
+ * Online ads (including targeted custom advertising)
+ * Social media campaigns & images
 
 ## European Elections
 
