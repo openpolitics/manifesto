@@ -54,7 +54,7 @@ Humanist marriage to be made legal.
 
 ## Equality in Civil Partnerships
 
-Under all devolved jurisdictions each party to the civil partnership must be of the same sex. This option should be extended to heterosexual couples who may not wish to partake in the institution of marriage. 
+Currently under all devolved jurisdictions, each party to the civil partnership must be of the same sex. This option shall be extended to heterosexual couples who may not wish to partake in the institution of marriage.
 
 ## Never-ending Consumption and Consumerism
 
