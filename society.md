@@ -48,9 +48,9 @@ Nominations for State Honours should continue to be encouraged from the public. 
 
 ## Marriage
 
-The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
+The state should not seek to incentivise marriage through the tax system, but it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
 
-Humanist marriage to be made legal.
+Humanist marriage will be made legal, bigamy laws will be repealed, and polyamorous marriage explicitly legalised, all with the goal of allowing love in all forms to flourish, should the participants choose to utilise the institution of marriage.
 
 ## Equality in Civil Partnerships
 
