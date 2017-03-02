@@ -25,7 +25,7 @@ Only individuals appearing on the electoral register are able to fund political 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
 
 ## Cash for Access
-"Cash for access" shall be explicitly declared an illegal act warranting criminal prosecution, with sentences comparable to similar offences wherein officials have been found to be in wilful receipt of a bribe.
+["Cash for access"](http://www.telegraph.co.uk/news/investigations/jack-straw-and-sir-malcolm-rifkind-in-latest/) shall be explicitly declared an illegal act warranting criminal prosecution, with sentences comparable to similar offences wherein officials have been found to be in wilful receipt of a bribe.
 
 ## Lobbying
 
