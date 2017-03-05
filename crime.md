@@ -51,9 +51,7 @@ Expand the role of the Independent Police Complaints Commission (IPCC) to includ
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^onelaw]
-
-[^onelaw]: [One Law for All](http://www.onelawforall.org.uk/)
+Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the [One Law for All](http://www.onelawforall.org.uk/) campaign.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
