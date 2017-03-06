@@ -4,12 +4,6 @@ title: Culture &amp; Media
 
 ## Copyright Reform
 
-Reform copyright law to allow use for parody[^org-copyright].
-
-Reform copyright law to allow format-shifting of purchased media (for example, from CD to MP3)[^org-copyright].
-
-[^org-copyright]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
-
 Immediately reduce the term of copyright from "70 years from the end of the calendar year of the author's death" to two 40 year terms, with a renewal necessary after the first 40 years. Make the necessary preparations for a general case within the World Trade Organization's Dispute Settlement Body, regarding UK conformity with the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)).
 
 Lobby for the rest of the world to adopt the same - two 40 years terms - for copyright.
