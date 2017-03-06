@@ -6,7 +6,7 @@ title: Science
 
 The UK should spend at least 0.8% of GDP on scientific research and development[^science-is-vital]. 0.8% is the average amongst the G8 countries, and as of March 2015, the UK spends less than 0.5%[^uk-research-funding], one of the lowest in the G8.
 
-[^science-is-vital]: [Science is Vital](http://scienceisvital.org.uk/)
+[^science-is-vital]: As proposed by the Science is Vital campaign: [http://scienceisvital.org.uk/](http://scienceisvital.org.uk/)
 [^uk-research-funding]: *"UK research funding slumps below 0.5% GDP – putting us last in the G8"*, The Guardian, March 13, 2015: [https://www.theguardian.com/science/occams-corner/2015/mar/13/science-vital-uk-spending-research-gdp](https://www.theguardian.com/science/occams-corner/2015/mar/13/science-vital-uk-spending-research-gdp)
 
 Implement a favourable tax regime for private sector investment in scientific and technical research

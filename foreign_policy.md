@@ -65,7 +65,7 @@ We fundamentally believe in self-determination for residents of the British Over
 
 We will conduct a review into the state of democracy and people’s rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^ascension]
 
-[^ascension]: ["US and UK accused of 'squeezing life out of' Ascension Island", *The Guardian*](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
+[^ascension]: *"US and UK accused of 'squeezing life out of' Ascension Island"*, The Guardian, September 11, 2013:  [http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
 
 ### British Indian Ocean Territory
 
@@ -85,10 +85,10 @@ We will commission a report into how best to help Montserrat recover in the long
 
 We will grant British citizenship to the 67 residents of Richmond Village, Akrotiri, Cyprus.[^akrotiri]
 
-[^akrotiri]: ["We're in limbo: the families marooned at a British military base for 16 years", *The Guardian*](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
+[^akrotiri]: *"We're in limbo: the families marooned at a British military base for 16 years"*, The Guardian, October 21, 2014: [http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus](http://www.theguardian.com/world/2014/oct/21/refugee-families-marooned-raf-base-cyprus)
 
 ## PKK and Turkey Peace Process
 
 We recognise that the PKK (Kurdistan Workers' Party) has attempted to turn to peaceful means to secure rights for the Kurdish people[^pkk]. We also note the PKK's leadership in resisting the brutality of the ISIS forces in the Middle East. We therefore wish to delist the PKK as a terrorist organisation should it commit itself to disarming in Turkey and re-engaging in the peace process.
 
-[^pkk]: [The Case for Delisting the PKK as a Foreign Terrorist Organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)
+[^pkk]: *"The Case for Delisting the PKK as a Foreign Terrorist Organization"*, Lawfare, February 11, 2016: [https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization](https://www.lawfareblog.com/case-delisting-pkk-foreign-terrorist-organization)

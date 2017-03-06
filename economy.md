@@ -62,10 +62,9 @@ Improve rental rights, such that residential tenants cannot be evicted if they a
 
 Adopt Land Value Taxation (LVT)[^lvt], a charge on the rental value of land not including any improvements made on the site (such as buildings, drainage and services). Valuation to be based on market evidence, in accordance with the optimum use of the land within the planning regulations and updated regularly (at least every 2 years)[^lvt-england][^lvt-scotland]. LVT would replace Council Tax,  Uniform Business Rates, and Stamp Duty. There will be two rates of Land Value Tax - a national rate and a local rate. The national rate will be decoded after consultation and research. The local rate will be set at the discretion of each local authority. Public open space, public transport infrastructure and open water will all be exempt from LVT. Local and national government property will not be exempt, to encourage the efficient allocation of publicly owned assets.
 
-[^lvt]: [Land Value Taxation Campaign - What is LVT?](http://www.landvaluetax.org/what-is-lvt/)
-[^lvt-england]: [A Land Value Tax for England](http://www.andywightman.com/docs/LVT_england_final.pdf)
-[^lvt-scotland]: [A Land Value Tax for Scotland](http://www.andywightman.com/docs/LVTREPORT.pdf)
-
+[^lvt]: *"What is LVT?"*, Land Value Taxation Campaign: [http://www.landvaluetax.org/what-is-lvt/](http://www.landvaluetax.org/what-is-lvt/)
+[^lvt-england]: *"A Land Value Tax for England"*, Andy Wightman, March 2013: [http://www.andywightman.com/docs/LVT_england_final.pdf](http://www.andywightman.com/docs/LVT_england_final.pdf)
+[^lvt-scotland]: *"A Land Value Tax for Scotland"*, Andy Wightman, October 2010: [http://www.andywightman.com/docs/LVTREPORT.pdf](http://www.andywightman.com/docs/LVTREPORT.pdf)
 
 ## Business
 
@@ -83,7 +82,7 @@ Ensure worker-owned cooperatives and mutuals are given priority with all governm
 
 All private companies who receive public money must be subject to the same transparency requirements as governments when it comes to the goods and services they deliver[^secret-contracts].
 
-[^secret-contracts]: [Stop Secret Contracts](http://stopsecretcontracts.org/)
+[^secret-contracts]: *"Stop Secret Contracts"*: [http://stopsecretcontracts.org/](http://stopsecretcontracts.org/)
 
 ## Public Sector
 

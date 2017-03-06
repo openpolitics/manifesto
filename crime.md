@@ -41,7 +41,7 @@ With a comprehensive strategy allowing for strategies at all levels and areas of
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^police-cameras]
 
-[^police-cameras]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
+[^police-cameras]: *"Wearing a Badge, and a Video Camera"*:, New York Times, April 6, 2013: [http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html](http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html)
 
 ### Independent Police Complaints Commission
 

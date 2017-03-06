@@ -14,9 +14,9 @@ Education should be freely available to all to first degree level or equivalent.
 
 50% of the British public identify as having no religion, and this number is growing[^bsa-religion] but over half of all state funded schools have a religious character[^faith-schools], including over 4,500 Church of England schools. It has been demonstrated that faith schools are religiously selective, excluding those of other or no faith[^fair-admissions].
 
-[^faith-schools]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
-[^fair-admissions]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
 [^bsa-religion]: *"British Social Attitudes 28: Religion"*, NatCen, 2012:  [http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx](http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx)
+[^faith-schools]: *"Maintained Faith Schools"*, Department for Education, July 20, 2010: [https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
+[^fair-admissions]: *"Groundbreaking new research maps the segregating impact of faith school admissions"*, Fair Admissions Campaign, December 3, 2013: [http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
 
 Therefore, we will mandate that all state-funded schools be secular in nature.
 
@@ -46,6 +46,6 @@ Funding to the Open University, and other distance learning courses will be incr
 
 We will remove the guidelines[^teachers-and-terrorism] that force teachers to act as counter-terrorism officers and that stifle free speech within the learning environment. 
 
-[^teachers-and-terrorism]: [Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
+[^teachers-and-terrorism]: *"Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism"*, The Independent, April 6, 2015:  [http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
 
 We will include fiscal education into the national curriculum. This will include personal finances, understanding and paying taxes, understanding loans and debt, and relating fiscal choices to the state of the greater economy.  
