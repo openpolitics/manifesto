@@ -47,7 +47,7 @@ Whilst it's right that those nations that make the greatest contribution to UN t
 
 Resist the adoption of international treaties that could allow unelected institutions to have a chilling effect on government policy that is in the public interest of UK voters. A current example is the Investor-State Dispute Settlement (ISDS) process in the TTIP treaty currently under negotiation[^isds], which undermines democratic processes and could prevent the government taking action which benefits the UK if it causes potential losses for foreign investors.
 
-[^isds]: [Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP) - Commons Library Standard Note](http://www.parliament.uk/business/publications/research/briefing-papers/SN06777/investorstate-dispute-settlement-isds-and-the-transatlantic-trade-and-investment-partnership-ttip)
+[^isds]: *"Investor-state dispute settlement (ISDS) and the Transatlantic Trade and Investment Partnership (TTIP)"*,  Commons Briefing paper SN06777, December 11, 2013: [http://researchbriefings.parliament.uk/ResearchBriefing/Summary/SN06777](http://researchbriefings.parliament.uk/ResearchBriefing/Summary/SN06777)
 
 ## Recognition of Palestine
 

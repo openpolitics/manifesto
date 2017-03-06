@@ -14,9 +14,9 @@ Education should be freely available to all to first degree level or equivalent.
 
 50% of the British public identify as having no religion, and this number is growing[^bsa-religion] but over half of all state funded schools have a religious character[^faith-schools], including over 4,500 Church of England schools. It has been demonstrated that faith schools are religiously selective, excluding those of other or no faith[^fair-admissions].
 
-[^bsa-religion]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
 [^faith-schools]: [Maintained Faith Schools, Department for Education](https://www.gov.uk/government/publications/maintained-faith-schools/maintained-faith-schools)
 [^fair-admissions]: [Fair Admissions Campaign](http://fairadmissions.org.uk/groundbreaking-new-research-maps-the-segregating-impact-of-faith-school-admissions/)
+[^bsa-religion]: *"British Social Attitudes 28: Religion"*, NatCen, 2012:  [http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx](http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx)
 
 Therefore, we will mandate that all state-funded schools be secular in nature.
 
