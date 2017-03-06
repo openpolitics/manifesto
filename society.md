@@ -8,7 +8,7 @@ With 50-62% of the British public having no religion[^yougov-religion], includin
 
 [^bsa-religion]: *"British Social Attitudes 28: Religion"*, NatCen, 2012:  [http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx](http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx)
 
-[^yougov-religion]: *"Easter Religion and Other News", British Religion in Numbers, April 5, 2015: [http://www.brin.ac.uk/2015/easter-religion-and-other-news/](http://www.brin.ac.uk/2015/easter-religion-and-other-news/)
+[^yougov-religion]: *"Easter Religion and Other News"*, British Religion in Numbers, April 5, 2015: [http://www.brin.ac.uk/2015/easter-religion-and-other-news/](http://www.brin.ac.uk/2015/easter-religion-and-other-news/)
 
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
