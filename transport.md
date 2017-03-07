@@ -50,7 +50,7 @@ Incentivise existing fuelling stations to install hydrogen fuel pumps.
 
 Incentivise research into retrospective modifications to existing vehicles allowing them to run on hydrogen. This would facilitate an easier transition from our dependency on fossil fuels, and encourage the development of new hydrogen based vehicle (which doesn't have the same carbon footprint as the manufacture of lithium ion batteries.)
 
-As the number of electric cars increases, an increasing amount of battery storage ends up being connected to the National Grid. This storage can be used to supply power back into the grid when it's under heavy load, and store up power when there is excess generation capacity. The government should incentivise electric car owners who allow their cars to be used as dynamic storage batteries for the grid, and help smooth out variable demand.
+As the number of electric cars increases, an increasing amount of battery storage ends up being connected to the National Grid. This storage can be used to supply power back into the grid when it's under heavy load, and store up power when there is excess generation capacity. We will incentivise electric car owners who allow their cars to be used as dynamic storage batteries for the grid, and help smooth out variable demand.
 
 ## Railways
 
