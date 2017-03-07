@@ -4,6 +4,10 @@ title: Culture &amp; Media
 
 ## Copyright Reform
 
+Re-introduce copyright reforms that allow personal format-shifting of purchased media (for example, from CD to MP3, or for backup purposes)[^format-shifting].
+
+[^format-shifting]: *"Copyright exemption for private use: regulations quashed"*, Barker Brettell, September 25, 2015. [https://www.barkerbrettell.co.uk/copyright-exemption-for-private-use-regulations-quashed-2/](https://www.barkerbrettell.co.uk/copyright-exemption-for-private-use-regulations-quashed-2/)
+
 Immediately reduce the term of copyright from "70 years from the end of the calendar year of the author's death" to two 40 year terms, with a renewal necessary after the first 40 years. Make the necessary preparations for a general case within the World Trade Organization's Dispute Settlement Body, regarding UK conformity with the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works)).
 
 Lobby for the rest of the world to adopt the same - two 40 years terms - for copyright.
