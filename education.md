@@ -34,6 +34,8 @@ Scottish authorities will no longer be legally obligated to appoint unelected re
 
 All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
 
+Any and all anti-student-union regulations will be repealed. The formation of student unions from secondary school upwards will be subsequently encouraged and participants will be immune from school sanctions unless another offence has been commited against the school rules and/or policy other than the temporary truancy of strike action or the disrespect to staff created passively through civil disobedience. Student unions will not need staff or board of governors approval to form, function, or disband.
+
 ## Continuing Education
 
 Allowing individuals to be able to gain skills and knowledge, and validate them at a reasonable cost is an important part of our plans for life long education. This will allow for workers to develop skills later in life, and give a boost in the general skill level of the work force, while also allowing people to move into new and emerging industries, while leaving areas of employment with a less stable future.
