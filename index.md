@@ -12,10 +12,10 @@ We believe that government should be:
 * Ethical: dedicated to creating a sustainable society and economy with progressive moral values.
 * Bottom-up: People should be telling the government what they want from a local level, rather than being told from the top. 
 
-We believe that individuals should be:
+We believe that individuals should:
 
-* Treated equally by the law and society, regardless of gender, sexuality, ethnicity, age, belief or disability.
-* Free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
+* Be treated equally by the law, regardless of gender identity, sex, romantic orientation, sexual orientation, ethnicity, race, perceived ethnicity and/or race, age, religious and/or spiritual belief, occupation or disability.
+* Be free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
 * Enjoy a fundamental right to privacy from the state or their agents.
 
 In short, we wish to ensure government remains open and transparent, whilst individuals retain liberty and privacy.
