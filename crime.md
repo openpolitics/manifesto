@@ -59,4 +59,4 @@ A review will be carried out into the composition of juries, especially for comp
 
 ## Whistleblowing
 
-Implement rigorous protection regimes for whistle-blowers.
+Implement rigorous legal protections for whistle-blowers.
