@@ -8,7 +8,7 @@ Reform copyright law to allow use for parody[^org-copyright].
 
 Reform copyright law to allow format-shifting of purchased media (for example, from CD to MP3)[^org-copyright].
 
-Adopt the 'Fair Use' system as a replacement for 'Fair Dealing'.
+Adopt the '[Fair Use](https://en.wikipedia.org/wiki/Fair_use)' system as a replacement for '[Fair Dealing](https://en.wikipedia.org/wiki/Fair_dealing_in_United_Kingdom_law)'.
 
 [^org-copyright]: [Can we have our freedom to joke now please?](https://www.openrightsgroup.org/campaigns/modernise-copyright) - Open Rights Group
 
