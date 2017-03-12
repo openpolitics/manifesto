@@ -37,9 +37,9 @@ We want to establish a single, comprehensive and mandatory statutory register of
 
 We support the principle of subsidiarity, in the general sense that decisions should be devolved to the most local organisational level capable of effectively handling the issue.
 
-Devolve legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in regions across England, Wales and Northern Ireland.
- 
-The UK Parliament will retain control over macro-economic, foreign, and defence policy.
+As the Scottish Parliament, Welsh Assembly and Northern Ireland Assembly are currently devolved entities subject to the overarching Houses of Parliament, we would equalise their devolved powers in a manner that maximises the powers the devolved bodies have, and, as per the [West Lothian question](https://en.wikipedia.org/wiki/West_Lothian_question), establish a new devolved parliament for England, in-line with previous polling[^english-parliament-devolution-polls]. The UK Parliament will retain control over macro-economic, foreign, and defence policy and its members would be elected by seperate national [STV](https://en.wikipedia.org/wiki/Single_transferable_vote) votes, with the proportion of seats designated to the politicians of each country decided by the population percentages drawn from the most recent census data. This way, everyone gets a say in their country, and everyone's country gets a proportional and fair say in the union.
+
+[^english-parliament-devolution-polls]: [English Parliament devolution](https://en.wikipedia.org/wiki/Devolved_English_parliament#Opinion_polls)
 
 Currently resources are redistributed from each region according to their ability to pay, to each region according to their need. To ensure this continues, all current taxes set by Westminster would become "federal taxes" and distributed appropriately, and each regional Parliament would have the power to establish top-up "regional taxes" either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour.
 
