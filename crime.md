@@ -12,13 +12,13 @@ We are opposed to the removal of British citizenship as a sentence for committin
 
 ## War on Drugs
 
-We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
+We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation which puts them under the same regulatory framework as alcohol and tobacco. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
 
 ### National Level
 
 At a national level, we aim to legislate on this matter, changing key pieces of primary legislation, while using the ministerial mandate to change secondary legislation and practices in areas such as policing, the NHS, customs and revenue, and education.
 
-This will be staged, and in a managed, harm based strategy advised by the medical and scientific communities as well as other knowledgeable parties (such as charities who manage addiction based harm, and current and ex-substance users). This will allow us to steadily put in place infrastructure, services, advice, training, and good working practices around each drug as it is decriminalised, allowing for the development and roll out of a comprehensive harm reduction system.
+This will be staged, and in a managed, harm based strategy advised by the medical and scientific communities as well as other knowledgeable parties (such as charities who manage addiction based harm, and current and ex-substance users). This will allow us to steadily put in place infrastructure, services, advice, training, and good working practices around each drug as it is decriminalised, allowing for the development and roll out of a comprehensive harm reduction system.  Regulation of drug, alcohol and tobacco use will have the main aim of imprioving public health.
 
 With specific regards to the Psychoactive Substances Act, a more pro-active stance will be taken, with a far more rapid addition of classes of psychoactive substances to the white list. This will allow for individuals to access these substances on a clear informed consent basis. This change will allow communities such as the gay community and the Nootropics community to be free from being criminalised. We will then remove the Psychoactive Substances Act entirely.
 
