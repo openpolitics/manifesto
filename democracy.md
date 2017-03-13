@@ -8,7 +8,7 @@ We believe that the UK should be a truly democratic country, where the state is 
 
 The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^constitution].
 
-[^constitution]: [Do we need a written constitution?](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
+[^constitution]: *"Do we need a written constitution?"*, The Constitution Society: [https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/)
 
 The constitution could either be created by a citizens' panel, with approval and adoption subject to a referendum, or created as a "blank slate", with every addition done as an amendment by Parliament with a super-majority vote (e.g. 75% in favour).
 
@@ -31,7 +31,7 @@ Require all MPs to retrospectively publish their diaries on a daily basis as ope
 
 We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^lobbying]
 
-[^lobbying]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
+[^lobbying]: As suggested by the Alliance for Lobbying Transparency: [http://www.lobbyingtransparency.org/](http://www.lobbyingtransparency.org/)
 
 ## Devolution
 
@@ -89,7 +89,7 @@ British subjects shall pay no fee to enter parliamentary grounds.
 
 Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
 
-[^royal-secrecy]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
+[^royal-secrecy]: *"Campaign against royal secrecy"*, Republic: [https://www.republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
 
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 
