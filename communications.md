@@ -30,6 +30,8 @@ Remove all government-mandated filtering of Internet content, and make censorshi
 
 ISPs may give users the option to apply content filters on their connections, and even enable them by default if they wish, but filter lists must be openly published, and subject to review and appeal through OFCOM.
 
+The sharing of files will be protected under freedom of speech rights and "piracy" will no longer be illegal. However, recieving any form of compensation, including that which does not amount to a profit, from the file-sharing or copying of content that you do not own the rights to will remain an illegal activity, within the legal exceptions of other legislation, as the sharing of speech and culture does not necessitate the ability to profit from it.
+
 ## Net Neutrality
 
 Enshrine net neutrality in law, protecting the fundamental principle of the free and open web. Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
