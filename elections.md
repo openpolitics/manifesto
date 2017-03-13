@@ -38,7 +38,13 @@ Prospective parliamentary candidates must have a good connection with the consti
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
 
-To improve the ability of citizens to hold politicians to account for the promises they make, the National Archives' remit for creating an archive of Government publications will be extended to political campaign material produced by political parties. This will primarily be done by collecting copies of all material distributed by Royal Mail as part of election campaigns. Political party manifestos will also be archived by the National Archives.
+The Electoral Commission should record all campaign materials produced by political parties and publish them openly. As well as the material, also some detail on where the material was used, and a description of the audience. The materials should be submitted and published within a short timescale during the campaign, not logged months afterwards. This should include:
+
+ * Party manifestos
+ * Leaflets (whether delivered by Royal Mail or by hand)
+ * Billboards
+ * Online ads (including targeted custom advertising)
+ * Social media campaigns & images
 
 ## European Elections
 
@@ -50,4 +56,4 @@ Investigate the feasibility of direct digital democracy - using online tools to 
 
 Investigate methods for deliberative democracy[^rebooting-democracy] - things which increase research and understanding before decision making. Run trials of these for small decisions. Implement proven ones for members of the upper and lower house, and for ministers. 
 
-[^rebooting-democracy]: [Rebooting Democracy: A Citizen's Guide to Reinventing Politics](http://www.amazon.co.uk/Rebooting-Democracy-Citizens-Reinventing-Politics/dp/191019817X) - Manuel Arriaga
+[^rebooting-democracy]: *"Rebooting Democracy: A Citizen's Guide to Reinventing Politics"*, Manuel Arriaga, 2014: [http://www.rebootdemocracy.org/book/](http://www.rebootdemocracy.org/book/)

@@ -14,7 +14,7 @@ In a connected future, Internet access is a basic right. Moving the process of g
 
 Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
 
-[^ipv6]: [Ofcom in denial over UK IPv6 failure](http://www.emilytaylor.eu/ofcom-in-denial-ipv6/)
+[^ipv6]: *"Ofcom in denial over UK IPv6 failure"*, Oxford Information Labs, December 11, 2014: [https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/](https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/)
 
 ## Surveillance
 

@@ -6,9 +6,9 @@ title: Society
 
 With 50-62% of the British public having no religion[^yougov-religion], including 64% of those aged 18-24[^bsa-religion], Britain is no longer a Christian country and so its official status as such will be removed. Britain will become a secular nation under a Secularism Act.
 
-[^bsa-religion]: [British Social Attitudes Survey](http://ir2.flife.de/data/natcen-social-research/igb_html/pdf/chapters/BSA28_12Religion.pdf) (pdf)
+[^bsa-religion]: *"British Social Attitudes 28: Religion"*, NatCen, 2012:  [http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx](http://www.bsa.natcen.ac.uk/latest-report/british-social-attitudes-28/religion.aspx)
 
-[^yougov-religion]: [YouGov poll](http://www.secularism.org.uk/news/2015/04/as-cameron-says-uk-still-a-christian-country-62-percent-tell-yougov-they-are-not-religious)
+[^yougov-religion]: *"Easter Religion and Other News"*, British Religion in Numbers, April 5, 2015: [http://www.brin.ac.uk/2015/easter-religion-and-other-news/](http://www.brin.ac.uk/2015/easter-religion-and-other-news/)
 
 
 Human rights are paramount, because we are all human but not all religious. No-one should be restricted from practising their religious beliefs unless those beliefs infringe on the human rights of others. Equally, the non-religious or those of other religions, should be free of interference from religions. So we will enshrine in law two principles;
@@ -48,9 +48,11 @@ Nominations for State Honours should continue to be encouraged from the public. 
 
 ## Marriage
 
-The state should not seek to incentivise marriage through the tax system. But it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
+The state should not seek to incentivise marriage through the tax system, but it should recognise family household units whether married, unmarried or in a civil partnership. It is therefore proposed that a non-working adult's personal income tax allowance may be transferred in full to another working adult residing in the same household. Only one transfer would be allowed per household.
 
-Humanist marriage to be made legal.
+[Humanist marriage](https://humanism.org.uk/campaigns/human-rights-and-equality/marriage-laws/) (a wedding performed by a humanist celebrant) should be officially recognised across the UK, as it already is in Scotland.
+
+Bigamy laws will be repealed, and polyamorous marriage explicitly legalised, all with the goal of allowing love in all forms to flourish, should the participants choose to utilise the institution of marriage.
 
 ## Equality in Civil Partnerships
 
