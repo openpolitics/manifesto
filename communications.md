@@ -12,7 +12,7 @@ We believe in a free and open Internet, and back the principles of Internet gove
 
 In a connected future, Internet access is a basic right. Moving the process of government and democracy online requires that all homes be connected to high-speed broadband services to ensure equality of access. We will extend the requirement on basic, affordable telephony to broadband to help ensure homes have sufficient access to the Internet and to keep pace with the connected digital economy.
 
-Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
+We will require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
 
 [^ipv6]: [Ofcom in denial over UK IPv6 failure](http://www.emilytaylor.eu/ofcom-in-denial-ipv6/)
 
