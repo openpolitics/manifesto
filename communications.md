@@ -33,3 +33,7 @@ ISPs may give users the option to apply content filters on their connections, an
 ## Net Neutrality
 
 Enshrine net neutrality in law, protecting the fundamental principle of the free and open web. Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
+
+## Investment In The Net
+
+We will provide grants to organisations that are working on alternative projects to the clearnet, such as i2p, TOR, file-transfer applications such as torrent clients, and decentralised web projects. If these projects are going to be shutdown before completion and it can be determined that it was not due to the failure of the project itself, the rights will be bought, and the code, CAD diagrams, and other materials will be placed in the public domain after formally disclaiming the copyright. This way, progression in network science cannot be hindered by funding and at the expense of innovation and invention.
