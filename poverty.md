@@ -15,7 +15,7 @@ To give the public greater financial security we will;
 
 The Office for Budget Responsibility will be given a new role in accessing and forecasting levels of poverty, while the Social Mobility and Child Poverty Commission will have it's remit extended to the whole of the UK to more effectively hold the government to account[^rowntree-poverty].
 
-[^rowntree-poverty]: [Recommendation from Joseph Rowntree Foundation report, September 2014](http://www.jrf.org.uk/a-uk-without-poverty)
+[^rowntree-poverty]: As recommended by *"A UK without poverty"*, Joseph Rowntree Foundation, September 2014: [http://www.jrf.org.uk/a-uk-without-poverty](http://www.jrf.org.uk/a-uk-without-poverty)
 
 ## Inequality
 

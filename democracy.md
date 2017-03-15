@@ -8,7 +8,7 @@ We believe that the UK should be a truly democratic country, where the state is 
 
 The British constitution should be collected into a single written document that defines and regulates the powers of the British government, and the rights and duties of its citizens[^constitution].
 
-[^constitution]: [Do we need a written constitution?](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/) - The Constitution Society
+[^constitution]: *"Do we need a written constitution?"*, The Constitution Society: [https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/](https://web.archive.org/web/20140730032323/http://www.consoc.org.uk/other-content/about-us/discover-the-facts/do-we-need-a-written-constitution/)
 
 The constitution could either be created by a citizens' panel, with approval and adoption subject to a referendum, or created as a "blank slate", with every addition done as an amendment by Parliament with a super-majority vote (e.g. 75% in favour).
 
@@ -25,21 +25,21 @@ Only individuals appearing on the electoral register are able to fund political 
 Require all MPs to retrospectively publish their diaries on a daily basis as open data.
 
 ## Cash for Access
-"Cash for access" shall be explicitly declared an illegal act warranting criminal prosecution, with sentences comparable to similar offences wherein officials have been found to be in wilful receipt of a bribe.
+["Cash for access"](http://www.telegraph.co.uk/news/investigations/jack-straw-and-sir-malcolm-rifkind-in-latest/) shall be explicitly declared an illegal act warranting criminal prosecution, with sentences comparable to similar offences wherein officials have been found to be in wilful receipt of a bribe.
 
 ## Lobbying
 
 We want to establish a single, comprehensive and mandatory statutory register of political lobbyists. This will replace the four voluntary options currently available to lobbyists. This register must contain all paid lobbyists and it must give us meaningful information on what lobbyists are up to, including who is lobbying for who, which agency of government are being lobbied, and broadly what lobbyists are aiming to influence.[^lobbying]
 
-[^lobbying]: [Alliance for Lobbying Transparency](http://www.lobbyingtransparency.org/#home)
+[^lobbying]: As suggested by the Alliance for Lobbying Transparency: [http://www.lobbyingtransparency.org/](http://www.lobbyingtransparency.org/)
 
 ## Devolution
 
 We support the principle of subsidiarity, in the general sense that decisions should be devolved to the most local organisational level capable of effectively handling the issue.
 
-Devolve legislative powers currently enjoyed by the Scottish Parliament to equivalent devolved Parliaments in regions across England, Wales and Northern Ireland.
- 
-The UK Parliament will retain control over macro-economic, foreign, and defence policy.
+As the Scottish Parliament, Welsh Assembly and Northern Ireland Assembly are currently devolved entities subject to the overarching Houses of Parliament, we would equalise their devolved powers in a manner that maximises the powers the devolved bodies have, and, as per the [West Lothian question](https://en.wikipedia.org/wiki/West_Lothian_question), establish a new devolved parliament for England, in-line with previous polling[^english-parliament-devolution-polls]. The UK Parliament will retain control over macro-economic, foreign, and defence policy and its members would be elected by seperate national [STV](https://en.wikipedia.org/wiki/Single_transferable_vote) votes, with the proportion of seats designated to the politicians of each country decided by the population percentages drawn from the most recent census data. This way, everyone gets a say in their country, and everyone's country gets a proportional and fair say in the union.
+
+[^english-parliament-devolution-polls]: [English Parliament devolution](https://en.wikipedia.org/wiki/Devolved_English_parliament#Opinion_polls)
 
 Currently resources are redistributed from each region according to their ability to pay, to each region according to their need. To ensure this continues, all current taxes set by Westminster would become "federal taxes" and distributed appropriately, and each regional Parliament would have the power to establish top-up "regional taxes" either on income, VAT, capital gains or however they see fit, and to keep any revenue generated. Those wishing to attract investment may choose not to levy any regional taxes at all, or keep them lower relative to their neighbour.
 
@@ -89,7 +89,7 @@ British subjects shall pay no fee to enter parliamentary grounds.
 
 Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
 
-[^royal-secrecy]: [Campaign against royal secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
+[^royal-secrecy]: *"Campaign against royal secrecy"*, Republic: [https://www.republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
 
 Repeal existing exemptions from the FOIA that allow communications between other government bodies and the members of the royal family to be kept secret.
 

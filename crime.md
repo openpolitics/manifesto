@@ -36,12 +36,19 @@ With the emergency services, the current harm reduction pathway, specifically th
 
 With a comprehensive strategy allowing for strategies at all levels and areas of local government, we hope this will allow us to effect change in a productive manner wherever we are elected.
 
+## War on Sex
+
+All regulations on production of pornography in the UK are to be repealed, barring those that would expose the material to those below the age of consent or allow images of those below the age of consent of a sexual nature into adult stores. Pornography that is explicitly stated to be non consensual would also be illegal. These regulations criminalise the actions of consenting adults and entire subcultures, such as bans on production of BDSM pornography, and are more fit for a theocratic nation than a democracy.
+
+Sex work is to be completely decriminalised (barring sex work for those under the age of consent) and active outreach work will be taken to destigmatise, but not encourage people into, this line of work. In line with this policy, sex work is to be practiced only in regulated brothels and brothelkeeping would be legalised, and though sex work in the home would not be encouraged, it would have a neutral legal status for the worker and it would be illegal to solicit the services of a sex worker for money in an unregulated environment. Brothels would be taxed as any other business.
+
+If not previously established, a 24/7 freephone number will be formally established to report abuse specifically of sex workers and will add to the myriad of techniques currently utilised by law enforcement to avoid this happening. This will contribute to the ongoing battle against human trafficking and abuse of sex workers.
 
 ## Police
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^police-cameras]
 
-[^police-cameras]: [Wearing a Badge, and a Video Camera](http://mobile.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html?_r=0) - New York Times
+[^police-cameras]: *"Wearing a Badge, and a Video Camera"*:, New York Times, April 6, 2013: [http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html](http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html)
 
 ### Independent Police Complaints Commission
 
@@ -51,12 +58,10 @@ Expand the role of the Independent Police Complaints Commission (IPCC) to includ
 
 A single, secular oath will replace the current options for witnesses in all court proceedings.
 
-Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the One Law for All campaign.[^onelaw]
-
-[^onelaw]: [One Law for All](http://www.onelawforall.org.uk/)
+Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the [One Law for All](http://www.onelawforall.org.uk/) campaign.
 
 A review will be carried out into the composition of juries, especially for complex trials.
 
 ## Whistleblowing
 
-Implement rigorous protection regimes for whistle-blowers.
+Implement rigorous legal protections for whistle-blowers.

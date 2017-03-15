@@ -14,11 +14,11 @@ In a connected future, Internet access is a basic right. Moving the process of g
 
 Require all UK Internet Service Providers to provide IPv6 connections to home and business users by 2020[^ipv6].
 
-[^ipv6]: [Ofcom in denial over UK IPv6 failure](http://www.emilytaylor.eu/ofcom-in-denial-ipv6/)
+[^ipv6]: *"Ofcom in denial over UK IPv6 failure"*, Oxford Information Labs, December 11, 2014: [https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/](https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/)
 
 ## Surveillance
 
-All communications (whether physical or digital) by individuals and groups, should be considered private property and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicially approved warrant in relation to a specific threat.
+All communications (whether physical or digital) by individuals and groups, should be considered inviolably private and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicially approved warrant in relation to a specific threat.
 
 We will repeal in full the [Data Retention and Investigatory Powers Act 2014](http://www.legislation.gov.uk/ukpga/2014/27/crossheading/retention-of-relevant-communications-data/enacted) which is in breach of Article 8 of the European Convention on Human Rights and Article 7 of the European Charter of Fundamental Rights.
 
@@ -33,3 +33,7 @@ ISPs may give users the option to apply content filters on their connections, an
 ## Net Neutrality
 
 Enshrine net neutrality in law, protecting the fundamental principle of the free and open web. Internet Service Providers should treat all network data equally, without restriction or throttling based on the type of content, the content provider, or any other criterion. The appropriate regulatory body (currently OFCOM) would be responsible for enforcing this policy and dealing with breaches.
+
+## Investment In The Net
+
+We will provide grants to organisations that are working on alternative projects to the clearnet, such as i2p, TOR, file-transfer applications such as torrent clients, and decentralised web projects. If these projects are going to be shutdown before completion and it can be determined that it was not due to the failure of the project itself, the rights will be bought, and the code, CAD diagrams, and other materials will be placed in the public domain after formally disclaiming the copyright. This way, progression in network science cannot be hindered by funding and at the expense of innovation and invention.
