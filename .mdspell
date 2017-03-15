@@ -6,9 +6,11 @@ ignored %w{
   anonymise
   Archives'
   artefacts
+  BDSM
   Beeching
   Berne
   Bitcoin
+  brothelkeeping
   BT
   Carta
   CCS
@@ -16,14 +18,17 @@ ignored %w{
   Chagossians
   children's
   citizens'
+  clearnet
   decarbonisation
   decarbonise
   delist
+  destigmatise
   Dhekelia
   driverless
   equalities
   ETCS
   Eurozone
+  everyone's
   Falklanders
   FOIA
   fracking
@@ -74,6 +79,8 @@ ignored %w{
   paywalls
   PKK
   PMSC
+  polyamorous
+  practiced
   practices
   preapprove
   prenegotiate

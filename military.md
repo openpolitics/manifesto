@@ -34,4 +34,4 @@ Giving machines the power to decide who lives and dies on the battlefield is an 
 
 We will lead the UN and other international bodies to create an international treaty, similar to the Geneva Convention, banning the development and use of lethal autonomous weapon systems.
 
-+[^killer-robots]: Campaign to stop killer robots: [http://www.stopkillerrobots.org/the-solution/](http://www.stopkillerrobots.org/the-solution/)
+[^killer-robots]: Campaign to stop killer robots: [http://www.stopkillerrobots.org/the-solution/](http://www.stopkillerrobots.org/the-solution/)
