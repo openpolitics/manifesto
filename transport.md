@@ -50,6 +50,8 @@ Incentivise existing fuelling stations to install hydrogen fuel pumps.
 
 Incentivise research into retrospective modifications to existing vehicles allowing them to run on hydrogen. This would facilitate an easier transition from our dependency on fossil fuels, and encourage the development of new hydrogen based vehicle (which doesn't have the same carbon footprint as the manufacture of lithium ion batteries.)
 
+As the number of electric cars increases, an increasing amount of battery storage ends up being connected to the National Grid. This storage can be used to supply power back into the grid when it's under heavy load, and store up power when there is excess generation capacity. We will incentivise electric car owners who allow their cars to be used as dynamic storage batteries for the grid, and help smooth out variable demand.
+
 ## Railways
 
 Develop a long-term plan for complete electrification of the national rail network, and the replacement of diesel trains with electric multiple-units. This has the benefit of reduced emissions, improved efficiency, quieter and more comfortable trains. Alongside electrification, signalling should be updated to [ETCS](https://en.wikipedia.org/wiki/European_Train_Control_System) level 2 or 3 standard for improved safety and efficiency.
