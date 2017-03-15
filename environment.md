@@ -36,7 +36,7 @@ We will push for increased climate action and leadership within all internationa
 
 ## Home Insulation
 
-It’s widely acknowledged that insulation (e.g. cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
+It's widely acknowledged that insulation (e.g. cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
 
 Whilst many people have taken it upon themselves to install insulation, and there have been some limited local authority programmes, this should be accelerated through a nationwide programme.
 

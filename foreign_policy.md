@@ -63,7 +63,7 @@ We fundamentally believe in self-determination for residents of the British Over
 
 ### Ascension Island
 
-We will conduct a review into the state of democracy and people’s rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^ascension]
+We will conduct a review into the state of democracy and people's rights on Ascension Island. This review will include the right to abode, cementing the powers of the Ascension Island Council and the right to own property.[^ascension]
 
 [^ascension]: *"US and UK accused of 'squeezing life out of' Ascension Island"*, The Guardian, September 11, 2013:  [http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government](http://www.theguardian.com/uk-news/2013/sep/11/ascension-island-population-cut-uk-government)
 
