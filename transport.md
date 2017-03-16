@@ -2,6 +2,12 @@
 title: Transport
 ---
 
+## Removal of Fossil Fuels
+
+No petrol-powered vehicle may be sold or imported for the purposes of resale by businesses that bare a date of manufacture later than the year 2029. 
+
+The reselling of cars present in the UK prior to 2030 by an individual will remain legal and will be discouraged with scrapping incentives.
+
 ## Replace Vehicle Excise Duty and Fuel Duty
 
 'Vehicle Excise Duty' and 'Fuel Duty' will be replaced with an 'Emissions Tax' and 'Road Strengthening Tax' respectively.
