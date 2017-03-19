@@ -42,6 +42,8 @@ Through a series of targeted marketing campaigns and PSA's we would encourage ca
 
 Ridesharing would be promoted through The Job Center for those on low or no workplace income and would utilise services such as Uber as a means of proof for bringing unemployed people into the taxiing profession and as a way to encourage self-employment.
 
+As part of this push, MPs localised near each other would be encouraged to carpool around and on the way to parliament, which would double as a method to encourage cross-party conversation and out-of parliament policy deliberation.
+
 ## Driverless and Automated Vehicles
 
 Work with automobile manufacturers to establish ways of providing infrastructure to support driverless vehicles.
