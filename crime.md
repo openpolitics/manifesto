@@ -60,6 +60,8 @@ A single, secular oath will replace the current options for witnesses in all cou
 
 Specifically outlaw religious courts, such as Sharia Law courts, by banning their operations within and outside the legal system. Support the [One Law for All](http://www.onelawforall.org.uk/) campaign.
 
+Integrate juries into the various magistrate courts, so that everyone, regardless of crime or ability to appeal, may have the right to trial by a jury of their peers.
+
 A review will be carried out into the composition of juries, especially for complex trials.
 
 ## Whistleblowing
