@@ -43,6 +43,8 @@ Instances of abusive, harassing, or otherwise unacceptable behaviour may be repo
 
 [Project maintainers](https://github.com/orgs/openpolitics/teams/core) who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
+Actions taken by the project maintainers under this Code of Conduct will be published publicly, explaining reasons and linking to sources wherever possible, while respecting the confidentiality of reporters as stated above.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
