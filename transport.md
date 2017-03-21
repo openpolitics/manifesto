@@ -6,13 +6,21 @@ title: Transport
 
 No new fossil-fuel powered vehicles may be sold in the UK after 2029.
 
-## Scrap Vehicle Excise Duty
+## Replace Vehicle Excise Duty and Fuel Duty
 
-As Vehicle Excise Duty is associated with vehicle emissions, it seems fairer to tax
-the fuel directly. VED should be scrapped, and fuel duty increased to cover the reduction
-in income. Overall, the tax levied should be lower, due to the removal of the need to administer
-VED, though the tax will fall more heavily on those who use more fuel, and thus create more
-carbon emissions.
+The way our current tax system works is that it assumes that fuel bought at the pumps is going to be used for public road travel. This isn't always true. ‘Red fuel’ or ‘untaxed fuel’ provide some exceptions, but generally speaking if you want to buy petrol then you’re forced to pay a tax to maintain roads, which you might not be wearing down. Meanwhile the general public are taxed variably on emissions - even though emissions are assured from the use of petroleum.
+
+'Vehicle Excise' Duty and 'Fuel Duty' will be replaced with an 'Emissions Tax' and 'Road Strengthening Tax' respectively.
+
+These changes to the titles in the tax system are meant to reflect the given purpose of the tax, making them more understandable to the public; providing greater transparency to them about what they are being taxed for, and some degree of protection against double-taxation also.
+
+The 'Emissions Tax' will be applied at a flat rate at the pumps, and will be based upon typical combustion values in the UK and upon the estimated environmental impact that these gases create.
+
+The 'Road Strengthening Tax' will be applied at a variable rate to vehicles licensed to drive on public roads, and will be based upon vehicle type and weight. Vehicles which are heavy or typically use more of the roads (such as HGVs) will pay a lot of tax for road maintenance. Vehicles which are light or which use less of the roads (such as small family cars, or agricultural vehicles) will pay less tax.
+
+What this should do is bring the cost of fuel down, while however unfortunately bringing the cost of "road tax" up. This could lead to greater evasion and therefore decreased government transport revenue.
+
+The advantage though is that families who could not afford to buy fuel for heating, cooking or travel before would see the cost of fuel come down; as Fuel Duty, a regressive form of taxation (renamed to Emissions Tax), would be reduced.
 
 ## National Infrastructure Organisations
 
