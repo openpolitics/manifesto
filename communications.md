@@ -22,6 +22,10 @@ All communications (whether physical or digital) by individuals and groups, shou
 
 We will repeal in full the [Data Retention and Investigatory Powers Act 2014](http://www.legislation.gov.uk/ukpga/2014/27/crossheading/retention-of-relevant-communications-data/enacted) which is in breach of Article 8 of the European Convention on Human Rights and Article 7 of the European Charter of Fundamental Rights.
 
+We will also repeal in full the Investigatory Powers Act 2016, which mandates that ISPs log all connection records of UK citizens, and allows the government to lie in court about evidence and the manner through which it was gathered.
+
+Additionally, we will repeal the Regulation of Investigatory Powers Act 2000, which mandates that ISPs fit equipment to facilitate surveillance, allows police and other institutions to demand that someone hand over encryption keys or passwords to protected information, and to prevent the existence of interception warrants and any data collected from being revealed in court.
+
 We will oppose any further efforts to introduce blanket retention legislation which compromises the fundamental right to privacy.
 
 ## Censorship
