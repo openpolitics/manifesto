@@ -55,5 +55,7 @@ Examples:
 Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
 ## Mental Health
+
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
+Whilst the NHS remains under government control, the mental health facilities of the NHS will undergo a massive expansion. A notable issue caused by this lack of facilities is the fact that 'Tavistock and Portman' in London is the only Gender Identity Clinic that deals with Trans children and Trans youth in the entirety of the UK, leading to a massive appointment backlog and form of passive cruelty towards those who are unable to reach London in the first place.
