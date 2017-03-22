@@ -31,6 +31,7 @@ Whilst we believe that no non-governmental organisation should be able to assert
 Under new legislation, no classification body will have the ability to make purchases of the film by those under the rated age illegal, nor will shops have the right to prevent the sale of such films to said age range (as we recognise that age is not the sole determinant of maturity), with the exception of pornographic films.
 
 All film classification entities must have ratings (that are not legally binding to the store or customer) relating to:
+
 * the recommended age of the viewer,
 * the environment under the [EMA Green Seal](http://www.green4ema.org/ema-green-seal/) system,
 * female representation (a ranking that increases when a movie passes the [Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test), the ["Mako Mori" test](https://en.wikipedia.org/wiki/Bechdel_test#Derived_tests), has multiple female cast members that affect the plot in a manner that does not merely advance the story for another character, and does not include the trope of the [Ms. Male Character](https://www.youtube.com/watch?v=eYqYLfm1rWA))
