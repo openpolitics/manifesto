@@ -16,6 +16,10 @@ NHS funding will be protected by legislation that binds the Government to commit
 
 The NHS will not deny care to anyone for any reason, regardless of legal status, economic status, or nationality (for further details, see ["Do I Treat This Immigrant?"](http://doitreatthisimmigrant.com/)).
 
+## Alternative Medicine
+
+All "alternative medicine" treatments currently paid for under the NHS will be immediately defunded, subject to proof that the treatment(s) work. As these treatments currently have no scientific evidence in favour of their efficiacy, they should be considered a waste of taxpayer money, given the very real potential that NHS funding is going towards treatments that don't help the patient receiving the treatment.
+
 ## Maternity
 
 A "maternity package" of useful items for newborn babies (similar to [the one offered in Finland](http://www.kela.fi/web/en/maternitypackage)) will be provided free to charge to mothers who register for NHS antenatal care before the end of the fourth month of pregnancy.
