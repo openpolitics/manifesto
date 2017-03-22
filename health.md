@@ -18,7 +18,9 @@ The NHS will not deny care to anyone for any reason, regardless of legal status,
 
 ## Alternative Medicine
 
-All "alternative medicine" treatments currently paid for under the NHS will be immediately defunded, subject to proof that the treatment(s) work. As these treatments currently have no scientific evidence in favour of their efficiacy, they should be considered a waste of taxpayer money, given the very real potential that NHS funding is going towards treatments that don't help the patient receiving the treatment.
+Whilst the NHS remains under the full control of the government (subject to change through our NHS independence policy), all "alternative medicine" treatments (and treatments that have otherwise not been proven to work after being subject to rigorous scientific and medical analysis) currently paid for under the NHS will be immediately defunded, and subject to proof that the treatment(s) work. As these treatments currently have no scientific evidence in favour of their efficiacy, they should be considered a waste of taxpayer money, given the very real potential that NHS funding is going towards treatments that don't help the patient receiving the treatment.
+
+If the NHS is made independant (as per our policy or otherwise), we will then lobby for this to be the case, but will exert no governmental control over the independant organisation.
 
 ## Maternity
 
