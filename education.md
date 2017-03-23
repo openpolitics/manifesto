@@ -30,6 +30,12 @@ Religious education (R.E.) will be replaced by Philosophy and Comparative Religi
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
 
+## Discrimination in Physical Education
+
+Under current law, schools are allowed to discriminate between genders and/or sexes via segregation; we consider this unjustified and discriminatory, and would end this practice. As an optional alternative for schools that insist on segregation, we would propose sporting brackets based on age, and/or height, and/or weight and/or proven strength (for example: this could be proven in rugby by picking exercises that affect major muscle groups and counting repititions of the exercises to form an overall rank). This would be a purely pragmatic option for schools, as these elements play a very real part in things such as contact sports.
+
+Over time, a list will be developed of sports and activities that are allowed and practiced under the name of Physical Education which makes note of which do and don't require the pragmatic exemption, and amendments and bills will be pushed accordingly to adjust the legislation towards the list.
+
 ## School Governance
 
 All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
