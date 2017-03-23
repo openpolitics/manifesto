@@ -44,12 +44,13 @@ People who have contributed to the manifesto are eligible to vote on proposals. 
 
 The simplest way to vote is using the [voting interface](https://votebot.openpolitics.org.uk/proposals). Click on the proposal details to see the change, comment, or cast a vote.
 
-Three vote types are available:
+Four vote types are available:
 
 |vote|symbol|score|
 |--|--|--|
 |Yes|:white_check_mark:|1|
 |No|:negative_squared_cross_mark:|-1|
+|Abstain|:zipper_mouth_face:|0|
 |Block|:no_entry_sign:|-1000|
 {: .table .table-striped}
 
@@ -79,6 +80,7 @@ You can also cast votes directly in the GitHub pull request comments, using the 
 |--|--|--|
 |Yes|:white_check_mark:|`:white_check_mark:`|
 |No|:negative_squared_cross_mark:|`:negative_squared_cross_mark:`|
+|Abstain|:zipper_mouth_face:|`:zipper_mouth_face:`|
 |Block|:no_entry_sign:|`:no_entry_sign:`|
 {: .table .table-striped}
 
