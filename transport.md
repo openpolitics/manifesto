@@ -36,6 +36,14 @@ Put in place a program to bring existing roads up to these new standards.
 
 Consult with leading cycle planning countries on setting down these standards.
 
+## Ridesharing and Carpooling
+
+Through a series of targeted marketing campaigns and PSA's (Public Service Announcements) we would encourage carpooling, especially for parents and those on the same street with a shared workplace, or workplaces in reasonable walking distance of each other.
+
+Ridesharing would be promoted through The Job Center for those on low or no workplace income and would utilise ridesharing services such as (but not limited to, and purely for example) Uber, as a means of proof for bringing unemployed people into the taxiing profession and as a way to encourage self-employment.
+
+As part of this push, MPs localised near each other would be encouraged to carpool around and on the way to parliament, which would double as a method to encourage cross-party conversation and out-of-parliament policy deliberation.
+
 ## Driverless and Automated Vehicles
 
 Work with automobile manufacturers to establish ways of providing infrastructure to support driverless vehicles.
