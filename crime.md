@@ -46,6 +46,8 @@ If not previously established, a 24/7 freephone number will be formally establis
 
 ## Police
 
+We will end the politicisation of police forces that took place with the introduction of Police and Crime Commissioners. Instead, Police Authorities will be re-introduced, comprised of representatives of the police force, local elected representatives, local magistrates and members of the public.
+
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^police-cameras]
 
 [^police-cameras]: *"Wearing a Badge, and a Video Camera"*:, New York Times, April 6, 2013: [http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html](http://www.nytimes.com/2013/04/07/business/wearable-video-cameras-for-police-officers.html)
