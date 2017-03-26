@@ -30,7 +30,16 @@ Remove all government-mandated filtering of Internet content, and make censorshi
 
 ISPs may give users the option to apply content filters on their connections, and even enable them by default if they wish, but filter lists must be openly published, and subject to review and appeal through OFCOM.
 
-The sharing of files will be protected under freedom of speech rights and "piracy" will no longer be illegal. However, recieving any form of compensation, including that which does not amount to a profit, from the file-sharing or copying of content that you do not own the rights to will remain an illegal activity, within the legal exceptions of other legislation, as the sharing of speech and culture does not necessitate the ability to profit from it.
+### Piracy referendums
+
+Every 5 years there will be a referendum on whether piracy should be illegal, legal, or some variation therein. Intial options will include:
+
+1) Complete protection of legal and illegal filesharing under free speech rights
+2) Complete protection of legal and illegal filesharing under free speech rights, with the exception of compensation for doing so
+3) Implementation of "Fair Use" law
+4) Implementation of "Fair Dealing" law (legislation that is currently in place)
+
+This will then be expanded over time as needed. The voting will take place under an STV system with a 75% threshold and mandatory voting, and 3 ranked votes will be assigned per person.
 
 ## Net Neutrality
 
