@@ -22,6 +22,8 @@ Reduce the age of voting at Local Elections (i.e. to non-legislative bodies) to 
 
 The Electoral Commission and local authorities will be given a new duty to ensure that at least one independent public hustings between all the candidates in a general election takes place, and is promoted to all constituents.
 
+We will end the process of "[co-option](https://en.wikipedia.org/wiki/Co-option)" whereby, if there is a vacancy on a local council, a number of electors must call for an election for one to be held. If there are no calls for an election a new councillor is "co-opted" (chosen by the existing councillors) as a replacement. Instead, if a vacancy arises, the returning officer must always arrange a by-election within 28 days of the vacancy arising.
+
 ## Recall of Representatives
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh by-election.
