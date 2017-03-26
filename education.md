@@ -8,7 +8,12 @@ We believe that education is the keystone that makes all other longer-term strat
 
 Funding for Sure Start children's centres is to be restored, and any closed children's centres are to be reopened.
 
-Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation. 
+Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
+
+## State funded, state run
+We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
+
+Academy sponsors will be compensated for any land or property used for educational purposes at market rates, except where that land or property was gifted, or sold at below market rates, to them by any tier of government or government agency.
 
 ## Secular Schools
 
