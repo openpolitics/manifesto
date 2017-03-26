@@ -35,8 +35,11 @@ ISPs may give users the option to apply content filters on their connections, an
 Every 5 years there will be a referendum on whether piracy should be illegal, legal, or some variation therein. Intial options will include:
 
 1) Complete protection of legal and illegal filesharing under free speech rights
+
 2) Complete protection of legal and illegal filesharing under free speech rights, with the exception of compensation for doing so
+
 3) Implementation of "Fair Use" law
+
 4) Implementation of "Fair Dealing" law (legislation that is currently in place)
 
 This will then be expanded over time as needed. The voting will take place under an STV system with a 75% threshold and mandatory voting, and 3 ranked votes will be assigned per person.
