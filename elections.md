@@ -32,7 +32,7 @@ Much apathy is focused around the perceived privilege of the political class. Th
 
 To deter time wasters, the current requirement of 10 nominations from the electorate to obtain candidacy will be increased to 20.
 
-Prospective parliamentary candidates must have a good connection with the constituency they wish to represent. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
+Prospective candidates must have a good connection with the constituency or ward they wish to represent. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
 
 ## Campaigning
 
