@@ -55,7 +55,7 @@ Allowing individuals to be able to gain skills and knowledge, and validate them 
 
 Life long learning also allows for a better informed public, social interaction between communities, and studies suggest that it can also [reduce the risk of dementia](https://www.nia.nih.gov/alzheimers/publication/preventing-alzheimers-disease/search-alzheimers-prevention-strategies). 
 
-Funding to the Open University, and other distance learning courses will be increased to allow for greater uptake and a wider range of courses. Funding will also be targeted not only at degree level qualifications, but also at a cheaper level of continual improvement qualifications. 
+Funding to the Open University, and other distance learning courses will be increased to allow for greater uptake and a wider range of courses. Funding will also be targeted not only at degree level qualifications, but also at a cheaper level of continual improvement qualifications (a significant portion of continual improvement qualifications design to be at least partially peer/community assessed collaborative project based). 
 
 ## Focus on Education
 
