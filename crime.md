@@ -2,19 +2,19 @@
 title: "Crime &amp; Justice"
 ---
 
-## Capital Punishment
+## Capital Punishment BRING BACK HANGING FOR THE MURDER OF PUBLIC SERVANTS, EMERGENCY SERVICES STAFF AND CHILDREN and CASTRATION FOR PAEDOPHILE ABUSERS OF CHILDREN.
 
 We are opposed to the death penalty for all crimes, and would vote against any attempt to reintroduce it. We will also lobby internationally to stop the death penalty in other countries.
 
-## Removal of British Citizenship for Criminal Acts 
+## Removal of British Citizenship for Criminal Acts REMOVE UK CITIZENSHIP FROM NATURALISED CITIZENS WHO COMMIT CRIMINAL OFFENCES OR JOIN ANY ORGANISATION THAT FIGHTS THE UK's ARMED FORCES WHO ARE FIGHTING TO PROTECT CITIZENS OF THE UK, DEPORT ALL ILLEGAL IMMIGRANTS AND SEIZE ALL THEIR UK ASSETS.
 
 We are opposed to the removal of British citizenship as a sentence for committing criminal offences, which may leave individuals stateless. We also reject the suggestion of denying entry into the UK for British citizens suspected of committing offences abroad without having undergone due criminal proceedings. Where reasonable suspicion of such a criminal act occurs it should be investigated for possible prosecution within the criminal justice system. 
 
-## War on Drugs
+## War on Drugs DEPORT ALL ILLEGAL IMMIGRANTS INVOLVED IN DRUG PRODUCTION OR DISTRIBUTION.
 
 We will end the unwinnable war on drugs. Recreational drug use will be decriminalised under a program of regulation. We aim to implement a drug tax on recreational drugs that can be purchased and use the proceeds to enhance rehabilitation services and safe needle exchange. Any fines for improper use (such as use in a public environment) will also go towards this. We hope to see a marked decrease in the number of overdoses, drug-related homelessness, crime, HIV contractions and drug related poverty.
 
-### National Level
+### National Level NAIVE THINKING THERE WILL ALWAYS BE CRIMINALS WHO SEE AN EASIER MORE LUCRATIVE WAY OF LIFE THROUGH CRIME.
 
 At a national level, we aim to legislate on this matter, changing key pieces of primary legislation, while using the ministerial mandate to change secondary legislation and practices in areas such as policing, the NHS, customs and revenue, and education.
 
@@ -22,7 +22,7 @@ This will be staged, and in a managed, harm based strategy advised by the medica
 
 With specific regards to the Psychoactive Substances Act, a more pro-active stance will be taken, with a far more rapid addition of classes of psychoactive substances to the white list. This will allow for individuals to access these substances on a clear informed consent basis. This change will allow communities such as the gay community and the Nootropics community to be free from being criminalised. We will then remove the Psychoactive Substances Act entirely.
 
-### Local Level
+### Local Level STOP ANYONE USING THE NHS WHO DOESN'T HAVE AN NI NUMBER AND PROOF OF ADDRESS AND COUNCIL TAX PAYMENT.
 
 While on a local level primary legislation is somewhat out of reach, there are many ways local councils, NHS bodies, and emergency services, can work on a harm reduction basis.
 
@@ -36,7 +36,7 @@ With the emergency services, the current harm reduction pathway, specifically th
 
 With a comprehensive strategy allowing for strategies at all levels and areas of local government, we hope this will allow us to effect change in a productive manner wherever we are elected.
 
-## War on Sex
+## War on Sex PROTECT ALL CHILDREN FROM EXPOSURE TO PORNOGRAPHY VIA ISP COOPERATION AND CONTROLS.
 
 All regulations on production of pornography in the UK are to be repealed, barring those that would expose the material to those below the age of consent, or allow images of those below the age of consent of a sexual nature into adult stores or anywhere else, or those that prevent those below the age of consent being involved in a sexual or erotic capacity in pornography production or distribution. Pornography that is explicitly stated to be non consensual would be illegal. These regulations criminalise the actions of consenting adults and entire subcultures, such as bans on production of BDSM pornography, and are more fit for a theocratic nation than a democracy.
 
@@ -44,7 +44,7 @@ Sex work is to be completely legalised (barring sex work for those under the age
 
 If not previously established, a 24/7 freephone number will be formally established to report abuse specifically of sex workers and will add to the myriad of techniques currently utilised by law enforcement to avoid this happening. This will contribute to the ongoing battle against human trafficking and abuse of sex workers.
 
-## Police
+## Police ISSUE ALL POLICE WITH STUN GUNS TO ARM THEM AGAINST VIOLENCE.
 
 All frontline Police officers will be equipped with personal cameras for the potential reduction in complaints and violence[^police-cameras]
 
