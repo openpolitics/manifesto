@@ -35,3 +35,7 @@ Repeal the size criteria for housing benefit (commonly known as the "Bedroom Tax
 ## Housing Association
 
 If a privately run housing association seeks to sell properties because they are unprofitable, we believe that the local authority should be able to buy the houses at a preferential rate. The local authority would then use these properties as council houses. We believe that this will help ease the waiting time for council houses, providing security for many families across the country.
+
+## Housing Cooperatives
+
+We would encourage the creation of housing co-operatives by those who own their own apartment(s)/flat(s)/house(s). Housing co-operatives allow the value of direct democracy to (literally) hit home, allow tenants to escape landlord exploitation, and result in the maximization of available living space.
