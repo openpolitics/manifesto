@@ -10,6 +10,8 @@ Funding for Sure Start children's centres is to be restored, and any closed chil
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
+A primary school children will receive free school meals, removing the stigma around only poorer children receiving free meals, and helping to ensure all primary age children are receiving at least one nutritional meal each day.
+
 ## State funded, state run
 We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 
