@@ -29,7 +29,7 @@ We will aim to stop the Brexit process and remain a part of the EU. If the UK do
 
 ### Brexit
 
-In the likely event that the UK does exit the European Union, the UK should remain part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area), and rejoin the [European Free Trade Association](https://en.wikipedia.org/wiki/European_Free_Trade_Association). We wish to maintain the ["four freedoms"[(https://en.wikipedia.org/wiki/European_Single_Market) of the European Single Market; freedom of movement for goods, people, services and capital.
+In the likely event that the UK does exit the European Union, the UK should remain part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area), and rejoin the [European Free Trade Association](https://en.wikipedia.org/wiki/European_Free_Trade_Association). We wish to maintain the four freedoms of the [European Single Market]((https://en.wikipedia.org/wiki/European_Single_Market); freedom of movement for goods, people, services and capital.
 
 EU citizens currently resident in the UK should have a guaranteed right to remain in the country.
 
