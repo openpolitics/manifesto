@@ -18,7 +18,7 @@ We believe that the UK should continue to be a strong voice in the EU. We believ
 
 However, we also know that the EU is in need of major reform to fit the politics of the future. Bureaucracy and waste must be reduced, and counter-productive programmes overhauled or removed.
 
-We will remain a part of the EU, and we will campaign for:
+We will aim to stop the Brexit process and remain a part of the EU. If the UK does remain a member, we will campaign for:
 
   * Major reform or removal of the Common Agricultural Policy, to operate in harmony with the natural environment and remove market distortions.
   * Britain to remain outside of the Eurozone. 
@@ -26,6 +26,12 @@ We will remain a part of the EU, and we will campaign for:
   * Reform of the Emissions Trading Scheme (see [Environment](environment.html) for more details).
   * Increased democratic control of EU institutions, with improved accountability and transparency.
   * A reduction in bureaucracy and inefficiency, e.g. making Brussels the permanent home of the EU and abolish the Strasbourg Parliament.
+
+### Brexit
+
+In the likely event that the UK does exit the European Union, the UK should remain part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area), and rejoin the [European Free Trade Association](https://en.wikipedia.org/wiki/European_Free_Trade_Association). We wish to maintain the ["four freedoms"[(https://en.wikipedia.org/wiki/European_Single_Market) of the European Single Market; freedom of movement for goods, people, services and capital.
+
+EU citizens currently resident in the UK should have a guaranteed right to remain in the country.
 
 ## Arms Trading
 
