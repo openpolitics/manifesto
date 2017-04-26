@@ -63,7 +63,7 @@ In time, the House of Lords will be replaced with a chamber made up of randomly-
 
 Citizens will be selected from the electoral roll and serve a single fixed-length term. A subset of the chamber is then changed each year. Leave from work will be legally protected, and help back to work included in the cost, as well as any reasonable childcare, food and housing costs that would come with the change of occupation. Citizens serving in the House of Citizens will be paid equally to MPs serving in the Commons. Any citizen has the right to reject the request to serve as a member of the House of Citizens for any reason, and it will be illegal to coerce or compel someone into doing so. It will also be illegal to manipulate the process in such a way that the outcome is pre-determined.
 
-####Inelligibility
+#### Inelligibility
 
 Currently serving MPs and/or those in executive parliamentary positions, currently serving judges, and those currently serving in high ranks of the Civil Service, the Church of England, Military, NHS, Fire Service and Police will all be inelligible for this role, to ensure the separation of the various powers that each original role would bring with it from the role of a member of the House of Citizens. Any and all rulers of other countries and, if applicable, the reigning monarch of the UK and family therein will also be inelligible for the role regardless of citizenship status or responsibilites, roles, jobs, status, or privilleges otherwise granted.
 
@@ -91,7 +91,7 @@ British subjects shall pay no fee to enter parliamentary grounds.
 
 ## Royal Secrecy
 
-Fully include of the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
+Fully include the monarchy within the Freedom of Information Act (FOIA), so that the royal household is legally obliged to respond to information requests[^royal-secrecy].
 
 [^royal-secrecy]: *"Campaign against royal secrecy"*, Republic: [https://www.republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy](http://republic.org.uk/what-we-do/current-campaigns/campaign-against-royal-secrecy)
 
