@@ -14,7 +14,7 @@ The constitution could either be created by a citizens' panel, with approval and
 
 Provision for calling a national constitutional convention to alter the constitution should be made in statute law. The law should call a constitutional convention if a super-majority (75%) of members of the Scottish Parliament, the Welsh Assembly, the Northern Ireland Assembly, and the English Grand Committee (if no English Parliament exists) vote for such a convention to be held. In the case one is called, members should be elected on a non-partisan ticket under a proportional electoral system, and it should have free power to make amendments to the constitution.
 
-W believe that any referendums on constitutional change, including treaties, should require the support of a majority of the electorate, not just a majority of voters. This means that abstaining from a vote would effectively be recorded as a vote for the status quo.
+We believe that any referendums on constitutional change, including treaties, should require the support of a majority of the electorate, not just a majority of voters. This means that abstaining from a vote would effectively be recorded as a vote for the status quo.
 
 ## Party Funding
 
