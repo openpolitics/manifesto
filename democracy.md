@@ -49,6 +49,10 @@ In the case that a local area is unable to deal with any issue effectively, ther
 
 We believe in replacing the House of Lords with a more representative chamber. However, there are immediate reforms required and so while we will work to replace the House of Lords, we will apply incremental reform to the Lords before hand to improve our democracy in the meantime. These reforms are outlined below, in the order in which we'll hope to implement them.
 
+### Lords Spiritual
+
+All Lords Spiritual will be immediately removed from their positions as a part of our push towards a governing system where all systems and processes, including the courts and houses of parliament, are institutionally secular, even if individual members are religious.
+
 ### Cease all new appointments
 
 We will immediately end all new appointments to the House of Lords, swiftly ending the undemocratic selection procedure, including [internal by-elections](https://en.m.wikipedia.org/wiki/By-elections_to_the_House_of_Lords).
