@@ -24,7 +24,7 @@ Publishing others' private information such as a physical or electronic address,
 In order to meet the standard and prove something by clear and convincing evidence, a party must prove that it is substantially more likely than not that it is true.
 
 ## Who determines the process?
-The rules of conduct and discourse shall be determined by party members themselves. The responsibility of party leadership begins and ends at authorising the use of such outcomes based on the verdict arrived at by the jury. It must never be the responsibility of party leadership to determine whether conduct is acceptable or not within the public realm, or in other any place.
+The rules of conduct and discourse shall be determined by party members themselves. The responsibility of party leadership begins and ends at authorising the use of such outcomes based on the verdict arrived at by the jury. It must never be the responsibility of party leadership to determine whether conduct is acceptable or not within the public realm, or in any other place.
 
 ## What rights do you posess?
 You have the right to a representative. Representatives will be called upon to volunteer to represent your case. Should no one volunteer to represent you a representative will be called upon based on current availability and random ballot. You may choose to represent yourself, or may choose no representation at all.
