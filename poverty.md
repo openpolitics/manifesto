@@ -2,7 +2,19 @@
 title: Poverty
 ---
 
+
+
 We believe that until poverty is adequately addressed, inequality will continue to increase throughout the United Kingdom. Successive governments have failed to address the causes and some policies have served only to exacerbate the problem.
+
+## Child Poverty
+
+Reinstate the link between annual increases in benefit levels and inflation.
+
+Ensure that support with housing costs for families renting privately rises in line with increases in local rents.
+
+Establish a commission to consider how businesses can ensure that customers on a low income do not face paying the highest prices for goods and services
+
+A commitment to give children safe, state funded homes when the family is consistently demonstrated to be the source of poverty and or abuse.
 
 ## Low Pay and Job Security
 
