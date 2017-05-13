@@ -4,6 +4,10 @@ title: Poverty
 
 We believe that until poverty is adequately addressed, inequality will continue to increase throughout the United Kingdom. Successive governments have failed to address the causes and some policies have served only to exacerbate the problem.
 
+## Child Poverty
+
+......
+
 ## Low Pay and Job Security
 
 To give the public greater financial security we will;
