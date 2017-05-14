@@ -4,9 +4,7 @@ title: Military
 
 ## Nuclear Disarmament
 
-The United Kingdom should take a role as international leader in pursuit of global nuclear disarmament, beginning with a promise to discontinue its own existing nuclear arsenal following any reforms of its conventional forces necessary for the United Kingdom to meet its security needs and international obligations. The United Kingdom should be resolutely opposed to horizontal and vertical nuclear proliferation in all forms and lead by example in pursuit of a world free of nuclear warheads and delivery mechanisms. The UK should follow the [example set by New Zealand](https://en.wikipedia.org/wiki/New_Zealand%27s_nuclear-free_zone) in declaring itself a nuclear arms free zone including its waters. 
-
-
+The United Kingdom has taken a role as the international leader in pursuit of global nuclear disarmament.The United Kingdom should be resolutely opposed to horizontal and vertical nuclear proliferation in all forms and lead by example in pursuit of a world free of nuclear warheads and delivery mechanisms. The UK should encourage European and NATO partners to share nuclear resources as a way of reducing the total number of war heads in existence.
 
 ## Role of UK Armed Forces
 
