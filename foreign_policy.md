@@ -35,7 +35,7 @@ EU citizens currently resident in the UK should have a guaranteed right to remai
 
 ## Arms Trading
 
-Commit to ensuring that no British-built arms are sold to nations that are likely to use those arms against their own people, or to any other agent or third party that may do so.
+Commit to ensuring that no UKoBaNI-built (United Kingdom of Britain and Northern Ireland) or UKoBaNI nationally owned arms are sold to nations that are likely to use those arms against their own people, or to any other agent or third party that may do so.
 
 ## Nuclear Disarmament
 
