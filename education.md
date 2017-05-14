@@ -10,10 +10,6 @@ Funding for Sure Start children's centres is to be restored, and any closed chil
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
-## School Uniform
-Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
-
-
 ## State funded, state run
 We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 
