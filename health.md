@@ -65,3 +65,9 @@ Parking charges in car parks serving NHS facilities will be outlawed. Only in ca
 Increase awareness and education in attempt to remove the stigma surrounding mental health issues, that should be taken just as seriously as physically health issues.
 
 Whilst the NHS remains under government control, the mental health facilities of the NHS will undergo a massive expansion. A notable issue caused by this lack of facilities is the fact that 'Tavistock and Portman' in London is the only Gender Identity Clinic that deals with Trans children and Trans youth in the entirety of the UK, leading to a massive appointment backlog and form of passive cruelty towards those who are unable to reach London in the first place.
+
+## Changing Places
+
+[Changing Places toilets](http://www.changing-places.org/the_campaign/what_are_changing_places_toilets_.aspx) should be installed in all large public places in addition to standard accessible toilets. Changing Places enable  citizens with more severe disabilities, whose needs are not met by standard accessible toilets, to access such public places with dignity. Such venues would include city centres, shopping centres, hospitals, arenas, and so on.[^changing-places].
+
+[^changing-places]: *"What do we want?"*, Changing Places campaign: [http://www.changing-places.org/the_campaign/what_do_we_want_.aspx](http://www.changing-places.org/the_campaign/what_do_we_want_.aspx)
