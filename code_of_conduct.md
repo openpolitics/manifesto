@@ -5,49 +5,34 @@ layout: manifesto_page
 
 # Code of Conduct
 
-## Our Pledge
+## Brief
+This code of conduct aims to detail the nature of improper conduct and explain how the complaints process works.
 
-In the interest of fostering an open and welcoming environment, we as [contributors](https://votebot.openpolitics.org.uk/users) and [maintainers](https://github.com/orgs/openpolitics/teams/core) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Who can file a complaint?
+All have the right to file a complaint regardless of position or status.
 
-## Our Standards
+## Who handles the complaint?
+You will be asked upon the submission of a complaint who you wish to address it to. If a dispute cannot be settled between the relevant parties, then you must address a complaint to the complaints bureau. A complaints jury will determine whether or not your submitted complaint is valid and actionable. Complaints addressed to party leadership regarding other members will be automatically forwarded to the complaints bureau.
 
-Examples of behaviour that contributes to creating a positive environment include:
+## What are the rules for the jury?
+Examples of non-protected speech include:
+Credible threats of physical harm
+Words or imagery that are demonstrable of actual malice
+Publishing others' private information such as a physical or electronic address, without explicit permission
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+## What is the burden of proof required?
+In order to meet the standard and prove something by clear and convincing evidence, a party must prove that it is substantially more likely than not that it is true.
 
-Examples of unacceptable behaviour by participants include:
+## Who determines the process?
+The rules of conduct and discourse shall be determined by party members themselves. The responsibility of party leadership begins and ends at authorising the use of such outcomes based on the verdict arrived at by the jury. It must never be the responsibility of party leadership to determine whether conduct is acceptable or not within the public realm, or in any other place.
 
-* The use of sexualised language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+## What rights do you posess?
+You have the right to a representative. Representatives will be called upon to volunteer to represent your case. Should no one volunteer to represent you a representative will be called upon based on current availability and random ballot. You may choose to represent yourself, or may choose no representation at all.
 
-## Our Responsibilities
+## To Do:
+The nature of the jury is not yet enshrined.
+The right to call upon a witness is not yet enshrined.
+The right to come forward as a witness is not yet enshrined.
+The right to appeal is not yet enshrined.
+The extent of penalties or prosecution guidelines are not yet enshrined.
 
-[Project maintainers](https://github.com/orgs/openpolitics/teams/core) are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
-
-[Project maintainers](https://github.com/orgs/openpolitics/teams/core) have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by [project maintainers](https://github.com/orgs/openpolitics/teams/core).
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project team at [abuse@openpolitics.org.uk](mailto:abuse@openpolitics.org.uk). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The [project team](https://github.com/orgs/openpolitics/teams/core) is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
-
-[Project maintainers](https://github.com/orgs/openpolitics/teams/core) who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
-
-Actions taken by the project maintainers under this Code of Conduct will be published publicly, explaining reasons and linking to sources wherever possible, while respecting the confidentiality of reporters as stated above.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
