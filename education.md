@@ -10,8 +10,12 @@ Funding for Sure Start children's centres is to be restored, and any closed chil
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
 
+We will encourage young people to apply to University when they are ready, rather than committing to an expensive, life changing choice due to convention and expectation.
+
+We will fund this by removing state funding for Further Education for plateaued students. 
+
 ## School Uniform
-Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
+Individual school uniforms for every school will be replaced with a single national uniform.
 
 
 ## State funded, state run
@@ -45,6 +49,8 @@ Under current law, schools are allowed to discriminate between genders and/or se
 
 Over time, a list will be developed of sports and activities that are allowed and practiced under the name of Physical Education which makes note of which do and don't require the pragmatic exemption, and amendments and bills will be pushed accordingly to adjust the legislation towards the list.
 
+Gyms should be provided as an alternative to competitive sports which alienate many students, who simply turn to truancy, undermining the concept of Physical Education.
+
 ## School Governance
 
 All state secondary schools will have an elected students council, and student president. The student president, who will need to be at key stage 4, will represent students on the board of governors.
@@ -72,4 +78,4 @@ We will remove the guidelines[^teachers-and-terrorism] that force teachers to ac
 
 [^teachers-and-terrorism]: *"Teachers forced to act as 'front-line storm troopers' to spy on pupils under guidelines aimed at combating terrorism"*, The Independent, April 6, 2015:  [http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html](http://www.independent.co.uk/news/education/education-news/teachers-forced-to-act-as-frontline-storm-troopers-to-spy-on-pupils-under-guidelines-aimed-at-combating-terrorism-10158043.html)
 
-We will include fiscal education into the national curriculum. This will include personal finances, understanding and paying taxes, understanding loans and debt, and relating fiscal choices to the state of the greater economy.  
+We will expand fiscal education into the national curriculum. This will include personal finances, understanding and paying taxes, understanding loans and debt, and relating fiscal choices to the state of the greater economy. 
