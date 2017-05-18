@@ -28,9 +28,13 @@ We will repeal in full the [Data Retention and Investigatory Powers Act 2014](ht
 
 We will also repeal in full the Investigatory Powers Act 2016, which mandates that ISPs log all connection records of UK citizens, and allows the government to lie in court about evidence and the manner through which it was gathered.
 
+We will limit the use of behavioural data collected as people use services[^behavioural-advertising].  Advertising using such data must be targetted strictly to the content, not the user.  We will introduce a 30 day time limit on storing such behavioural data and people will have the right to opt out of the collection of that data, while continuing to use the services.  We will ban the sale or transfer of behavioural data, including to third-party advertising networks.
+
 Additionally, we will repeal the Regulation of Investigatory Powers Act 2000, which mandates that ISPs fit equipment to facilitate surveillance, allows police and other institutions to demand that someone hand over encryption keys or passwords to protected information, and to prevent the existence of interception warrants and any data collected from being revealed in court.
 
 We will oppose any further efforts to introduce blanket retention legislation which compromises the fundamental right to privacy.
+
+[^behavioural-advertising]: *"Notes from an Emergency"*, Maciej Ceglowski, May 10, 2017: [http://idlewords.com/talks/notes_from_an_emergency.htm](http://idlewords.com/talks/notes_from_an_emergency.htm)
 
 ## Censorship
 
