@@ -67,7 +67,3 @@ By implementing shared rights to parental leave, couples raising young children 
 Our entire society and economy is centred around the principle of continued economic growth driven by ever increasing consumption. Everyone in society is put under pressure to put in more hours at work, to aim for the next promotion, to get a better salary, to get a bigger house and fill it with more things - despite the fact this rarely leads to increased happiness or contentment. We feel pressure to do so because it's expected of us, because of peer and family pressure, and because of the constant stream of advertising on the web, TV, radio and billboards. The Government encourage this in order to grow the economy forever more, whilst ignoring the fact it creates feelings of peer inadequacy, is causing chronic physical and mental exhaustion in our workforce, is fuelling an obesity crisis, and is hugely damaging to our natural environment.
 
 We recognise that this is hugely damaging, and to take an alternative approach that would provide a sustainable economy with a greater emphasis on physical and mental well-being, to pursue careers that focuses on self-development and professional contentment, and to steer society away from consumerism.
-
-## Egalitarianism
-
-Particularly between men and women should be promoted

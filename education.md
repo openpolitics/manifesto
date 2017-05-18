@@ -12,6 +12,9 @@ Education should be freely available to all to first degree level or equivalent.
 
 All primary school children will receive free school meals, removing the stigma around only poorer children receiving free meals, and helping to ensure all primary age children are receiving at least one nutritional meal each day.
 
+## School Uniform
+Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
+
 ## State funded, state run
 We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 

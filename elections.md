@@ -36,6 +36,8 @@ To deter time wasters, the current requirement of 10 nominations from the electo
 
 Prospective candidates must have a good connection with the constituency or ward they wish to represent. This enforces the connection between representatives and their constituents and helps to disqualify candidates that are "flown in" by the party ahead of local choices.
 
+We will end the practice of the speaker's constituents being denied representation and a lack of choice in elections. The positions of speaker and deputy speaker will not be filled by MPs, they will be jobs advertised, filled and salaried just like any other.
+
 ## Campaigning
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  

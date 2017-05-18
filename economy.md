@@ -50,9 +50,9 @@ Close down all tax havens under British jurisdiction. This means reforming tax r
 
 In parallel, work at an international level to get rid of tax havens outside British jurisdiction, and close international loopholes such as the "Double Irish Dutch Sandwich".
 
-## Social Security
+## Basic Income
 
-We will support research into a [universal basic income](https://en.wikipedia.org/wiki/Basic_income) and its effects on society and the economy, with the aim of eradicating poverty and providing a basic standard of living for all.
+As more jobs, both skilled and unskilled, become automated we will introduce a [universal basic income](https://en.wikipedia.org/wiki/Basic_income), with the aim of eradicating poverty and providing a basic standard of living for all in a future where permanent employment is less necessary. In the near term, we will support research into such a scheme and its effects on society and the economy, and run pilot projects similar to those [taking place in other countries](https://en.wikipedia.org/wiki/Basic_income_pilots).
 
 ## Housing
 

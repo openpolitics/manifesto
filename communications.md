@@ -16,6 +16,10 @@ We will require all UK Internet Service Providers to provide IPv6 connections to
 
 [^ipv6]: *"Ofcom in denial over UK IPv6 failure"*, Oxford Information Labs, December 11, 2014: [https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/](https://oxil.uk/ofcom-in-denial-over-uk-ipv6-failure/)
 
+## Security
+
+It is essential to protect the security of networked communications, for the good of citizens and businesses. Legislating against secure encryption is not only undesirable, but unworkable (not to mention mathematically impossible). We will remove any existing legislation requiring the creation of "backdoors" into encryption tools or technology platforms, in order to protect citizen and business data.
+
 ## Surveillance
 
 All communications (whether physical or digital) by individuals and groups, should be considered inviolably private and free from state surveillance (or surveillance by agents or companies working on behalf of, or at the behest of, the State) without a judicially approved warrant in relation to a specific threat.
