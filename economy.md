@@ -84,6 +84,12 @@ All private companies who receive public money must be subject to the same trans
 
 [^secret-contracts]: *"Stop Secret Contracts"*: [http://stopsecretcontracts.org/](http://stopsecretcontracts.org/)
 
+Any government contract that can only be successfully managed by another nation state or a private firm with majority state ownership could be retained, developed, administered and controlled by the UK government, until such a time as a viable private alternative becomes available.
+
+Any government contract that has been successfully tendered can be put on hiatus if it is found that the successful firm has become majority or wholly state owned. This will run until the either: 1) the firm returns to majority private ownership, 2) the tenure of the contract elapses. Should the contract elapse the government has the right to re-tender the asset.
+
+At completion of a government contract, should the asset be in proper working order to be sold to the private sector, the UK government must never knowingly undersell the asset.
+
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
