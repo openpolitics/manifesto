@@ -16,7 +16,7 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
+The minimum wage should be set to the same value as the living wage (currently £15,970.50 based on 252 working days of 7.5 hours per day at £8.45 outside London)[London: £9.75/h, so £18,427.50/year], and automatically adjusted in line with that figure.
 
 ## Taxation
 
@@ -38,7 +38,7 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
 #### Remove Tampon Tax
-Tampons should not be considered a luxury item and should be considered a necessity 
+Tampons should not be considered a luxury item and should be considered a necessity (other basic hygiene products too)(thinking of toilet paper,soap,shampoo,toothbrush,toothpaste)
 
 ### Financial Transaction Tax
 
@@ -101,4 +101,4 @@ information to the public in a similar manner as the property price paid data se
 requirement to register land option agreements, transactions and prices."
 
 ## Ownership
-When you buy something, it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
+When you buy something (human-made), it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
