@@ -26,6 +26,8 @@ Tax laws and the tax system must be simplified. Much tax avoidance happens becau
 
 As a general rule of thumb, tax policy should focus on simple direct taxation (such as income tax, corporation tax and land value tax) for the bulk of revenue raising, and use minimal indirect taxes to discourage certain activities (such as fossil fuel use, drug use, and so on).
 
+Enable greater decentralisation of taxation by enabling local authorities to set tax rates according to local needs, keep those revenues and spend them according to local need. 
+
 ### Income Tax
 
 The personal income tax allowance will be set at the level of a full time living wage and will rise in line with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
