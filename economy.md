@@ -16,7 +16,7 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage (currently £15,970.50 based on 252 working days of 7.5 hours per day at £8.45 outside London)[London: £9.75/h, so £18,427.50/year], and automatically adjusted in line with that figure.
+The minimum wage should be set to the same value as the living wage (as of May 2017, £15,970.50 based on 252 working days of 7.5 hours per day at £8.45 outside London)[London: £9.75/h, so £18,427.50/year], and automatically adjusted in line with that figure.
 
 ## Taxation
 
