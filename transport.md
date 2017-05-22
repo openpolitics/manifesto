@@ -72,6 +72,9 @@ Investigate feasibility of building a high speed rail network that connects our 
 
 Examine which areas of the United Kingdom were most detrimentally affected by the changes in the [Beeching Reports](https://en.wikipedia.org/wiki/Beeching_cuts), and whether it would be economically feasible to bring back any formerly established railways.
 
+Introduce true/genuine competition by allowing multiple operators on the same routes and replace the series of monopolies that currently exists. Operating licenses could be granted to companies operating at the level of single train (or even carriage) so that communities  can act to better serve local needs. 
+
+
 ## Bus
 
 Promote efficient use of road space in towns and cities by allocating road space to bus lanes, encouraging the creation of a network of frequent bus routes.
