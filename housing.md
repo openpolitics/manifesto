@@ -41,8 +41,10 @@ If a privately run housing association seeks to sell properties because they are
 We would encourage the creation of housing co-operatives by those who own their own apartment(s)/flat(s)/house(s). Housing co-operatives allow the value of direct democracy to (literally) hit home, allow tenants to escape landlord exploitation, and result in the maximization of available living space.
 
 ## House Building
-Invert the current planning regime i.e. planning is automatically granted unless the Council can demonstrate within 8 weeks that the proposal contravenes policies (local or national) and/or building regulations.
+Update the current planning regime such that:
+a) planning is automatically granted unless the Council can demonstrate within 8 weeks that the proposal contravenes policies (local or national) and/or building regulations
+b) any changes to local planning policies would require full public consultation. 
 
-Stimulate innovation and creative design by removing the requirement that new builds are "in keeping" with the local area, unless in direct line of sight with a listed building
+Stimulate innovation and creative design by removing the requirement that new builds are "in keeping" with the local area, unless in direct line of sight with a listed building.
 
 Improve the productivity of new builds by facilitating the introduction of pre-manufactured units. Primarily to be achieved through underwriting mortgages provided by private lenders. [The lack of available lending is currently the biggest obstacle to wider adoption. Lending is restricted because of the bank's fear as to the long-term viability of their collateral - and this will not change until a statistically valid sample is available.]. Barring calamitous accidents, this would effectively be tax neutral for a government - and potentially tax positive by achieving a greater number of sales (and therefore stamp duty) through greater availability of housing stock within the lifetime of a parliament.
