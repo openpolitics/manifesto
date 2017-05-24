@@ -88,5 +88,5 @@ You can also cast votes directly in the GitHub pull request comments, using the 
 
 * [GitHub Democracy](https://floppy.org.uk/blog/2014/10/13/github-democracy/) - James' blog post with more about this process
 * [General GitHub documentation](http://help.github.com/)
-* [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
+* [GitHub pull request documentation](https://help.github.com/articles/about-pull-requests/)
 * [Markdown syntax reference](http://en.support.wordpress.com/markdown-quick-reference/)
