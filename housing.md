@@ -38,4 +38,4 @@ If a privately run housing association seeks to sell properties because they are
 
 ## Housing Cooperatives
 
-We would encourage the creation of housing co-operatives by those who own their own apartment(s)/flat(s)/house(s). Housing co-operatives allow the value of direct democracy to (literally) hit home, allow tenants to escape landlord exploitation, and result in the maximization of available living space.
+We would encourage the creation of housing co-operatives by those who own their own apartment(s)/flat(s)/house(s). Housing co-operatives allow the value of direct democracy to (literally) hit home, allow tenants to escape landlord exploitation, and result in the maximisation of available living space.
