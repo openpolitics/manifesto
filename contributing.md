@@ -9,7 +9,7 @@ This project is an open collaborative space, based on open source principles. Th
 
 ## Code of Conduct
 
-Firstly, this project has a [code of conduct](code_of_conduct.html). In the interest of fostering an open and welcoming environment, we as [contributors](https://votebot.openpolitics.org.uk/users) and [maintainers](https://github.com/orgs/openpolitics/teams/core) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](code_of_conduct.html) for the full policy, and to see what is expected of you as a contributor.
+Firstly, this project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of fostering an open and welcoming environment, we as [contributors](https://votebot.openpolitics.org.uk/users) and [maintainers](https://github.com/orgs/openpolitics/teams/core) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](CODE_OF_CONDUCT.html) for the full policy, and to see what is expected of you as a contributor.
 
 ## The Rules
 
@@ -87,6 +87,6 @@ You can also cast votes directly in the GitHub pull request comments, using the 
 ## Help
 
 * [GitHub Democracy](https://floppy.org.uk/blog/2014/10/13/github-democracy/) - James' blog post with more about this process
-* [General GitHub documentation](http://help.github.com/)
+* [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/about-pull-requests/)
-* [Markdown syntax reference](http://en.support.wordpress.com/markdown-quick-reference/)
+* [Markdown syntax reference](https://en.support.wordpress.com/markdown-quick-reference/)
