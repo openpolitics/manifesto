@@ -38,7 +38,7 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
 #### Remove Tampon Tax
-Tampons should not be considered a luxury item and should be considered a necessity (& other basic hygiene products too) (thinking of toilet paper, soap, shampoo, toothbrush, toothpaste, and why not deodorant? )
+Tampons should not be considered a luxury item and also other basic hygiene products (toilet paper, soap, shampoo, toothbrush, toothpaste, and why not deodorant?) should be considered a necessity that it is of public health interest to not make VATable, or with a nil-rate VAT.
 
 ### Financial Transaction Tax
 
