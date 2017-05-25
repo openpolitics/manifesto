@@ -71,9 +71,9 @@ Adopt Land Value Taxation (LVT)[^lvt], a charge on the rental value of land not 
 Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasibility and fairness of calculating them both in the same way:
 either
 1) personal income tax being revised and only calculated after household costs have been deducted
-(i.e. taxing household surplus, after taxes, payments for services provided to the public, energy, utilities, not neglecting to include legal obligations, such as car insurances & MOT,
-+ other costs that are economic are rents they have to pay out, such as the cost to live near where they work + repayments of debts)
-[on the basis that most jobs require to get to the workplace, more than half the adults that could work do not have a job close where they are, or would not if they would need to get another job]
+(i.e. taxing household surplus, after taxes, payments for services provided to the public, energy, utilities, not neglecting to include legal obligations, such as car insurances & MOT & cost of telecomunications,
++ other costs that are economic rents they have to pay out, such as the cost to live near where they work + repayments of debts)
+[on the basis that most jobs require to get to the workplace, more than half the adults that could work, do not have a job close to where they are, or would not if they would need to get another job]
 + any cost of public services such as transport, & health necessities, prescriptions, dental, optics, audition;
 or
 2) corporation tax being calculated on the basis of revenue alone
