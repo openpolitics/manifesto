@@ -34,11 +34,9 @@ Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-asse
 
 The rate of Asset Tax for individuals will be harmonised with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
-### VAT
-Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
+### Replacement of VAT with a Luxury Goods Tax
 
-#### Remove Tampon Tax
-Tampons should not be considered a luxury item and should be considered a necessity 
+All goods categorised as non-critical, non-staple and non-utilitarian will incur a luxury goods tax. All other goods are to receive exemptions. For example: beer, chocolate, furniture, basic data retrieval and internet services, etc will be exempt from Luxury Goods Tax. However for the purposes of this tax, modes of transportation shall be categorised as a luxury good.
 
 ### Financial Transaction Tax
 
