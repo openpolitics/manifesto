@@ -36,7 +36,7 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 
 ### Replacement of VAT with a Luxury Goods Tax
 
-All goods categorised as non-critical, non-staple and non-utilitarian will incur a luxury goods tax. All other goods are to receive exemptions. For example: beer, chocolate, furniture, basic data retrieval and internet services, etc will be exempt from Luxury Goods Tax. However for the purposes of this tax, modes of transportation shall be categorised as a luxury good.
+All goods categorised as non-critical, non-staple and non-utilitarian will incur a luxury goods tax. All other goods are to receive exemptions. For example: beer, chocolate, furniture, basic data retrieval and internet services, etc will be exempt from Luxury Goods Tax. However for the purposes of this tax, tobacco & modes of transportation shall be categorised as luxury goods.
 
 ### Financial Transaction Tax
 
