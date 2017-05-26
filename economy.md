@@ -101,4 +101,4 @@ information to the public in a similar manner as the property price paid data se
 requirement to register land option agreements, transactions and prices."
 
 ## Ownership
-When you buy something, it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
+When you buy something (human-made), it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
