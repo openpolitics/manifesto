@@ -40,7 +40,7 @@ We will end the practice of the speaker's constituents being denied representati
 
 #**Limited Term in Ofiice**#
 
-All elected representatives will serve no more than two terms and may not stand for reelection for ten years after the dissolution if the last parliament they serve in.
+All elected representatives will serve no more than two terms and may not stand for re-election for ten years after the dissolution of the last parliament they serve in.
 
 ## Campaigning
 
