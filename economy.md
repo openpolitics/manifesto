@@ -84,6 +84,13 @@ All private companies who receive public money must be subject to the same trans
 
 [^secret-contracts]: *"Stop Secret Contracts"*: [http://stopsecretcontracts.org/](http://stopsecretcontracts.org/)
 
+Stimulate innovation on the demand side by requiring that 5% of Government Procurement comes from companies meeting 2 of the following 3 criteria:
+	* Fewer than 20 employees
+	* Established within the last 3 years
+	* A spin-out of UK University technology
+
+
+
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
