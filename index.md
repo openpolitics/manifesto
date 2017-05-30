@@ -14,7 +14,7 @@ We believe that government should be:
 
 We believe that individuals should:
 
-* Be treated equally by the law, regardless of gender identity, sex, romantic orientation, sexual orientation, ethnicity, race, perceived ethnicity and/or race, age, religious and/or spiritual belief, occupation (current or previous), status of union membership (including the type of union and what union), marital status, or disability.
+* Be treated equally by the law, regardless of gender identity, sex, romantic orientation, sexual orientation, ethnicity, race, perceived ethnicity and/or race, age, religious and/or spiritual belief, occupation (current or previous), status of union membership (including the type of union and what union), marital status, beer consumption, home game attendance, nose hair length, quietness, loudness, lack of interest in handbags, computer game high-score, using the last bacon rasher, slouching, gym or no gym membership, not caring about some scene out of the lion king, putting ones foot in it, snoring, toilet seat orientation, belief, or disability.
 * Be free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
 * Enjoy a fundamental right to privacy from the state or their agents.
 
