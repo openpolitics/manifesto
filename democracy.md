@@ -71,6 +71,9 @@ Citizens will be selected from the electoral roll and serve a single fixed-lengt
 
 Currently serving MPs and/or those in executive parliamentary positions, currently serving judges, and those currently serving in high ranks of the Civil Service, the Church of England, Military, NHS, Fire Service and Police will all be ineligible for this role, to ensure the separation of the various powers that each original role would bring with it from the role of a member of the House of Citizens. Any and all rulers of other countries and, if applicable, the reigning monarch of the UK and family therein will also be ineligible for the role regardless of citizenship status or responsibilities, roles, jobs, status, or privileges otherwise granted.
 
+### Minister appointments
+Until the House of Lords is abolished government ministers can only be appointed from the House of Commons.
+
 ## MPs pay and expenses
 
 MP salaries should be linked to other public sector wages, and should rise and fall with them. We propose that this should be set as a multiple of the median public sector wage. If current wage levels are taken as a starting point, the multiplier would be roughly 2.5, but the precise figure should be decided by an independent panel of citizens when the legislation is prepared. Other salaries (for instance, for ministers) would also be linked to public sector wages in the same way.
