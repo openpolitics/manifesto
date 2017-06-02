@@ -11,6 +11,11 @@ To give the public greater financial security we will;
 * [Make the minimum wage a living wage](economy.html)
 * [Consider introducing a basic income to lift everyone out of poverty](economy.html)
 
+## Child Poverty
+
+In order to work towards ending child poverty we will ensure that....
+
+
 ## Government Action
 
 The Office for Budget Responsibility will be given a new role in accessing and forecasting levels of poverty, while the Social Mobility and Child Poverty Commission will have it's remit extended to the whole of the UK to more effectively hold the government to account[^rowntree-poverty].
