@@ -16,7 +16,9 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage (currently £15,970.50 based on 252 working days of 7.5 hours per day at £8.45 outside London), [London: £9.75/h, so £18,427.50/year], and automatically adjusted in line with that figure.
+The minimum wage should be set to the same value as the living wage[^living-wage], and should be automatically adjusted in line with that figure.
+
+[^living-wage]: As of May 2017: £15,970.50 (£8.45 per hour) outside London,  £18,427.50 (£9.75 per hour) in London. Based on 252 working days of 7.5 hours each.
 
 ## Taxation
 
@@ -40,7 +42,10 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
 #### Remove Tampon Tax
-Tampons should not be considered a luxury item and also other basic hygiene products (toilet paper, soap, shampoo, toothbrush, toothpaste, and why not deodorant?) should be considered a necessity that it is of public health interest to not make VATable, or with a nil-rate VAT.
+
+Tampons and other basic hygiene products[^hygiene-products] should not be considered luxury items for tax purposes and should not be subject to VAT, in the interests of public health.
+
+[^hygiene-products]: e.g. toilet paper, soap, shampoo, toothbrushes, toothpaste, and perhaps deodorant.
 
 ### Financial Transaction Tax
 
@@ -87,11 +92,10 @@ All private companies who receive public money must be subject to the same trans
 [^secret-contracts]: *"Stop Secret Contracts"*: [http://stopsecretcontracts.org/](http://stopsecretcontracts.org/)
 
 Stimulate innovation on the demand side by requiring that 5% of Government Procurement comes from companies meeting 2 of the following 3 criteria:
-	* Fewer than 20 employees
-	* Established within the last 3 years
-	* A spin-out of UK University technology
 
-
+  * Fewer than 20 employees
+  * Established within the last 3 years
+  * A spin-out of UK University technology
 
 ## Public Sector
 
