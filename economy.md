@@ -36,6 +36,10 @@ Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-asse
 
 The rate of Asset Tax for individuals will be harmonised with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
 
+###Council Tax
+
+Council Tax reform is essential. This tax should be progressive in nature.
+
 ### VAT
 Investigate possible reforms to the way VAT is applied to goods and services with a view to making it less regressive and, ultimately, to remove the poorest from having to pay entirely. This may require renegotiating our obligations to the EU, which makes VAT compulsory for all member states.
 
