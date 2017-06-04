@@ -6,6 +6,12 @@ We believe that education is the keystone that makes all other longer-term strat
 
 ## Funding
 
+Our schools must be funded properly. We will halt any planned school funding cuts, and introduce a so-called triple lock for investment in state schools, where their annual funding must increase at whichever is greater of 
+
+* the rate of inflation
+* average wages
+* 2.5%
+
 Funding for Sure Start children's centres is to be restored, and any closed children's centres are to be reopened.
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
