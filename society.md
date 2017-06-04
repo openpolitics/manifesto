@@ -40,6 +40,13 @@ We propose a system that will allow employers to seek the best and brightest fro
 
 We also wish to ensure the United Kingdom remains committed to fulfilling its international obligations as a safe haven for anyone suffering, or at risk of suffering, persecution for their political or religious views, or because of their actual or perceived race, gender or sexual orientation.
 
+## State Pensions
+
+Remove the "triple lock" on state pensions which guarantees a minimum rise of 2.5% per annum, and instead use a "double lock", where state pensions must rise at least in line with at whichever is the greatest of:
+
+* inflation
+* average wages
+
 ## State Honours
 
 The state should be able to honour deceased individuals in ways that the current Honours System does not allow (e.g. remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
