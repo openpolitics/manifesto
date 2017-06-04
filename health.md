@@ -12,7 +12,7 @@ In order to support every citizen's basic right to medical care and health servi
 
 Politicians cannot be trusted with the NHS. We will make the NHS independent, governed by a constitution created by a citizen-led constitutional convention.
 
-NHS funding will be protected by a so-called triple lock, where annual funding must increase at whichever is greater of
+NHS funding will be protected by a so-called triple lock, where annual funding must increase at least at whichever is greater of:
 
 * the rate of inflation
 * average wages
