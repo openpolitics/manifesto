@@ -132,3 +132,6 @@ We will dissolve the City of London Police and bring the role of policing the Ci
 Abolish the City Minister position, ending the privileged position of the City of London to influence policy at the expense of the wider public.
 
 To dampen the influence of the City of London in the legislative process, we will remove the City Remembrancer from the floor of the House of Commons and end the Remembrancer's privileges to view legislation during the drafting process. Although granting these permissions is under the control of the Speaker, legislation should be enacted to ban the Remembrancer from resuming these permissions.
+
+##  MPs for overseas constituencies
+Introduce regional representation for overseas citizens into the House of Commons. At least one MP per continent would be a great place to start and would help give a voice to the 8% of British citizens living overseas.
