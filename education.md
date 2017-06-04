@@ -6,7 +6,7 @@ We believe that education is the keystone that makes all other longer-term strat
 
 ## Funding
 
-Our schools must be funded properly. We will halt any planned school funding cuts, and introduce a so-called triple lock for investment in state schools, where their annual funding must increase at whichever is greater of 
+Our schools must be funded properly. We will halt any planned school funding cuts, and introduce a so-called triple lock for investment in state schools, where their annual funding must increase at least at whichever is greater of:
 
 * the rate of inflation
 * average wages
