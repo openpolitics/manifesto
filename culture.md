@@ -21,3 +21,11 @@ Encourage the Advertising Standards Authority to tighten regulations around the 
 ## Media Retractions
 
 Media outlet retractions should mirror the original article. This covers font size, word count, page space and positioning within the document. If a media outlet does not follow this it will receive a fine from Independent Press Standards Organisation (IPSO).
+
+## The BBC
+
+The TV licence should be scrapped in favour of general taxation to provide the budgetary requirements of the organisation.
+
+The budget of the BBC, plus general management, should be kept independant of Government, so there can be no interference.
+
+By ensuring emphasis is given to the original aims of the BBC (that is, to provide quality programmes of the like that you wouldn't get on commercial channels) and of bringing forward new talent, budgets should be kept to a minimum, through a reduction in TV channels and radio stations and by less emphasis on established but expensive TV personalities.
