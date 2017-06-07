@@ -58,7 +58,7 @@ Examples:
 
 ## Parking Charges
 
-Parking charges in car parks serving NHS facilities will be outlawed. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
+Parking charges in car parks serving NHS facilities will be outlawed for patients or visitors to the facilities. Only in cases where there is a serious, demonstrable abuse of parking by motorists not using the facilities will any regimes be permitted to curb such abuse, but these must never include a parking charge.
 
 ## Mental Health
 
