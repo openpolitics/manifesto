@@ -37,6 +37,8 @@ We will push for increased climate action and leadership within all internationa
 ## Flooding
 We will ban building on floodplains unless the properties are designed with integrated flood protection systems that offer improved protection to not just the new builds, but existing properties in the area.
 
+We will ensure that insurance payouts due to flood damage will be used for changes to the prpoerty to ensure any future flooding has a negligable impact.
+
 ## Home Insulation
 
 It's widely acknowledged that insulation (e.g. cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
