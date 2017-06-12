@@ -6,6 +6,12 @@ title: "Crime &amp; Justice"
 
 We are opposed to the death penalty for all crimes, and would vote against any attempt to reintroduce it. We will also lobby internationally to stop the death penalty in other countries.
 
+## Rape Law
+
+Currently, UK rape legislation specifies PIV (penis-in-vagina) sex with a male perpetrator, or female or male perpetrator committing an act of non-consensual penetration. All other crimes commonly considered rape in society are dealt with under sexual assault due to its broad definition. We believe that this discriminates against LGBTQIAP+ people and the male sex (and those who otherwise posses a penis) in an unjustified manner, and thus seek to reform it. Under new legislation, we will have it encompass oral sex, PIV, all common forms of sex that can be performed by 2 women, all common forms of sex that can be performed by two men, and forced envelopment (female on male rape), with the condition that all of the previously mentioned are non consensual under the terms of consent currently set out in rape law, which we would preserve.
+
+We would also conduct or commission a review of all existing help both governmental and otherwise for victims of rape under the new definition, and the act on the deficiencies and discrimination, or lack thereof, found in the resulting study.
+
 ## Removal of British Citizenship for Criminal Acts 
 
 We are opposed to the removal of British citizenship as a sentence for committing criminal offences, which may leave individuals stateless. We also reject the suggestion of denying entry into the UK for British citizens suspected of committing offences abroad without having undergone due criminal proceedings. Where reasonable suspicion of such a criminal act occurs it should be investigated for possible prosecution within the criminal justice system. 
