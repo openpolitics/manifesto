@@ -44,6 +44,14 @@ Sex work is to be completely legalised (barring sex work for those under the age
 
 If not previously established, a 24/7 freephone number will be formally established to report abuse specifically of sex workers and will add to the myriad of techniques currently utilised by law enforcement to avoid this happening. This will contribute to the ongoing battle against human trafficking and abuse of sex workers.
 
+## War on Weapons
+
+We will recognise the god given (or natural law) right to proportionate self-defense and legalise the carriage of non-lethal weaponry, with an exception of within government property.
+
+We will repeal legislation that prohibits the marketing and sale of weapons online, citing the ineffective result of prohibition and the disadvantage placed upon UK-based retailers that operate in an online capacity.
+
+We will legalise the sale and importation of weapons that were arbitrarily prohibited in previous Criminal Justice Acts, including: nunchucks, butterfly knives, samurai swords, hand claws, shuriken, sickle-cords, etc.
+
 ## Police
 
 We will end the politicisation of police forces that took place with the introduction of Police and Crime Commissioners. Instead, Police Authorities will be re-introduced, comprised of representatives of the police force, local elected representatives, local magistrates and members of the public.
