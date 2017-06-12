@@ -54,6 +54,9 @@ The Electoral Commission should record all campaign materials produced by politi
 
 Given each EU member country has the right to select the electoral system they use to elect their own MEPs, the Open Party List system (using the "most-open" method) will also be used for elections to the European Parliament.
 
+## Overseas Voters
+Change the 15 year restriction for overseas citizens to a vote for life. Allowing british citizens who care about what happens in the UK, and whose rights abroad are dependent on their citizenship, to have a say in UK democracy.
+
 ## Democracy Research
 
 Investigate the feasibility of direct digital democracy - using online tools to gradually replace representative democracy with increased direct participation in the legislative process by all electors.
