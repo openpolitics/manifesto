@@ -40,6 +40,10 @@ Religious education (R.E.) will be replaced by Philosophy and Comparative Religi
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
 
+## Private Schools
+
+We will remove the charitable status from private schools, and make fees subject to VAT, as private schooling is most certainly a luxury.
+
 ## Discrimination in Physical Education
 
 Under current law, schools are allowed to discriminate between genders and/or sexes via segregation; we consider this unjustified and discriminatory, and would end this practice. As an optional alternative for schools that insist on segregation, we would propose sporting brackets based on age, and/or height, and/or weight and/or proven strength (for example: this could be proven in rugby by picking exercises that affect major muscle groups and counting repetitions of the exercises to form an overall rank). This would be a purely pragmatic option for schools, as these elements play a very real part in things such as contact sports.
