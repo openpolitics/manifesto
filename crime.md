@@ -46,7 +46,7 @@ If not previously established, a 24/7 freephone number will be formally establis
 
 ## War on Weapons
 
-We will recognise the god given (or natural law) right to proportionate self-defense and legalise the carriage of non-lethal weaponry, with an exception of within government property.
+We will recognise the god given (or natural law) right to proportionate self-defense and legalise the carriage of non-lethal weaponry, with the exception of within government property.
 
 We will repeal legislation that prohibits the marketing and sale of weapons online, citing the ineffective result of prohibition and the disadvantage placed upon UK-based retailers that operate in an online capacity.
 
