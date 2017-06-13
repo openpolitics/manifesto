@@ -38,6 +38,8 @@ Prospective candidates must have a good connection with the constituency or ward
 
 We will end the practice of the speaker's constituents being denied representation and a lack of choice in elections. The positions of speaker and deputy speaker will not be filled by MPs, they will be jobs advertised, filled and salaried just like any other.
 
+No party leader, and therefore prospective PM, can also stand as an MP. All constituents should be represented fully by their representative. This would allow party leaders to focus on leading their respective party, whilst also allowing full focus on the role of PM. Any MP who wants to become party leader must resign from their role as MP as a matter of course and trigger a bye-election. During campaigning, their salary will be paid by the respective party, and if successful at election, their salary will be paid for by the state.
+
 ## Campaigning
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
