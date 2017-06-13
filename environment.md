@@ -37,7 +37,7 @@ We will push for increased climate action and leadership within all internationa
 ## Flooding
 We will ban building on floodplains unless the properties are designed with integrated flood protection systems that offer improved protection to not just the new builds, but existing properties in the area.
 
-We will ensure that insurance payouts due to flood damage will be used for changes to the prpoerty to ensure any future flooding has a negligable impact.
+We will ensure that any individual insurance payouts due to flood damage will be used for changes to the property that ensure any future flooding to said property has a negligable impact.
 
 ## Home Insulation
 
@@ -56,6 +56,10 @@ The target should be that at least 95% of residential buildings should have adeq
 ## Balloon & Sky Lantern releases
 
 Balloon release (even using supposedly biodegradable latex balloons) harms wildlife. Sky (or "Chinese") lanterns start fires. We will seek to have both made illegal, and to have that law enforced.
+
+##Litter
+
+A minimum £20 on the spot fine will be enforced nationally by local authorities and police for littering. £20 will be for each piece of litter rather than a single fine for a single littering incident.
 
 ## Fox Hunting
 
