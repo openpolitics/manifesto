@@ -21,6 +21,12 @@ All primary school children will receive free school meals, removing the stigma 
 ## School Uniform
 Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
 
+We will de-segregate school uniforms in an official and legal capacity. Though schools must not discriminate based on gender identity under the Equality Act 2010, and there have been initiatives by the Department of Education to promote the gender-neutralisation of uniform, this has not been mandated, and thus, has not been implemented in many schools. We would require schools to allow any accepted set of uniform to be worn by someone of any gender identity or sex and would disallow discrimination based on this.
+
+We will make it illegal or otherwise prohibited for schools to set uniform regulations on hair length, piercings, hair accessories, other forms of bodily accessory (such as watches or bracelets), and hair colour. Though this may be a concern for many parents, in practice, students care less about the haircut, hair bow, hair colour, or nose ring of the kid sat next to them, and more about what game they're going to play after school, the football match the previous night, or, for example, the impending doom of their respective exams. Caveats will be made to ensure practicality in the classroom.
+
+In line with the above policy, expressions of morphological freedom will be protected, including imitations of such changes, though caveats will be added for practicality. For example, if a student were to enter the class wearing cat ears attached to their hair, this would be protected, however they may then be required to sit at the back or side of a classroom, to ensure that said ears do not interfere with the classes view of a whiteboard.
+
 ## State funded, state run
 We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 
