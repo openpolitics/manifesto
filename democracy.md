@@ -135,3 +135,9 @@ To dampen the influence of the City of London in the legislative process, we wil
 
 ##  MPs for overseas constituencies
 Introduce regional representation for overseas citizens into the House of Commons. At least one MP per continent would be a great place to start and would help give a voice to the 8% of British citizens living overseas.
+
+##  Accountability of elected representatives
+
+Elected representatives at any level of government should be able to be recalled and replaced if needed. At the local level (Mayors and Councillors), 30% of any given constituency must have no confidence in their representatives ability to manage their constituency and represent the people of it, and sign a petition saying so. At the national level (the MPs of devolved entities, and, under the current system, MPs sitting in the Westminster Houses of Parliament) this number rises to 35% and at the Union/Federal level (Union/Federal MPs under the proposed STV system) this rises further to 40% but must be 40% of the people from the country which they represent.
+
+Once one of these things occurs, the necessary election arrangements will be made and there will be an election for that representatives position specifically, in which the same representative may run to be allowed to continue their role, regardless of the level of government.
