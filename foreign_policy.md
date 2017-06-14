@@ -35,7 +35,9 @@ EU citizens currently resident in the UK should have a guaranteed right to remai
 
 ## Arms Trading
 
-Commit to ensuring that no British-built arms are sold to nations that are likely to use those arms against their own people, or to any other agent or third party that may do so.
+Commit to ensuring that no arms built in the United Kingdom of Britain and Northern Ireland and no arms owned by the state at any level of governance (within the U.K.o.B.N.I. system of governance of the day); are sold to nations that are likely to use those arms against their own people, or use those arms to commit something that could be considered genocide under The Convention on the Prevention and Punishment of the Crime of Genocide [^genocide], or to any other agent or third party that may do so.
+
+[^genocide]: The text of The Convention on the Prevention and Punishment of the Crime of Genocide: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CrimeOfGenocide.aspx
 
 ## Nuclear Disarmament
 
