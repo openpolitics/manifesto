@@ -57,10 +57,6 @@ The target should be that at least 95% of residential buildings should have adeq
 
 Balloon release (even using supposedly biodegradable latex balloons) harms wildlife. Sky (or "Chinese") lanterns start fires. We will seek to have both made illegal, and to have that law enforced.
 
-##Litter
-
-A minimum £20 on the spot fine will be enforced nationally by local authorities and police for littering. £20 will be for each piece of litter rather than a single fine for a single littering incident.
-
 ## Fox Hunting
 
 Hunting with foxes is cruel and barbaric and opposed by 85% of the public[^fox-hunting]. We will resist any attempt to reverse the fox hunting ban.
