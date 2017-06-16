@@ -22,7 +22,7 @@ All primary school children will receive free school meals, removing the stigma 
 Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
 
 ## State funded, state run
-We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
+We will end academisation and the funding of free schools, and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 
 Academy sponsors will be compensated for any land or property used for educational purposes at market rates, except where that land or property was gifted, or sold at below market rates, to them by any tier of government or government agency.
 
