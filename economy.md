@@ -107,6 +107,12 @@ All public sector organisations will have to use open source software and servic
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
 
+Actively facilitate wider use of Bitcoin and other cryptocurrencies to create greater heterogeneity in monetary supply and therefore greater resilience to future financial crises.
+
+Encourage development of local/regional currencies to reduce food miles, stimulate local economies, create greater transparency between producer and consumer; and encourage greater sense of community.
+
+Potentially facilitate mechanisms to link the aforementioned cryptocurrencies and local currencies so that economic gains in one local currency can readily be used in  another area too. Thereby creating significant parts of the economy that run in parallel but importantly would be isolated from contagion of any toxic financial products created in the mainstream banking sector.
+
 ## Land Ownership
 
 Follow recommendations regarding transparency in the [Lyons Housing Review](http://www.yourbritain.org.uk/uploads/editor/files/The_Lyons_Housing_Review_2.pdf) - "To ensure greater transparency in the land market, the Land Registry should open up land ownership
