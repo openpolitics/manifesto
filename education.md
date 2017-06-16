@@ -6,6 +6,12 @@ We believe that education is the keystone that makes all other longer-term strat
 
 ## Funding
 
+Our schools must be funded properly. We will halt any planned school funding cuts, and introduce a so-called triple lock for investment in state schools, where their annual funding must increase at least at whichever is greater of:
+
+* the rate of inflation
+* average wages
+* 2.5%
+
 Funding for Sure Start children's centres is to be restored, and any closed children's centres are to be reopened.
 
 Education should be freely available to all to first degree level or equivalent. Tuition fees for university students should be abolished, as university education is of general benefit to society, and should be covered by general taxation.
@@ -16,7 +22,7 @@ All primary school children will receive free school meals, removing the stigma 
 Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
 
 ## State funded, state run
-We will end academisation and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
+We will end academisation and the funding of free schools, and return all state-funded schools to Local Education Authority (LEA) ownership and control. No school will be permitted to be state-funded without being under the ownership and control of the LEA.
 
 Academy sponsors will be compensated for any land or property used for educational purposes at market rates, except where that land or property was gifted, or sold at below market rates, to them by any tier of government or government agency.
 
@@ -39,6 +45,10 @@ State-funded faith schools will also lose their exemption to equalities legislat
 Religious education (R.E.) will be replaced by Philosophy and Comparative Religion, and content in other subjects that is based on religious beliefs which are divisive (such as homosexuality) or not scientifically valid (such as creationism) will not be allowed.
 
 Scottish authorities will no longer be legally obligated to appoint unelected religious representatives to school boards. Instead, elected councillors will be appointed by a vote of the full council.
+
+## Private Schools
+
+We will remove the charitable status from private schools, and make fees subject to VAT, as private schooling is most certainly a luxury.
 
 ## Discrimination in Physical Education
 

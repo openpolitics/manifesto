@@ -14,9 +14,11 @@ We believe that government should be:
 
 We believe that individuals should:
 
-* Be treated equally by the law, regardless of gender identity, sex, romantic orientation, sexual orientation, ethnicity, race, perceived ethnicity and/or race, age, religious and/or spiritual belief, occupation (current or previous), status of union membership (including the type of union and what union), marital status, or disability.
+* Be treated equally by the law, without discrimination[^discrimination], and be entitled to equal protection of the law.
 * Be free to act in any manner that does not harm another individual, and does not infringe upon the rights of other individuals.
 * Enjoy a fundamental right to privacy from the state or their agents.
+
+[^discrimination]: On the basis of gender identity, disability, sex, romantic orientation, sexual orientation, ethnicity, race, perceived ethnicity and/or race, age, religious and/or spiritual belief, occupation, union membership, marital status, or any other status based on the group, class, or category to which a person is perceived to belong.
 
 In short, we wish to ensure government remains open and transparent, whilst individuals retain liberty and privacy.
 

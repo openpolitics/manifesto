@@ -16,7 +16,9 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage (currently £14,458.50 based on 252 working days of 7.5 hours per day at £7.65), and automatically adjusted in line with that figure.
+The minimum wage should be set to the same value as the living wage[^living-wage], and should be automatically adjusted in line with that figure.
+
+[^living-wage]: As of May 2017: £15,970.50 (£8.45 per hour) outside London,  £18,427.50 (£9.75 per hour) in London. Based on 252 working days of 7.5 hours each.
 
 ## Taxation
 
@@ -25,6 +27,8 @@ We must improve fairness in the tax system by closing tax evasion loopholes and 
 Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
 
 As a general rule of thumb, tax policy should focus on simple direct taxation (such as income tax, corporation tax and land value tax) for the bulk of revenue raising, and use minimal indirect taxes to discourage certain activities (such as fossil fuel use, drug use, and so on).
+
+Enable greater decentralisation of taxation by enabling local authorities to set tax rates according to local needs, keep those revenues and spend them according to local need. 
 
 ### Income Tax
 
@@ -37,6 +41,12 @@ The rate of Asset Tax for individuals will be harmonised with the rate of tax on
 ### Replacement of VAT with a Luxury Goods Tax
 
 All goods categorised as non-critical, non-staple and non-utilitarian will incur a luxury goods tax. All other goods are to receive exemptions. For example: beer, chocolate, furniture, basic data retrieval and internet services, etc will be exempt from Luxury Goods Tax. However for the purposes of this tax, tobacco & modes of transportation shall be categorised as luxury goods.
+
+#### Remove Tampon Tax
+
+Tampons and other basic hygiene products[^hygiene-products] should not be considered luxury items for tax purposes and should not be subject to VAT, in the interests of public health.
+
+[^hygiene-products]: e.g. toilet paper, soap, shampoo, toothbrushes, toothpaste, and perhaps deodorant.
 
 ### Financial Transaction Tax
 
@@ -82,6 +92,12 @@ All private companies who receive public money must be subject to the same trans
 
 [^secret-contracts]: *"Stop Secret Contracts"*: [http://stopsecretcontracts.org/](http://stopsecretcontracts.org/)
 
+Stimulate innovation on the demand side by requiring that 5% of Government Procurement comes from companies meeting 2 of the following 3 criteria:
+
+  * Fewer than 20 employees
+  * Established within the last 3 years
+  * A spin-out of UK University technology
+
 ## Public Sector
 
 In order to stimulate adoption of the living wage, and act as a good example, all public sector organisations and [National Infrastructure Organisations](infrastructure.html) will be required to pay employees at least a living wage.
@@ -91,6 +107,12 @@ All public sector organisations will have to use open source software and servic
 ## P2P Open Source Currency and role of Central Bank?
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
+
+Actively facilitate wider use of Bitcoin and other cryptocurrencies to create greater heterogeneity in monetary supply and therefore greater resilience to future financial crises.
+
+Encourage development of local/regional currencies to reduce food miles, stimulate local economies, create greater transparency between producer and consumer; and encourage greater sense of community.
+
+Potentially facilitate mechanisms to link the aforementioned cryptocurrencies and local currencies so that economic gains in one local currency can readily be used in  another area too. Thereby creating significant parts of the economy that run in parallel but importantly would be isolated from contagion of any toxic financial products created in the mainstream banking sector.
 
 ## Land Ownership
 
