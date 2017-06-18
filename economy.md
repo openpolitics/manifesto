@@ -30,6 +30,10 @@ As a general rule of thumb, tax policy should focus on simple direct taxation (s
 
 Enable greater decentralisation of taxation by enabling local authorities to set tax rates according to local needs, keep those revenues and spend them according to local need. 
 
+### Offshore Assets Tax
+
+We will implement an Offshore Assets Tax, so that companies operating here but whose head offices remain in other countries such as Ireland, Luxembourg, etc will still pay taxes based upon the assets they hold abroad.
+
 ### Income Tax
 
 The personal income tax allowance will be set at the level of a full time living wage and will rise in line with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
