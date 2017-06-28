@@ -28,12 +28,6 @@ We will empower the SIA regulatory body to regulate private military and securit
 
 We will push for an international regulatory body and statutes for PMSCs around the world, possibly administered through the UN. The international body could potentially incorporate both the [Montreux Document](https://www.globalpolicy.org/images/pdfs/0917montreuxdocument.pdf) and the [International Code of Conduct for Private Security Service Providers](http://icoca.ch/sites/all/themes/icoca/assets/icoc_english3.pdf).
 
-## Proprietary Test Facilities
-
-We will ask all companies contracted to operate Ministry of Defence sites to separate their testing and evaluation businesses from their civil and military training businesses. 
-
-Contracts for MoD test facilities will then be allowed to expire and all weapons test grounds will return to public ownership, allowing weapons to be assessed based on their merits rather than profit incentive.
-
 ## Autonomous Weapon Systems
 
 We will petition the UN and other international bodies to create an amendment to the Geneva Convention banning the development and use of electrical autonomously discharged weapon systems, ensuring that "who pulls the trigger" is entrusted solely to human oversight.
