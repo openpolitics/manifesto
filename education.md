@@ -54,7 +54,7 @@ Scottish authorities will no longer be legally obligated to appoint unelected re
 
 ## Private Schools
 
-We will remove the charitable status from private schools, and make fees subject to VAT, as private schooling is most certainly a luxury.
+Every paid-for student must in turn completely cover the bursary of a poor student, and in so doing maintain the anonymity of their benefactors. Thusly the ratio of rich to poor students in all private schools, shall be 50:50.
 
 ## Discrimination in Physical Education
 
