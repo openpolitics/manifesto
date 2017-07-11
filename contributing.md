@@ -9,7 +9,7 @@ This project is an open collaborative space, based on open source principles. Th
 
 ## Code of Conduct
 
-Firstly, this project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of fostering an open and welcoming environment, we as [contributors](https://votebot.openpolitics.org.uk/users) and [maintainers](https://github.com/orgs/openpolitics/teams/core) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](CODE_OF_CONDUCT.html) for the full policy, and to see what is expected of you as a contributor.
+Firstly, this project has a [code of conduct](CODE_OF_CONDUCT.md). In the interest of fostering an open and welcoming environment, we as [contributors](https://votebot.openpolitics.org.uk/users) and [maintainers](https://github.com/orgs/openpolitics/teams/core) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](CODE_OF_CONDUCT.md) for the full policy, and to see what is expected of you as a contributor.
 
 ## The Rules
 
