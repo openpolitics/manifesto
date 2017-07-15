@@ -19,7 +19,7 @@ Education should be freely available to all to first degree level or equivalent.
 All primary school children will receive free school meals, removing the stigma around only poorer children receiving free meals, and helping to ensure all primary age children are receiving at least one nutritional meal each day.
 
 ## School Uniform
-Individual school uniforms for every school will be replaced with a single national uniform, provided by the local education authority to every pupil at no cost.
+We believe school uniforms should be free, to help poorer families and reduce stigma. To achieve this we will replace individual school uniforms for every school with a single national uniform, provided by the local education authority to every pupil at no cost.
 
 We will de-segregate school uniforms in an official and legal capacity. Though schools must not discriminate based on gender identity under the Equality Act 2010, and there have been initiatives by the Department of Education to promote the gender-neutralisation of uniform, this has not been mandated, and thus, has not been implemented in many schools. We would require schools to allow any accepted set of uniform to be worn by someone of any gender identity or sex and would disallow discrimination based on this.
 
