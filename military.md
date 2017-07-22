@@ -24,14 +24,10 @@ Reviews of defence budgets will be tied to a review of commitments, not just exp
 
 ## Private Military and Security Companies
 
-We will establish a regulatory body for private military and security companies (PMSC) registered in the UK. All PMSCs will be required to register with this body and they will then either receive approval to operate as a PMSC or not. PMSCs will have to seek approval with the regulatory body before accepting operational deployments. A list of private military contractors that are missing or killed whilst in the service of these PMSCs will also be collated and published annually.
+We will empower the SIA regulatory body to regulate private military and security companies (PMSCs) registered in the UK. All PMSCs will be required to register with this body, and they will then either receive approval to operate as a PMSC or not. PMSCs will have to seek approval with the regulatory body before accepting operational deployments. All approved operations will be a matter of public record, the full details of which will be published within 3 years. A list of private military contractors that are missing or killed whilst in the service of these PMSCs will also be collated and published quarterly.
 
 We will push for an international regulatory body and statutes for PMSCs around the world, possibly administered through the UN. The international body could potentially incorporate both the [Montreux Document](https://www.globalpolicy.org/images/pdfs/0917montreuxdocument.pdf) and the [International Code of Conduct for Private Security Service Providers](http://icoca.ch/sites/all/themes/icoca/assets/icoc_english3.pdf).
 
-## Lethal Autonomous Weapon Systems
+## Autonomous Weapon Systems
 
-Giving machines the power to decide who lives and dies on the battlefield is an unacceptable and dangerous application of modern technology[^killer-robots]. Development of lethal autonomous weapon systems will be made illegal in the UK.
-
-We will lead the UN and other international bodies to create an international treaty, similar to the Geneva Convention, banning the development and use of lethal autonomous weapon systems.
-
-[^killer-robots]: Campaign to stop killer robots: [http://www.stopkillerrobots.org/the-solution/](http://www.stopkillerrobots.org/the-solution/)
+We will petition the UN and other international bodies to create an amendment to the Geneva Convention banning the development and use of electrical autonomously discharged weapon systems, ensuring that "who pulls the trigger" is entrusted solely to human oversight.
