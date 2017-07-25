@@ -35,3 +35,7 @@ Giving machines the power to decide who lives and dies on the battlefield is an 
 We will lead the UN and other international bodies to create an international treaty, similar to the Geneva Convention, banning the development and use of lethal autonomous weapon systems.
 
 [^killer-robots]: Campaign to stop killer robots: [http://www.stopkillerrobots.org/the-solution/](http://www.stopkillerrobots.org/the-solution/)
+
+## Soldier Welfare
+
+Military re-organisation will involve a shift in working patterns and contracts. To support soldiers during the transition, we will establish Military Innovation Centres to assist former military personnel, nuclear weapons specialists, and other armed forces contractors to utilise their skills and talents in the private sector through starting up their own businesses. If this proves uneconomical, funding will be made available to allow personnel to utilise University Innovation Centres which have a similar purpose. 
