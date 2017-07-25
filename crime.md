@@ -2,6 +2,10 @@
 title: "Crime &amp; Justice"
 ---
 
+## Violent Crime
+
+In every corner of the country we see repeat offenders going in and out of prison, receiving little punishment and becoming emboldened by their knowledge of the system. We propose a three strike action for violent criminals who have caused serious risk to life on three occasions. They would receive life imprisonment. Currently, crime is under reported due to a very small number of Violent Criminals who are well known to residents and Police, which undermines the values of the majority of the population. We will support the right to defend yourself from the results of Violent Crime,
+
 ## Capital Punishment
 
 We are opposed to the death penalty for all crimes, and would vote against any attempt to reintroduce it. We will also lobby internationally to stop the death penalty in other countries.
