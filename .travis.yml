@@ -1,3 +1,4 @@
+---
 language: ruby
 rvm:
 - 2.4.1
@@ -8,3 +9,13 @@ addons:
     packages:
     - aspell
     - aspell-en
+env:
+- TASK='jekyll:check'
+- TASK='jekyll:check_external_links'
+- TASK='spellcheck'
+matrix:
+  fast_finish: true
+  allow_failures:
+  - env: TASK='jekyll:check_external_links'
+  - env: TASK='spellcheck'
+script: bundle exec rake $TASK
