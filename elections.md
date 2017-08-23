@@ -38,6 +38,10 @@ Prospective candidates must have a good connection with the constituency or ward
 
 We will end the practice of the speaker's constituents being denied representation and a lack of choice in elections. The positions of speaker and deputy speaker will not be filled by MPs, they will be jobs advertised, filled and salaried just like any other.
 
+#**Limited Term in Ofiice**#
+
+All elected representatives will serve no more than two terms and may not stand for re-election for ten years after the dissolution of the last parliament they serve in.
+
 ## Campaigning
 
 Constituency offices of MPs, which quite rightly are publicly funded, should be solely for the use of casework officers, diary assistants etc to assist the MP in dealing with constituency issues. They should not be used for campaigning purposes or for locating agents, campaign managers, or other party officials, and thereby giving a publicly funded electoral advantage to incumbents over challengers.  
