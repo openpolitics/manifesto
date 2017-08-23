@@ -1,4 +1,4 @@
----
+Re ##War on Sex. I would like to suggest that the Ted Speaker, Juno Mac, a Sex Worker and member of the English Prostitutes Collective who gave in her talk the way forward for the Criminal Justice should go (there is a transcript of the talk) in respect of the Sex Industry. I think it is worth a look.---
 title: "Crime &amp; Justice"
 ---
 
