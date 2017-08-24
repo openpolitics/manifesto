@@ -62,6 +62,10 @@ In parallel, work at an international level to get rid of tax havens outside Bri
 
 As more jobs, both skilled and unskilled, become automated we will introduce a [universal basic income](https://en.wikipedia.org/wiki/Basic_income), with the aim of eradicating poverty and providing a basic standard of living for all in a future where permanent employment is less necessary. In the near term, we will support research into such a scheme and its effects on society and the economy, and run pilot projects similar to those [taking place in other countries](https://en.wikipedia.org/wiki/Basic_income_pilots).
 
+## Means Testing
+
+Reduce or, if possible, elliminate the use of means testing to allocate additional resources to the public, as it is recognised as an unfair method of making wealth decisions. For example, not giving additional resources to somebody just above a means-tested boundary can make them worse off than somebody below, who receives that resource.
+
 ## Housing
 
 Improve rental rights, such that residential tenants cannot be evicted if they are paying market rate rent and have not damaged the property. Create a general principle that for tenants a property is their home and core to their life, whereas for landlords it is but a piece of property and simply a financial asset.
