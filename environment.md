@@ -34,6 +34,11 @@ We will campaign within the EU for reform of the [EU Emissions Trading Scheme](h
 
 We will push for increased climate action and leadership within all international organisations, such as the EU and UN.
 
+## Flooding
+We will ban building on floodplains unless the properties are designed with integrated flood protection systems that offer improved protection to not just the new builds, but existing properties in the area.
+
+We will ensure that any individual insurance payouts due to flood damage will be used for changes to the property that ensure any future flooding to said property has a negligable impact.
+
 ## Home Insulation
 
 It's widely acknowledged that insulation (e.g. cavity wall or loft) is the biggest, quickest way of improving the energy efficiency of the nation's housing stock.
