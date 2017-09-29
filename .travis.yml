@@ -9,6 +9,7 @@ addons:
     packages:
     - aspell
     - aspell-en
+    - libcurl4-openssl-dev
 env:
 - TASK='jekyll:check'
 - TASK='jekyll:check_external_links'
