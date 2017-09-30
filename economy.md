@@ -1,4 +1,4 @@
----
+Legislate for a new alternative economic framework that is integrated with the tax and benefit system so that poverty, zero hour contracts and the excessive interest charged by loan companies is eliminated. ---
 title: Economy
 ---
 
