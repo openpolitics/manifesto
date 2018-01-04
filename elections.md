@@ -24,6 +24,9 @@ The Electoral Commission and local authorities will be given a new duty to ensur
 
 We will end the process of "[co-option](https://en.wikipedia.org/wiki/Co-option)" whereby, if there is a vacancy on a local council, a number of electors must call for an election for one to be held. If there are no calls for an election a new councillor is "co-opted" (chosen by the existing councillors) as a replacement. Instead, if a vacancy arises, the returning officer must always arrange a by-election within 28 days of the vacancy arising.
 
+Introduce a term limit system for both parliament members and prime ministers.
+The limit applied for prime ministers shall be two terms, and for parliament member four, and in order to be able to run for each position again there must be a two terms break, for example if the four term time period ended in 2017, the public representative must postpone his/hers governmental activity (Excluding private actions, such as supporting a cause outside of a governmental role) Up until  2025.
+
 ## Recall of Representatives
 
 Allow for full and proper recall of MPs: any e-petition to recall their MP supported by 20% of all registered constituency electors should trigger a local referendum (yes/no majority vote required) as to whether to hold a fresh by-election.
