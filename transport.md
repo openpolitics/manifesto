@@ -8,7 +8,7 @@ No road vehicle powered solely from the use of a petrol or diesel engine may be 
 
 ## Taxi Services
 
-We will incentivise taxi companies to buy taxis with lower or zero carbon emissions via tax reductions on the company's profits, scaled in a carbon brackets system that takes business size, current carbon output, carbon reductions made within the year, and the starting point for having entered the scheme into account.
+We will incentivise taxi companies to buy taxis with lower or zero carbon emissions via tax reductions on the company's profits, scaled in a carbon-bracket system that takes business size, current carbon output, carbon reductions made within the year, and the starting point for having entered the scheme into account.
 
 We will gather this data via mandating monthly inventory and accounts logging for businesses that enter the scheme, and by conducting random checks on the various businesses. This scheme would not be mandatory for business to enter into, but would allow them to openly publicize that they had joined the scheme as a means of marketing their business.
 
