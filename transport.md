@@ -4,29 +4,39 @@ title: Transport
 
 ## Removal of Fossil Fuels
 
-No new fossil-fuel powered vehicles may be sold in the UK after 2029.
+No road vehicle powered solely from the use of a petrol or diesel engine may be bought, sold in or imported into the UK bearing a date of manufacture later than the year 2029.
 
 ## Taxi Services
 
 We will incentivise taxi companies to buy taxis with lower carbon emissions and none, via tax reductions on the company profits, scaled in a bracket system that takes business size, current carbon output, the carbon reductions made within the year, and the starting point when the entering the scheme into account when calculating the tax reduction. We will gather this data via mandating monthly inventory and accounts logging for businesses that enter the scheme, and by conducting random checks on the various businesses. This scheme would not be mandatory for business to enter into, but would allow them to openly publicize that they had joined the scheme as a means of marketing their business.
 
-## Scrap Vehicle Excise Duty
+## Replacement of Vehicle Excise Duty and Electric Vehicle Exemptions
 
-As Vehicle Excise Duty is associated with vehicle emissions, it seems fairer to tax
-the fuel directly. VED should be scrapped, and fuel duty increased to cover the reduction
-in income. Overall, the tax levied should be lower, due to the removal of the need to administer
-VED, though the tax will fall more heavily on those who use more fuel, and thus create more
-carbon emissions.
+'Vehicle Excise Duty' and 'Fuel Duty' will be replaced with an 'Emissions Tax' and 'Road Strengthening Tax' respectively. A 'Traffic Improvement Tax' will additionally be collected within the "luxury" segment of the transport industry.
+
+An 'Emissions Tax' will be applied at a flat rate at the pumps, and will be based upon typical combustion values in the UK and upon the estimated environmental impact that these gases create.
+
+A 'Road Strengthening Tax' will be applied at a variable rate to vehicles licensed to drive on public roads, and will be based on power output (specifically; "the maximum continuous output obtainable by the main driving motor").
+
+Subsequently, hybrid cars (such as [this one](https://carnewschina.com/2017/02/21/byd-launches-the-tang-100-hybrid-super-suv-in-china/)) will be taxed according to their single most powerful motor rather than for every motor's sum total within a vehicle.
+
+A 'Traffic Improvement Tax' will be applied to all vehicles with an initial purchase price greater than £40,000.
+
+Electric-only vehicles will be exempt from the taxes detailed here until such a time as their adoption becomes widespread.
+
+What this should do is bring the cost of fuel down, while however unfortunately bringing the cost of "road tax" up. This could lead to greater evasion and therefore decreased government transport revenue.
+
+The advantage though is that families who could not afford to buy fuel for heating, cooking or travel before would see the cost of fuel come down; as Fuel Duty, a regressive form of taxation (renamed to Emissions Tax), would be reduced.
 
 ## National Infrastructure Organisations
 
 Network Rail, the Highways Agency, train operating companies and bus operating companies would all be required to become [National Infrastructure Organisations (NIOs)](infrastructure.html) under a policy to ensure that infrastructure which is essential to a functioning society is not solely operated for the benefit of private shareholders, but in the national interest.
 
-## End UK airport expansion
+## End UK Airport Expansion
 
 Until the aviation industry is carbon neutral, there will be no further expansions (such as new runways or terminals) of any UK airports, and capacity shall be capped at roughly current levels.
 
-## Get rid of Nude Body Scanners
+## Get Rid of Nude Body Scanners
 
 We believe that other technologies and solutions exist that are able to better serve transport authorities in carrying out their responsibility in the interests of airport and national security.
 
@@ -72,6 +82,6 @@ Investigate feasibility of building a high speed rail network that connects our 
 
 Examine which areas of the United Kingdom were most detrimentally affected by the changes in the [Beeching Reports](https://en.wikipedia.org/wiki/Beeching_cuts), and whether it would be economically feasible to bring back any formerly established railways.
 
-## Bus
+## Buses
 
 Promote efficient use of road space in towns and cities by allocating road space to bus lanes, encouraging the creation of a network of frequent bus routes.
