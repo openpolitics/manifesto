@@ -8,13 +8,13 @@ No road vehicle powered solely from the use of a petrol or diesel engine may be 
 
 ## Taxi Services
 
-We will incentivise taxi companies to buy taxis with lower carbon emissions and none, via tax reductions on the company profits, scaled in a bracket system that takes business size, current carbon output, the carbon reductions made within the year, and the starting point when the entering the scheme into account when calculating the tax reduction. We will gather this data via mandating monthly inventory and accounts logging for businesses that enter the scheme, and by conducting random checks on the various businesses. This scheme would not be mandatory for business to enter into, but would allow them to openly publicize that they had joined the scheme as a means of marketing their business.
+We will incentivise taxi companies to buy taxis with lower carbon emissions and none, via tax reductions on the company profits, scaled in a bracket system that takes business size, current carbon output, the carbon reductions made within the year, and the starting point when the entering the scheme into account when calculating the tax reduction. We will gather this data via mandating monthly inventory and accounts logging for businesses that enter the scheme, and by conducting random checks on the various businesses. This scheme would not be mandatory for business to enter into, but would allow them to openly publicise that they had joined the scheme as a means of marketing their business.
 
 ## Replacement of Vehicle Excise Duty and Electric Vehicle Exemptions
 
 'Vehicle Excise Duty' and 'Fuel Duty' will be replaced with an 'Emissions Tax' and 'Road Strengthening Tax' respectively. A 'Traffic Improvement Tax' will additionally be collected within the "luxury" segment of the transport industry.
 
-An 'Emissions Tax' will be applied at a flat rate at the pumps, and will be based on typical combustion values in the UK and upon the estimated environmental impact that these gases create.
+An 'Emissions Tax' will be applied at a flat rate at the pumps, and will be based upon typical combustion values in the UK and upon the estimated environmental impact that these gases create.
 
 A 'Road Strengthening Tax' will be applied at a variable rate to vehicles licensed to drive on public roads, and will be based on power output (specifically; "the maximum continuous output obtainable by the main driving motor").
 
