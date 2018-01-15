@@ -18,7 +18,7 @@ An 'Emissions Tax' will be applied at a flat rate at the pumps, and will be base
 
 A 'Road Strengthening Tax' will be applied at a variable rate to vehicles licensed to drive on public roads, and will be based on power output (specifically; "the maximum continuous output obtainable by the main driving motor").
 
-Subsequently, hybrid cars (such as this one) will be taxed according to their single most powerful motor rather than for every motor's sum total within a vehicle.
+Subsequently, hybrid cars (such as [(this one) https://carnewschina.com/2017/02/21/byd-launches-the-tang-100-hybrid-super-suv-in-china/]) will be taxed according to their single most powerful motor rather than for every motor's sum total within a vehicle.
 
 A 'Traffic Improvement Tax' will be applied to all vehicles with an initial purchase price greater than £40,000.
 
