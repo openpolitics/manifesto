@@ -103,7 +103,7 @@ Repeal existing exemptions from the FOIA that allow communications between other
 
 Adopt full disclosure of royal lobbying and influence, including disclosure of meetings between members of the royal family and ministers.
 
-## Republic
+## Republic - This will turn off people who otherwise agree with what you are trying to achieve. Elections for a ceremonial position are pointless and could result in election fatigue, low turn outs and a non serious candidate being elected. We have a long history as a monarchy  - suggest reduce the status of the monarch to the same as the ceremonial President. This will feel like continuity for older people and eliminate an unnecessary election.
 
 To become a truly democratic country, the UK should become a republic. As a long-term goal, the monarchy would be replaced with an elected President who will act as Head of State. We recommend the [model proposed by Republic](http://republic.org.uk/what-we-want/new-head-state).
 
