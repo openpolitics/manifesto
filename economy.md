@@ -16,41 +16,30 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage[^living-wage], and should be automatically adjusted in line with that figure.
+The minimum wage should be eliminated and replaced with Three Pillars of income support:
 
-[^living-wage]: As of May 2017: £15,970.50 (£8.45 per hour) outside London,  £18,427.50 (£9.75 per hour) in London. Based on 252 working days of 7.5 hours each.
+National Dividend (ND) - a payment to all citizen-residents, paid for by a tax on the commons
+
+National Income Supplement (NIS) - distributing all income taxes back to income earners, which would allow all income brackets to benefit from each others' success, and amplify their earnings (and underwrite labour costs to ensure full employment)
+
+Assisted Savings Program (ASP) - mandatory long-term savings/investment, and distributing all capital gains taxes to ASP accounts, ensuring savers benefit from each others' success, and amplify their savings
+
+Returning tax revenues to citizens through these programs is enabled by a shift to a form of Land Value Tax (called a ULT) for general revenues.
+
+https://newphysiocrats.org/platform/
 
 ## Taxation
 
-We must improve fairness in the tax system by closing tax evasion loopholes and reducing the gap between corporation tax and income tax.
+We must return income taxation revenues as cash payments through the Three Pillars and Sectoral Banks, to ensure that incomes rise together, and that wages are underwritten to maintain full employment, and to eliminate poverty. Main government expenditures should be funded through taxes on rents, such as land values, pollution, and special privileges (for example those which the financial sector holds), as well as a Progressive Consumption Tax. This would ensure fairness & proper compensation for the use of our natural and social resources, a stable revenue base, high economic growth, and a reversal of our current account deficit. Capital gains tax revenues would be injected back into the market by distributing these revenues across the entire populations' accounts based on their saving/investment contributions. This would encourage saving & investment while ensuring everyone has ample emergency and retirement savings, without the need for a bankrupt state pension system.
+https://newphysiocrats.org/platform/
 
-Tax laws and the tax system must be simplified. Much tax avoidance happens because the tax code is excessively complex and full of loopholes, so simplifying the system is a big step towards reducing avoidance.
+.
 
-As a general rule of thumb, tax policy should focus on simple direct taxation (such as income tax, corporation tax and land value tax) for the bulk of revenue raising, and use minimal indirect taxes to discourage certain activities (such as fossil fuel use, drug use, and so on).
-
-Enable greater decentralisation of taxation by enabling local authorities to set tax rates according to local needs, keep those revenues and spend them according to local need. 
-
-### Income Tax
-
-The personal income tax allowance will be set at the level of a full time living wage and will rise in line with the living wage. This means that someone working a normal full-time job at the minimum wage would not pay any income tax.
-
-Capital Gains Tax will be replaced by an Asset Tax, based on an annual self-assessment. It will apply to those whose assets amount to greater than £350,000. Debt, such as mortgages, will be offset against any assets and the remainder will be assessed as the taxable value of assets. This ensures those who accumulate wealth purely through accumulation of assets, rather than direct income, are contributing to the economy whilst avoiding an unnecessary burden on the average family.
-
-The rate of Asset Tax for individuals will be harmonised with the rate of tax on earned income, and all allowances for each will be pooled, in order to ensure that work is rewarded and incentivised to the same extent as investment.
-
-### Replacement of VAT with a Luxury Goods Tax
+### Replacement of VAT with a Progressive Consumption Tax
 
 All goods categorised as non-critical, non-staple and non-utilitarian will incur a luxury goods tax. All other goods are to receive exemptions. For example: beer, chocolate, furniture, basic data retrieval and internet services, etc will be exempt from Luxury Goods Tax. However for the purposes of this tax, tobacco & modes of transportation shall be categorised as luxury goods.
+https://www.cardin.senate.gov/pct-what-is
 
-#### Remove Tampon Tax
-
-Tampons and other basic hygiene products[^hygiene-products] should not be considered luxury items for tax purposes and should not be subject to VAT, in the interests of public health.
-
-[^hygiene-products]: e.g. toilet paper, soap, shampoo, toothbrushes, toothpaste, and perhaps deodorant.
-
-### Financial Transaction Tax
-
-Introduce a tax on financial speculation, commonly known as a "Robin Hood Tax". We will do this by joining the proposed [EU Financial Transaction Tax](https://en.wikipedia.org/wiki/European_Union_financial_transaction_tax) system, which is planned to start in 10 countries across Europe during 2016 (including France, Germany, Belgium, Italy, Spain and Estonia). We would also work with international organisations to broaden such a regime beyond the EU.
 
 ### Tax Havens
 
@@ -60,7 +49,8 @@ In parallel, work at an international level to get rid of tax havens outside Bri
 
 ## Basic Income
 
-As more jobs, both skilled and unskilled, become automated we will introduce a [universal basic income](https://en.wikipedia.org/wiki/Basic_income), with the aim of eradicating poverty and providing a basic standard of living for all in a future where permanent employment is less necessary. In the near term, we will support research into such a scheme and its effects on society and the economy, and run pilot projects similar to those [taking place in other countries](https://en.wikipedia.org/wiki/Basic_income_pilots).
+As more jobs, both skilled and unskilled, become automated we will introduce a [universal basic income](https://en.wikipedia.org/wiki/Basic_income), with the aim of eradicating poverty and providing a basic standard of living for all in a future where permanent employment is less necessary. A basic income would be implemented in the form of the Three Pillars system as described above.
+https://en.wikipedia.org/wiki/List_of_basic_income_models
 
 ## Housing
 
@@ -73,12 +63,9 @@ Adopt Land Value Taxation (LVT)[^lvt], a charge on the rental value of land not 
 [^lvt]: *"What is LVT?"*, Land Value Taxation Campaign: [http://www.landvaluetax.org/what-is-lvt/](http://www.landvaluetax.org/what-is-lvt/)
 [^lvt-england]: *"A Land Value Tax for England"*, Andy Wightman, March 2013: [http://www.andywightman.com/docs/LVT_england_final.pdf](http://www.andywightman.com/docs/LVT_england_final.pdf)
 [^lvt-scotland]: *"A Land Value Tax for Scotland"*, Andy Wightman, October 2010: [http://www.andywightman.com/docs/LVTREPORT.pdf](http://www.andywightman.com/docs/LVTREPORT.pdf)
+https://newphysiocrats.org/platform/
 
-## Business
 
-Personal income tax is calculated on income generated prior to expenses being deducted. But in business, corporation tax is calculated on any profit generated after expenses have been deducted from income. It is proposed that a study is conducted into the feasibility and fairness of calculating them both in the same way: either personal income tax being revised and only calculated after household costs have been deducted (i.e. taxing household surplus or amount put into savings rather than income), or corporation tax being calculated on the basis of revenue alone.
-
-Given that there is a current tax gap (between tax due and tax received by the exchequer) of [£120 billion](http://www.taxresearch.org.uk/Documents/FAQ1TaxGap.pdf), we propose the introduction of [country-by-country reporting](http://www.taxresearch.org.uk/Documents/CBC.pdf) and a [general anti-avoidance principle](http://www.taxresearch.org.uk/Blog/2012/06/20/why-we-need-a-genuine-general-anti-avoidance-principle-to-beat-tax-abuse-2/), in order to ensure that everyone living or doing business in the UK pays all the tax they owe.
 
 ## Metric System
 
@@ -104,7 +91,7 @@ In order to stimulate adoption of the living wage, and act as a good example, al
 
 All public sector organisations will have to use open source software and services where available. Proprietary software that is currently in use should be examined for open source alternatives. A timeline should be created and made public to show how and when the body will convert to this alternative in a reasonable period of time. This is to cut down on public sector costs and increase our society's participation in the open source culture.
 
-## P2P Open Source Currency and role of Central Bank?
+## P2P Open Source Currency and role of Central Bank
 
 We will instruct HM Treasury to produce a roadmap for the future of currency and the role of central banks in a world with non-state-issued digital currencies, such as Bitcoin.
 
@@ -122,3 +109,10 @@ requirement to register land option agreements, transactions and prices."
 
 ## Ownership
 When you buy something, it should be owned (not a license to use). A preventative measure to reduce risk of vendor lock-in and promote ability to fix and modify purchased products.
+
+## Licensing and Monopolies
+Rules must be implemented to streamline and minimize licensing, including occupational licensing, and reform the patent system, in a way which ensures that competition is maximized. Currently, corporations utilize licensing and special privileges to stifle competition and create oligopolies, which dramatically slows growth, lowers wages, and halts productivity gains. This must be urgently resolved.
+www.amazon.com/Captured-Economy-Powerful-Themselves-Inequality-ebook/dp/B075KJ1JFQ/
+
+## Anti-Corruption and Anti-Waste Measures
+A completely independent (arms-length from government) ministry must be created to audit the rest of government for waste, ineffectiveness, unnecessary red tape, and to tackle corruption. It should have the means to directly report to the public, and the use of specialized courts. All policy measures are ineffective if government institutions themselves are ineffective.
