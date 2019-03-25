@@ -4,7 +4,7 @@ title: Health
 
 ## The Right to Health
 
-Introduce a "right to health", which makes access to healthcare a basic right for any resident of the UK. The Government will have a duty to ensure that every resident has access to quality healthcare, independent of their financial circumstances.
+Introduce a "right to health", which makes access to healthcare a basic right for any resident of the UK. 
 
 ## Protect the National Health Service
 
