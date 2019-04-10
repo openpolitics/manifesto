@@ -16,9 +16,7 @@ The NIB will target particularly deprived or underfunded regions, and local auth
 
 ## Minimum Wage
 
-The minimum wage should be set to the same value as the living wage[^living-wage], and should be automatically adjusted in line with that figure.
-
-[^living-wage]: As of May 2017: £15,970.50 (£8.45 per hour) outside London,  £18,427.50 (£9.75 per hour) in London. Based on 252 working days of 7.5 hours each.
+The minimum wage should be replaced with [Three Pillars of Income Support](https://newphysiocrats.org/platform/) as advocated by the New Physiocratic League. By underwriting employment costs and guaranteeing income growth in all wage brackets, unemployment can be eliminated while simultaenously eliminating poverty.
 
 ## Taxation
 
