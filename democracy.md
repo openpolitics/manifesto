@@ -141,3 +141,19 @@ Introduce regional representation for overseas citizens into the House of Common
 Elected representatives at any level of government should be able to be recalled and replaced if needed. At the local level (Mayors and Councillors), 30% of any given constituency must have no confidence in their representatives ability to manage their constituency and represent the people of it, and sign a petition saying so. At the national level (the MPs of devolved entities, and, under the current system, MPs sitting in the Westminster Houses of Parliament) this number rises to 35% and at the Union/Federal level (Union/Federal MPs under the proposed STV system) this rises further to 40% but must be 40% of the people from the country which they represent.
 
 Once one of these things occurs, the necessary election arrangements will be made and there will be an election for that representatives position specifically, in which the same representative may run to be allowed to continue their role, regardless of the level of government.
+
+## Relocate Parliament
+Parliament will be moved permanently to modern purpose built campus in a more central location in the UK.
+
+Parliament's current location in the South East of England makes it too distant from much of the UK. Moving Parliament will make it easier for more of us to meet our representatives and engage directly with the democratic process.
+
+A completely new Parliamentary campus should include:
+
+- accommodation for MPs who need it
+- redesigned chambers to promote a more collaborative style of politics
+
+The Palace of Westminster is in need of extensive costly repair and MPs are already due to move out to temporary locations nearby while work is carried out. A permanent move to a location outside London presents immediate and ongoing opportunities for cost savings: 
+
+- no need for expensive temporary reproductions of the House of Commons and House of Lords
+- lower costs than central London development
+- enables the Palace of Westminster to be used for something else
