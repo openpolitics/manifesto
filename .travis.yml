@@ -1,7 +1,7 @@
 ---
 language: ruby
 rvm:
-- 2.4.2
+- 2.6.4
 sudo: false
 cache: bundler
 addons:
@@ -13,10 +13,10 @@ addons:
 env:
 - TASK='jekyll:check'
 - TASK='jekyll:check_external_links'
-- TASK='spellcheck'
+#- TASK='spellcheck'
 matrix:
   fast_finish: true
   allow_failures:
   - env: TASK='jekyll:check_external_links'
-  - env: TASK='spellcheck'
+#  - env: TASK='spellcheck'
 script: bundle exec rake $TASK

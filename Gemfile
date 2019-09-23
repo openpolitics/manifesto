@@ -1,10 +1,8 @@
 source 'https://rubygems.org'
 
-ruby "2.4.2"
-
 gem 'github-pages'
 
 group :test do
   gem 'jekyll-test'
-  gem 'mdspell'
+  #gem 'mdspell' # Removed for now as its deps are way out of date
 end
