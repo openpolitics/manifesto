@@ -54,6 +54,13 @@ To be an effective policy, it will also cover any organisation performing one of
 * operating public bus services
 
 
+### Nationalised software development
+The government should oversee a new software development arm, with a technologically adept minister overseeing it. This new nationalised company should be up-to-date with the latest technologies and practices in order to reduce the cost and delays frequently seen in government software projects.
+
+Company employees should be given paid training on new and emerging technologies in order to keep the company in line with current standards.
+
+
+
 ### A Compromise on Nationalisation
 
 NIOs are intended to provide the basic infrastructure that is essentially to a functioning society in a way that is protected from the volatility of shareholder whims. They provide the basics for innovators to provide services on top of, and without simply placing the entire service burden onto the state through nationalisation.
